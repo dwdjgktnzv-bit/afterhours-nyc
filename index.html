@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#12131c">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Afterhours">
+<link rel="manifest" href="manifest.json">
+<title>Afterhours NYC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: one-column phone app — sticky header with filter rails, then a day-grouped event list. Single deliberate night look. */
+:root {
+  padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px);
+  --ink: #12131c;
+  --panel: #1b1d2a;
+  --line: #2b2e40;
+  --text: #ecebf2;
+  --muted: #9a9cb3;
+  --sodium: #ff9a3c;       /* streetlight orange */
+  --sodium-ink: #1e1206;
+  --ra: #e8e8ee;
+  --dice: #8fb0ff;
+  --display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  color-scheme: dark;
+}
+[hidden] { display: none !important; }
+html, body { background: var(--ink); color: var(--text); }
+body { margin: 0; font-family: var(--body); font-size: 15px; line-height: 1.45; }
+.wrap { max-width: 560px; margin: 0 auto; padding-inline: 16px; padding-block: 0 48px; }
+
+header {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: color-mix(in srgb, var(--ink) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--line);
+  margin-inline: -16px; padding: 14px 16px 12px;
+  display: grid; gap: 10px;
+}
+.brand { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+h1 { font-family: var(--display); font-weight: 800; font-size: 34px; letter-spacing: .01em; margin: 0; line-height: 1; text-transform: uppercase; }
+h1 span { color: var(--sodium); }
+.updated { font-family: var(--mono); font-size: 11px; color: var(--muted); text-align: right; }
+
+.rail { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; }
+.rail::-webkit-scrollbar { display: none; }
+.chip {
+  flex: none; font: 500 13px var(--body); color: var(--text);
+  background: var(--panel); border: 1px solid var(--line); border-radius: 999px;
+  padding: 7px 14px; cursor: pointer;
+}
+.chip[aria-pressed="true"] { background: var(--sodium); color: var(--sodium-ink); border-color: var(--sodium); font-weight: 600; }
+.chip:focus-visible, .tix:focus-visible { outline: 2px solid var(--sodium); outline-offset: 2px; }
+
+.notice { margin-top: 14px; font-size: 13px; color: var(--muted); border: 1px dashed var(--line); border-radius: 10px; padding: 10px 12px; }
+.notice b { color: var(--text); font-weight: 600; }
+
+.day { margin-top: 22px; display: grid; gap: 10px; }
+.day h2 { font-family: var(--display); font-weight: 600; font-size: 20px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0; }
+.day h2 em { font-style: normal; color: var(--sodium); }
+
+.ev {
+  display: grid; grid-template-columns: 58px 1fr; gap: 12px;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px;
+}
+.time { font-family: var(--mono); font-size: 14px; color: var(--sodium); font-variant-numeric: tabular-nums; padding-top: 2px; }
+.time small { display: block; color: var(--muted); font-size: 11px; margin-top: 2px; }
+.info { min-width: 0; display: grid; gap: 4px; }
+.title { font-weight: 600; font-size: 16px; line-height: 1.25; }
+.lineup { color: var(--muted); font-size: 13px; }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-top: 4px; font-size: 13px; }
+.venue { color: var(--text); }
+.boro { color: var(--muted); }
+.src { font: 500 10px var(--mono); letter-spacing: .08em; text-transform: uppercase; border: 1px solid currentColor; border-radius: 4px; padding: 1px 5px; }
+.src { color: var(--muted); } .src.ra { color: var(--ra); } .src.dice { color: var(--dice); }
+.row { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 8px; }
+.price { font-family: var(--mono); font-size: 13px; color: var(--muted); }
+.tix { font: 600 13px var(--body); color: var(--sodium-ink); background: var(--sodium); border-radius: 8px; padding: 7px 14px; text-decoration: none; }
+
+.empty { margin-top: 40px; text-align: center; color: var(--muted); }
+@media (prefers-reduced-motion: no-preference) { .ev { transition: border-color .15s; } .ev:hover { border-color: var(--sodium); } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <h1>Afterhours <span>NYC</span></h1>
+      <div class="updated" id="updated"></div>
+    </div>
+    <div class="rail" role="group" aria-label="When">
+      <button class="chip" id="w-tonight" data-when="tonight" aria-pressed="true">Tonight</button>
+      <button class="chip" id="w-weekend" data-when="weekend" aria-pressed="false">This weekend</button>
+      <button class="chip" id="w-all" data-when="all" aria-pressed="false">Next 2 weeks</button>
+    </div>
+    <div class="rail" role="group" aria-label="Area">
+      <button class="chip" id="b-all" data-boro="all" aria-pressed="true">All areas</button>
+      <button class="chip" id="b-bk" data-boro="Brooklyn" aria-pressed="false">Brooklyn</button>
+      <button class="chip" id="b-qn" data-boro="Queens" aria-pressed="false">Queens</button>
+      <button class="chip" id="b-mn" data-boro="Manhattan" aria-pressed="false">Manhattan</button>
+    </div>
+  </header>
+
+  <p class="notice" id="notice" hidden></p>
+
+  <main id="list"></main>
+</div>
+
+<script>
+// Afterhours NYC — reads events.json (updated daily by Muse) and renders it.
+const DATA_URL = "events.json";
+
+let events = [];
+const state = { when: "tonight", boro: "all" };
+try { Object.assign(state, JSON.parse(localStorage.getItem("ah-filters") || "{}")); } catch (e) {}
+
+function dayKey(d) { return d.getFullYear() + "-" + d.getMonth() + "-" + d.getDate(); }
+function inWindow(ev) {
+  const s = new Date(ev.start), now = new Date();
+  const today = new Date(now); today.setHours(0,0,0,0);
+  if (state.when === "tonight") {           // starts today, or before 6am tomorrow
+    const end = new Date(today); end.setDate(end.getDate() + 1); end.setHours(6);
+    return s >= today && s < end;
+  }
+  if (state.when === "weekend") {           // Friday through Sunday night
+    const fri = new Date(today); const dow = today.getDay();
+    fri.setDate(today.getDate() + (dow === 0 ? -2 : dow === 6 ? -1 : 5 - dow));
+    const mon = new Date(fri); mon.setDate(fri.getDate() + 3); mon.setHours(8);
+    return s >= fri && s < mon && s >= today;
+  }
+  const end = new Date(today); end.setDate(end.getDate() + 14);
+  return s >= today && s < end;
+}
+function dayLabel(d) {
+  const t = new Date(); t.setHours(0,0,0,0);
+  const diff = Math.round((new Date(d).setHours(0,0,0,0) - t) / 864e5);
+  const date = d.toLocaleDateString("en-US", { weekday: "long", month: "short", day: "numeric" });
+  return diff === 0 ? "<em>Today</em> · " + date : diff === 1 ? "<em>Tomorrow</em> · " + date : date;
+}
+function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" })[c]); }
+function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : "#"; }
+const SOURCE_NAMES = { ra: "RA", dice: "Dice", eventbrite: "Eventbrite", shotgun: "Shotgun", axs: "AXS" };
+
+function render() {
+  document.querySelectorAll("[data-when]").forEach(b => b.setAttribute("aria-pressed", b.dataset.when === state.when));
+  document.querySelectorAll("[data-boro]").forEach(b => b.setAttribute("aria-pressed", b.dataset.boro === state.boro));
+  const list = events.filter(inWindow).filter(e => state.boro === "all" || e.area === state.boro)
+    .sort((a, b) => new Date(a.start) - new Date(b.start));
+  const el = document.getElementById("list");
+  if (!list.length) { el.innerHTML = '<p class="empty">No techno events match these filters. Try “Next 2 weeks” or “All areas”.</p>'; return; }
+  const groups = new Map();
+  for (const e of list) { const k = dayKey(new Date(e.start)); if (!groups.has(k)) groups.set(k, []); groups.get(k).push(e); }
+  el.innerHTML = [...groups.values()].map(g => `
+    <section class="day"><h2>${dayLabel(new Date(g[0].start))}</h2>
+    ${g.map(e => {
+      const time = new Date(e.start).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+      const src = String(e.source || "").toLowerCase();
+      return `<article class="ev">
+        <div class="time">${time.replace(" ", "")}<small>doors</small></div>
+        <div class="info">
+          <div class="title">${esc(e.title)}</div>
+          ${e.lineup ? `<div class="lineup">${esc(e.lineup)}</div>` : ""}
+          <div class="meta"><span class="venue">${esc(e.venue)}</span><span class="boro">${esc(e.area)}</span>
+            ${src ? `<span class="src ${esc(src)}">${esc(SOURCE_NAMES[src] || e.source)}</span>` : ""}</div>
+          <div class="row"><span class="price">${esc(e.price || "")}</span>
+            <a class="tix" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">Tickets</a></div>
+        </div></article>`;
+    }).join("")}</section>`).join("");
+}
+
+document.addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  if (b.dataset.when) state.when = b.dataset.when;
+  if (b.dataset.boro) state.boro = b.dataset.boro;
+  try { localStorage.setItem("ah-filters", JSON.stringify(state)); } catch (err) {}
+  render();
+});
+
+async function load() {
+  const notice = document.getElementById("notice");
+  try {
+    const r = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
+    if (r.status === 404) {   // Muse hasn't created events.json yet
+      notice.hidden = false; notice.innerHTML = "<b>No events yet.</b> They appear here after Muse's first daily update.";
+      render(); return;
+    }
+    const j = await r.json();
+    // Keep only events that have the fields the app needs
+    events = (j.events || []).filter(e => e && e.title && e.start && !isNaN(new Date(e.start)));
+    if (j.updatedAt) document.getElementById("updated").textContent =
+      "Updated " + new Date(j.updatedAt).toLocaleString("en-US", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+    if (j.example) { notice.hidden = false; notice.innerHTML = "<b>Example events.</b> These placeholders disappear once Muse writes the first real update."; }
+  } catch (e) {
+    notice.hidden = false; notice.innerHTML = "<b>Couldn't load events.</b> Check your connection and reopen the app.";
+  }
+  render();
+}
+load();
+</script>
+</body>
+</html>
