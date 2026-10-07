@@ -1,0 +1,83 @@
+{
+  "updatedAt": "2026-10-07T11:30:00-04:00",
+  "example": true,
+  "events": [
+    {
+      "id": "example-1",
+      "title": "Warehouse Sessions",
+      "lineup": "Example DJ A, Example DJ B (all night)",
+      "venue": "Nowadays",
+      "area": "Queens",
+      "start": "2026-10-07T22:00:00-04:00",
+      "source": "ra",
+      "price": "$25",
+      "url": "https://ra.co/events/us/newyork"
+    },
+    {
+      "id": "example-2",
+      "title": "Dub Techno Night",
+      "lineup": "Example DJ C b2b Example DJ D",
+      "venue": "Bossa Nova Civic Club",
+      "area": "Brooklyn",
+      "start": "2026-10-07T23:00:00-04:00",
+      "source": "dice",
+      "price": "$20",
+      "url": "https://dice.fm/"
+    },
+    {
+      "id": "example-3",
+      "title": "Hard Groove Club",
+      "lineup": "Example DJ E, Example DJ F",
+      "venue": "Elsewhere",
+      "area": "Brooklyn",
+      "start": "2026-10-09T23:00:00-04:00",
+      "source": "dice",
+      "price": "$28",
+      "url": "https://dice.fm/"
+    },
+    {
+      "id": "example-4",
+      "title": "Industrial Saturday",
+      "lineup": "Example Live Act, Example DJ G",
+      "venue": "Knockdown Center",
+      "area": "Queens",
+      "start": "2026-10-10T23:00:00-04:00",
+      "source": "ra",
+      "price": "$40",
+      "url": "https://ra.co/events/us/newyork"
+    },
+    {
+      "id": "example-5",
+      "title": "Rooftop Minimal",
+      "lineup": "Example DJ H",
+      "venue": "Le Bain",
+      "area": "Manhattan",
+      "start": "2026-10-10T22:00:00-04:00",
+      "source": "dice",
+      "price": "$35",
+      "url": "https://dice.fm/"
+    },
+    {
+      "id": "example-6",
+      "title": "Sunday Day Party",
+      "lineup": "Example DJ I, Example DJ J",
+      "venue": "Public Records",
+      "area": "Brooklyn",
+      "start": "2026-10-11T15:00:00-04:00",
+      "source": "ra",
+      "price": "$20",
+      "url": "https://ra.co/events/us/newyork"
+    },
+    {
+      "id": "example-7",
+      "title": "Big Room Techno",
+      "lineup": "Example DJ K, Example DJ L",
+      "venue": "Basement",
+      "area": "Queens",
+      "start": "2026-10-16T23:00:00-04:00",
+      "source": "ra",
+      "price": "$45",
+      "url": "https://ra.co/events/us/newyork"
+    }
+  ]
+}
