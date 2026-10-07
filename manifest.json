@@ -1,0 +1,8 @@
+{
+  "name": "Afterhours NYC",
+  "short_name": "Afterhours",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#12131c",
+  "theme_color": "#12131c"
+}
