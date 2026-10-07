@@ -12,11 +12,12 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
 <style>
-/* Layout: one-column phone app — sticky header with filter rails, then a day-grouped event list. Single deliberate night look. */
+/* Layout: one-column phone app — sticky header (search + filter rail), a quick-picks bar, then a day-grouped event list with artist profiles. Single deliberate night look. */
 :root {
   padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px);
   --ink: #12131c;
   --panel: #1b1d2a;
+  --panel-2: #232637;
   --line: #2b2e40;
   --text: #ecebf2;
   --muted: #9a9cb3;
@@ -47,18 +48,38 @@ h1 { font-family: var(--display); font-weight: 800; font-size: 34px; letter-spac
 h1 span { color: var(--sodium); }
 .updated { font-family: var(--mono); font-size: 11px; color: var(--muted); text-align: right; }
 
-.rail { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; }
+.search { position: relative; }
+.search input {
+  width: 100%; box-sizing: border-box; font: 400 16px var(--body); color: var(--text);
+  background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+  padding: 10px 38px 10px 36px; -webkit-appearance: none; appearance: none;
+}
+.search input::placeholder { color: var(--muted); }
+.search input:focus { outline: none; border-color: var(--sodium); }
+.search svg { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; stroke: var(--muted); fill: none; stroke-width: 2; pointer-events: none; }
+.search .clear { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); background: none; border: 0; color: var(--muted); font-size: 20px; line-height: 1; padding: 6px 8px; cursor: pointer; }
+
+.rail { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; align-items: center; }
 .rail::-webkit-scrollbar { display: none; }
+.rail .sep { flex: none; width: 1px; height: 20px; background: var(--line); margin-inline: 2px; }
 .chip {
   flex: none; font: 500 13px var(--body); color: var(--text);
   background: var(--panel); border: 1px solid var(--line); border-radius: 999px;
   padding: 7px 14px; cursor: pointer;
 }
 .chip[aria-pressed="true"] { background: var(--sodium); color: var(--sodium-ink); border-color: var(--sodium); font-weight: 600; }
-.chip:focus-visible, .tix:focus-visible { outline: 2px solid var(--sodium); outline-offset: 2px; }
+.chip:disabled { opacity: .45; cursor: default; }
+button:focus-visible, a:focus-visible { outline: 2px solid var(--sodium); outline-offset: 2px; }
+
+/* Quick picks: a segmented bar, set apart from the filter chips */
+.picks { margin-top: 14px; display: grid; grid-template-columns: repeat(4, 1fr); background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 3px; gap: 3px; }
+.pick { font: 600 12px var(--body); letter-spacing: .02em; color: var(--muted); background: none; border: 0; border-radius: 7px; padding: 8px 4px; cursor: pointer; }
+.pick[aria-pressed="true"] { background: var(--panel-2); color: var(--sodium); }
 
 .notice { margin-top: 14px; font-size: 13px; color: var(--muted); border: 1px dashed var(--line); border-radius: 10px; padding: 10px 12px; }
 .notice b { color: var(--text); font-weight: 600; }
+.status { margin-top: 12px; font-size: 13px; color: var(--muted); }
+.status b { color: var(--text); font-weight: 600; }
 
 .day { margin-top: 22px; display: grid; gap: 10px; }
 .day h2 { font-family: var(--display); font-weight: 600; font-size: 20px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0; }
@@ -68,16 +89,37 @@ h1 span { color: var(--sodium); }
   display: grid; grid-template-columns: 58px 1fr; gap: 12px;
   background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px;
 }
+.ev.top { border-color: color-mix(in srgb, var(--sodium) 45%, var(--line)); }
 .time { font-family: var(--mono); font-size: 14px; color: var(--sodium); font-variant-numeric: tabular-nums; padding-top: 2px; }
 .time small { display: block; color: var(--muted); font-size: 11px; margin-top: 2px; }
 .info { min-width: 0; display: grid; gap: 4px; }
 .title { font-weight: 600; font-size: 16px; line-height: 1.25; }
+.toppick { justify-self: start; font: 600 10px var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--sodium-ink); background: var(--sodium); border-radius: 4px; padding: 2px 6px; }
 .lineup { color: var(--muted); font-size: 13px; }
-.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-top: 4px; font-size: 13px; }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-top: 2px; font-size: 13px; }
 .venue { color: var(--text); }
 .boro { color: var(--muted); }
 .src { font: 500 10px var(--mono); letter-spacing: .08em; text-transform: uppercase; border: 1px solid currentColor; border-radius: 4px; padding: 1px 5px; }
 .src { color: var(--muted); } .src.ra { color: var(--ra); } .src.dice { color: var(--dice); }
+
+.artists { display: grid; gap: 10px; margin-top: 8px; padding-top: 10px; border-top: 1px solid var(--line); }
+.artist { display: grid; gap: 4px; min-width: 0; }
+.aname { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 8px; }
+.aname b { font-weight: 600; font-size: 14px; }
+.socials { display: flex; flex-wrap: wrap; gap: 6px; }
+.soc { display: inline-flex; align-items: center; gap: 5px; font: 500 12px var(--mono); color: var(--text); font-variant-numeric: tabular-nums;
+  background: var(--panel-2); border: 1px solid var(--line); border-radius: 6px; padding: 4px 8px; text-decoration: none; }
+a.soc:hover { border-color: var(--sodium); }
+.soc img { width: 14px; height: 14px; flex: none; object-fit: contain; }
+.tags { display: flex; flex-wrap: wrap; gap: 4px; }
+.tag { font-size: 11px; color: var(--text); background: var(--panel-2); border-radius: 999px; padding: 1px 8px; }
+.bio { margin: 0; font-size: 13px; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; cursor: pointer; }
+.bio.open { -webkit-line-clamp: unset; display: block; }
+details.more summary { font-size: 13px; color: var(--sodium); cursor: pointer; list-style: none; }
+details.more summary::-webkit-details-marker { display: none; }
+details.more[open] summary { margin-bottom: 10px; }
+details.more > .artist + .artist { margin-top: 10px; }
+
 .row { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 8px; }
 .price { font-family: var(--mono); font-size: 13px; color: var(--muted); }
 .tix { font: 600 13px var(--body); color: var(--sodium-ink); background: var(--sodium); border-radius: 8px; padding: 7px 14px; text-decoration: none; }
@@ -93,12 +135,16 @@ h1 span { color: var(--sodium); }
       <h1>Afterhours <span>NYC</span></h1>
       <div class="updated" id="updated"></div>
     </div>
-    <div class="rail" role="group" aria-label="When">
+    <div class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="M20 20l-4-4"></path></svg>
+      <input type="search" id="q" placeholder="Search artist, venue or genre" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="Search artist, venue or genre">
+      <button class="clear" id="clear" type="button" aria-label="Clear search" hidden>×</button>
+    </div>
+    <div class="rail" role="group" aria-label="When and where">
       <button class="chip" id="w-tonight" data-when="tonight" aria-pressed="true">Tonight</button>
       <button class="chip" id="w-weekend" data-when="weekend" aria-pressed="false">This weekend</button>
       <button class="chip" id="w-all" data-when="all" aria-pressed="false">Next 2 weeks</button>
-    </div>
-    <div class="rail" role="group" aria-label="Area">
+      <span class="sep" aria-hidden="true"></span>
       <button class="chip" id="b-all" data-boro="all" aria-pressed="true">All areas</button>
       <button class="chip" id="b-bk" data-boro="Brooklyn" aria-pressed="false">Brooklyn</button>
       <button class="chip" id="b-qn" data-boro="Queens" aria-pressed="false">Queens</button>
@@ -106,28 +152,121 @@ h1 span { color: var(--sodium); }
     </div>
   </header>
 
+  <div class="picks" role="group" aria-label="Quick picks">
+    <button class="pick" id="p-all" data-pick="all" aria-pressed="true">All events</button>
+    <button class="pick" id="p-top" data-pick="top" aria-pressed="false">Top picks</button>
+    <button class="pick" id="p-free" data-pick="free" aria-pressed="false">Free</button>
+    <button class="pick" id="p-30" data-pick="30" aria-pressed="false">Up to $30</button>
+  </div>
+
   <p class="notice" id="notice" hidden></p>
+  <p class="status" id="status" hidden></p>
 
   <main id="list"></main>
 </div>
 
 <script>
-// Afterhours NYC — reads events.json (updated daily by Muse) and renders it.
+// Afterhours NYC — reads events.json and artists.json (both updated daily by Muse) and renders them.
 const DATA_URL = "events.json";
+const ARTISTS_URL = "artists.json";
+const TOP_N = 10;
 
 let events = [];
-const state = { when: "tonight", boro: "all" };
-try { Object.assign(state, JSON.parse(localStorage.getItem("ah-filters") || "{}")); } catch (e) {}
+let artists = {};          // normalized name -> profile
+let topIds = new Set();
+const state = { when: "tonight", boro: "all", pick: "all", q: "" };
+try { const saved = JSON.parse(localStorage.getItem("ah-filters") || "{}"); delete saved.q; Object.assign(state, saved); } catch (e) {}
 
-function dayKey(d) { return d.getFullYear() + "-" + d.getMonth() + "-" + d.getDate(); }
-function inWindow(ev) {
+// ---------- text helpers ----------
+function norm(s) {
+  return String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
+    .replace(/&/g, " and ").replace(/[^a-z0-9$]+/g, " ").trim();
+}
+function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" })[c]); }
+function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : "#"; }
+function compact(n) {
+  if (!(n > 0)) return "";
+  if (n >= 1e6) return (n / 1e6).toFixed(n >= 1e7 ? 0 : 1).replace(/\.0$/, "") + "M";
+  if (n >= 1e3) return (n / 1e3).toFixed(n >= 1e4 ? 0 : 1).replace(/\.0$/, "") + "K";
+  return String(n);
+}
+// Edit distance, capped: returns early once it exceeds max
+function lev(a, b, max) {
+  if (Math.abs(a.length - b.length) > max) return max + 1;
+  let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 1; i <= a.length; i++) {
+    const cur = [i]; let best = i;
+    for (let j = 1; j <= b.length; j++) {
+      cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      if (cur[j] < best) best = cur[j];
+    }
+    if (best > max) return max + 1;
+    prev = cur;
+  }
+  return prev[b.length];
+}
+
+// ---------- data shaping ----------
+function eventArtists(e) {
+  if (Array.isArray(e.artists) && e.artists.length) return e.artists.map(String).filter(Boolean);
+  return String(e.lineup || "").split(/\s*(?:,|\bb2b\b|\bB2B\b|&|\+|\/)\s*/).map(s => s.replace(/\(.*?\)/g, "").trim()).filter(Boolean);
+}
+function profileFor(name) { return artists[norm(name)] || null; }
+function totalFollowers(p) {
+  if (!p) return 0;
+  if (typeof p.totalFollowers === "number") return p.totalFollowers;
+  const f = p.followers || {};
+  return ["instagram", "tiktok", "soundcloud", "spotify"].reduce((s, k) => s + (Number(f[k]) || 0), 0);
+}
+function priceValue(e) {
+  if (typeof e.priceMin === "number") return e.priceMin;
+  const p = String(e.price || "");
+  if (/free/i.test(p)) return 0;
+  const m = p.match(/\$\s*(\d+(?:\.\d+)?)/);
+  return m ? Number(m[1]) : null;
+}
+// Words and phrases search looks at: artist names, venue, genres
+function searchFields(e) {
+  const names = eventArtists(e);
+  const genres = [...(Array.isArray(e.genres) ? e.genres : [])];
+  for (const n of names) { const p = profileFor(n); if (p && Array.isArray(p.genres)) genres.push(...p.genres); }
+  return [...names, String(e.venue || ""), ...genres].map(norm).filter(Boolean);
+}
+function prepare() {
+  for (const e of events) {
+    e._artists = eventArtists(e);
+    e._score = e._artists.reduce((s, n) => s + totalFollowers(profileFor(n)), 0);
+    e._price = priceValue(e);
+    e._fields = searchFields(e);
+    e._words = [...new Set(e._fields.flatMap(f => f.split(" ")))];
+    e._joined = e._fields.map(f => f.replace(/ /g, "")); // "hard techno" also matches "hardtechno"
+  }
+  const upcoming = events.filter(e => inRange(e, "all") && e._score > 0).sort((a, b) => b._score - a._score);
+  topIds = new Set(upcoming.slice(0, TOP_N).map(e => e.id || e.title + e.start));
+}
+const keyOf = e => e.id || e.title + e.start;
+
+// Similar-match search: every word you type must match an artist, venue or genre,
+// either as part of it ("acid" in "acid techno"), as a word start, or with a small typo.
+function matches(e, q) {
+  const tokens = norm(q).split(" ").filter(Boolean);
+  return tokens.every(t => {
+    const tol = t.length >= 7 ? 2 : t.length >= 4 ? 1 : 0;
+    if (e._fields.some(f => f.includes(t))) return true;
+    if (e._joined.some(f => f.includes(t))) return true;
+    return tol > 0 && e._words.some(w => lev(w, t, tol) <= tol || (w.length > t.length && lev(w.slice(0, t.length), t, tol) <= tol));
+  });
+}
+
+// ---------- filters ----------
+function inRange(ev, when) {
   const s = new Date(ev.start), now = new Date();
   const today = new Date(now); today.setHours(0,0,0,0);
-  if (state.when === "tonight") {           // starts today, or before 6am tomorrow
+  if (when === "tonight") {                 // starts today, or before 6am tomorrow
     const end = new Date(today); end.setDate(end.getDate() + 1); end.setHours(6);
     return s >= today && s < end;
   }
-  if (state.when === "weekend") {           // Friday through Sunday night
+  if (when === "weekend") {                 // Friday through Sunday night
     const fri = new Date(today); const dow = today.getDay();
     fri.setDate(today.getDate() + (dow === 0 ? -2 : dow === 6 ? -1 : 5 - dow));
     const mon = new Date(fri); mon.setDate(fri.getDate() + 3); mon.setHours(8);
@@ -136,65 +275,161 @@ function inWindow(ev) {
   const end = new Date(today); end.setDate(end.getDate() + 14);
   return s >= today && s < end;
 }
+// Search and Top picks look across the whole two weeks
+function effectiveWhen() { return (state.q.trim() || state.pick === "top") ? "all" : state.when; }
+function passesPick(e) {
+  if (state.pick === "top") return topIds.has(keyOf(e));
+  if (state.pick === "free") return e._price === 0;
+  if (state.pick === "30") return e._price !== null && e._price <= 30;
+  return true;
+}
+
+// ---------- rendering ----------
+function dayKey(d) { return d.getFullYear() + "-" + d.getMonth() + "-" + d.getDate(); }
 function dayLabel(d) {
   const t = new Date(); t.setHours(0,0,0,0);
   const diff = Math.round((new Date(d).setHours(0,0,0,0) - t) / 864e5);
   const date = d.toLocaleDateString("en-US", { weekday: "long", month: "short", day: "numeric" });
   return diff === 0 ? "<em>Today</em> · " + date : diff === 1 ? "<em>Tomorrow</em> · " + date : date;
 }
-function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" })[c]); }
-function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : "#"; }
 const SOURCE_NAMES = { ra: "RA", dice: "Dice", eventbrite: "Eventbrite", grayarea: "Gray Area", shotgun: "Shotgun", axs: "AXS" };
-
-function render() {
-  document.querySelectorAll("[data-when]").forEach(b => b.setAttribute("aria-pressed", b.dataset.when === state.when));
-  document.querySelectorAll("[data-boro]").forEach(b => b.setAttribute("aria-pressed", b.dataset.boro === state.boro));
-  const list = events.filter(inWindow).filter(e => state.boro === "all" || e.area === state.boro)
-    .sort((a, b) => new Date(a.start) - new Date(b.start));
-  const el = document.getElementById("list");
-  if (!list.length) { el.innerHTML = '<p class="empty">No techno events match these filters. Try “Next 2 weeks” or “All areas”.</p>'; return; }
-  const groups = new Map();
-  for (const e of list) { const k = dayKey(new Date(e.start)); if (!groups.has(k)) groups.set(k, []); groups.get(k).push(e); }
-  el.innerHTML = [...groups.values()].map(g => `
-    <section class="day"><h2>${dayLabel(new Date(g[0].start))}</h2>
-    ${g.map(e => {
-      const time = new Date(e.start).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
-      const src = String(e.source || "").toLowerCase();
-      return `<article class="ev">
-        <div class="time">${time.replace(" ", "")}<small>doors</small></div>
-        <div class="info">
-          <div class="title">${esc(e.title)}</div>
-          ${e.lineup ? `<div class="lineup">${esc(e.lineup)}</div>` : ""}
-          <div class="meta"><span class="venue">${esc(e.venue)}</span><span class="boro">${esc(e.area)}</span>
-            ${src ? `<span class="src ${esc(src)}">${esc(SOURCE_NAMES[src] || e.source)}</span>` : ""}</div>
-          <div class="row"><span class="price">${esc(e.price || "")}</span>
-            <a class="tix" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">Tickets</a></div>
-        </div></article>`;
-    }).join("")}</section>`).join("");
+// Icons live in the icons/ folder, one file per platform. To change an icon, replace
+// that file (keep the same name). Using a PNG instead? Change the file name here too.
+const ICON_FILES = {
+  instagram: "icons/instagram.svg",
+  tiktok: "icons/tiktok.svg",
+  soundcloud: "icons/soundcloud.svg",
+  spotify: "icons/spotify.svg"
+};
+const PLATFORMS = [["instagram", "Instagram"], ["tiktok", "TikTok"], ["soundcloud", "SoundCloud"], ["spotify", "Spotify"]];
+function socialButtons(p) {
+  const f = p.followers || {}, links = p.links || {};
+  return PLATFORMS.map(([k, label]) => {
+    const n = Number(f[k]) || 0, url = links[k];
+    if (!n && !url) return "";
+    const text = n ? compact(n) : "";
+    const aria = `${label}${n ? ": " + text + " followers" : ""}`;
+    const inner = `<img src="${esc(ICON_FILES[k])}" alt="" width="14" height="14" onerror="this.remove()">${text ? `<span>${text}</span>` : ""}`;
+    return /^https?:\/\//i.test(url || "")
+      ? `<a class="soc" href="${esc(url)}" target="_blank" rel="noopener" title="${esc(label)}" aria-label="${esc(aria)}">${inner}</a>`
+      : `<span class="soc" title="${esc(label)}" aria-label="${esc(aria)}">${inner}</span>`;
+  }).join("");
 }
 
+function artistHtml(name) {
+  const p = profileFor(name);
+  if (!p) return `<div class="artist"><div class="aname"><b>${esc(name)}</b></div></div>`;
+  const socials = socialButtons(p);
+  const genres = Array.isArray(p.genres) ? p.genres.slice(0, 4) : [];
+  return `<div class="artist">
+    <div class="aname"><b>${esc(p.name || name)}</b></div>
+    ${socials ? `<div class="socials">${socials}</div>` : ""}
+    ${genres.length ? `<div class="tags">${genres.map(g => `<span class="tag">${esc(g)}</span>`).join("")}</div>` : ""}
+    ${p.bio ? `<p class="bio">${esc(p.bio)}</p>` : ""}
+  </div>`;
+}
+function artistsBlock(e) {
+  const names = e._artists;
+  if (!names.length) return "";
+  if (!names.some(profileFor)) return `<div class="lineup">${esc(names.join(", "))}</div>`;
+  const shown = names.slice(0, 3), rest = names.slice(3);
+  return `<div class="artists">${shown.map(artistHtml).join("")}
+    ${rest.length ? `<details class="more"><summary>+ ${rest.length} more artist${rest.length > 1 ? "s" : ""}</summary>${rest.map(artistHtml).join("")}</details>` : ""}
+  </div>`;
+}
+function cardHtml(e) {
+  const time = new Date(e.start).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+  const src = String(e.source || "").toLowerCase();
+  const top = topIds.has(keyOf(e));
+  const priceText = e._price === 0 ? "Free" : (e.price || "");
+  return `<article class="ev${top ? " top" : ""}">
+    <div class="time">${time.replace(" ", "")}<small>doors</small></div>
+    <div class="info">
+      ${top ? `<span class="toppick">Top pick</span>` : ""}
+      <div class="title">${esc(e.title)}</div>
+      <div class="meta"><span class="venue">${esc(e.venue)}</span><span class="boro">${esc(e.area)}</span>
+        ${src ? `<span class="src ${esc(src)}">${esc(SOURCE_NAMES[src] || e.source)}</span>` : ""}</div>
+      ${artistsBlock(e)}
+      <div class="row"><span class="price">${esc(priceText)}</span>
+        <a class="tix" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">Tickets</a></div>
+    </div></article>`;
+}
+
+function render() {
+  const when = effectiveWhen();
+  const widened = when !== state.when;
+  document.querySelectorAll("[data-when]").forEach(b => { b.setAttribute("aria-pressed", !widened && b.dataset.when === state.when); b.disabled = widened; });
+  document.querySelectorAll("[data-boro]").forEach(b => b.setAttribute("aria-pressed", b.dataset.boro === state.boro));
+  document.querySelectorAll("[data-pick]").forEach(b => b.setAttribute("aria-pressed", b.dataset.pick === state.pick));
+  document.getElementById("clear").hidden = !state.q;
+
+  const q = state.q.trim();
+  const list = events
+    .filter(e => inRange(e, when))
+    .filter(e => state.boro === "all" || e.area === state.boro)
+    .filter(passesPick)
+    .filter(e => !q || matches(e, q))
+    .sort((a, b) => new Date(a.start) - new Date(b.start));
+
+  const status = document.getElementById("status");
+  if (q) { status.hidden = false; status.innerHTML = `<b>${list.length}</b> match${list.length === 1 ? "" : "es"} for “${esc(q)}” in the next 2 weeks`; }
+  else if (state.pick === "top") { status.hidden = false; status.innerHTML = `The ${TOP_N} events with the biggest combined artist following in the next 2 weeks`; }
+  else status.hidden = true;
+
+  const el = document.getElementById("list");
+  if (!list.length) {
+    const msg = state.pick === "top" && topIds.size === 0
+      ? "Top picks appear once artist follower counts are added."
+      : q ? "Nothing matches that search. Try a shorter word or another spelling."
+      : "No techno events match these filters. Try “Next 2 weeks” or “All areas”.";
+    el.innerHTML = `<p class="empty">${msg}</p>`; return;
+  }
+  const groups = new Map();
+  for (const e of list) { const k = dayKey(new Date(e.start)); if (!groups.has(k)) groups.set(k, []); groups.get(k).push(e); }
+  el.innerHTML = [...groups.values()].map(g =>
+    `<section class="day"><h2>${dayLabel(new Date(g[0].start))}</h2>${g.map(cardHtml).join("")}</section>`).join("");
+}
+
+function save() { try { const { q, ...rest } = state; localStorage.setItem("ah-filters", JSON.stringify(rest)); } catch (err) {} }
 document.addEventListener("click", e => {
-  const b = e.target.closest(".chip"); if (!b) return;
+  const bio = e.target.closest(".bio"); if (bio) { bio.classList.toggle("open"); return; }
+  const b = e.target.closest(".chip, .pick"); if (!b || b.disabled) return;
   if (b.dataset.when) state.when = b.dataset.when;
   if (b.dataset.boro) state.boro = b.dataset.boro;
-  try { localStorage.setItem("ah-filters", JSON.stringify(state)); } catch (err) {}
-  render();
+  if (b.dataset.pick) state.pick = b.dataset.pick;
+  save(); render();
 });
+const qInput = document.getElementById("q");
+let qTimer;
+qInput.addEventListener("input", () => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = qInput.value; render(); }, 120); });
+document.getElementById("clear").addEventListener("click", () => { qInput.value = ""; state.q = ""; render(); qInput.focus(); });
 
+// ---------- loading ----------
+async function getJson(url) {
+  const r = await fetch(url + "?t=" + Date.now(), { cache: "no-store" });
+  if (r.status === 404) return null;
+  return r.json();
+}
 async function load() {
   const notice = document.getElementById("notice");
   try {
-    const r = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
-    if (r.status === 404) {   // Muse hasn't created events.json yet
-      notice.hidden = false; notice.innerHTML = "<b>No events yet.</b> They appear here after Muse's first daily update.";
-      render(); return;
+    const [j, a] = await Promise.all([getJson(DATA_URL), getJson(ARTISTS_URL).catch(() => null)]);
+    // artists.json is optional; profiles are keyed by normalized artist name
+    artists = {};
+    const src = a && (a.artists || a);
+    if (src && typeof src === "object") {
+      for (const [k, p] of Object.entries(src)) if (p && typeof p === "object") artists[norm(p.name || k)] = p;
     }
-    const j = await r.json();
-    // Keep only events that have the fields the app needs
+    if (!j) {
+      notice.hidden = false; notice.innerHTML = "<b>No events yet.</b> They appear here after Muse's first daily update.";
+      events = []; render(); return;
+    }
     events = (j.events || []).filter(e => e && e.title && e.start && !isNaN(new Date(e.start)));
+    prepare();
+    notice.hidden = !j.example;
+    if (j.example) notice.innerHTML = "<b>Example events.</b> These placeholders disappear once Muse writes the first real update.";
     if (j.updatedAt) document.getElementById("updated").textContent =
       "Updated " + new Date(j.updatedAt).toLocaleString("en-US", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
-    if (j.example) { notice.hidden = false; notice.innerHTML = "<b>Example events.</b> These placeholders disappear once Muse writes the first real update."; }
   } catch (e) {
     notice.hidden = false; notice.innerHTML = "<b>Couldn't load events.</b> Check your connection and reopen the app.";
   }
