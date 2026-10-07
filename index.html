@@ -144,7 +144,7 @@ function dayLabel(d) {
 }
 function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" })[c]); }
 function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : "#"; }
-const SOURCE_NAMES = { ra: "RA", dice: "Dice", eventbrite: "Eventbrite", shotgun: "Shotgun", axs: "AXS" };
+const SOURCE_NAMES = { ra: "RA", dice: "Dice", eventbrite: "Eventbrite", grayarea: "Gray Area", shotgun: "Shotgun", axs: "AXS" };
 
 function render() {
   document.querySelectorAll("[data-when]").forEach(b => b.setAttribute("aria-pressed", b.dataset.when === state.when));
