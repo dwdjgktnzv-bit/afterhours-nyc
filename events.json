@@ -1,1467 +1,2666 @@
 {
-  "updatedAt": "2026-10-07T17:43:27-04:00",
+  "updatedAt": "2026-10-07T19:30:00-04:00",
   "events": [
-    {
-      "id": "ra-2541027",
-      "title": "Open Decks with STEEN - 3 YEAR ANNIVERSARY [Full Venue Edition]",
-      "lineup": "STEEN",
-      "venue": "SILO",
-      "area": "Brooklyn",
-      "start": "2026-10-07T19:00:00-04:00",
-      "source": "ra",
-      "price": "",
-      "url": "https://ra.co/events/2541027"
-    },
     {
       "id": "ra-2552034",
       "title": "VHS Bossa HH presents: Entropy Sessions",
       "lineup": "Sam Valle",
+      "artists": [
+        "Sam Valle"
+      ],
+      "genres": [
+        "techno"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-07T19:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2552034"
     },
     {
       "id": "ra-2548549",
       "title": "Synth Social 5",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "idm",
+        "techno"
+      ],
       "venue": "Dreamsong Music Lab",
       "area": "Brooklyn",
       "start": "2026-10-07T19:00:00-04:00",
       "source": "ra",
       "price": "$10",
+      "priceMin": 10,
       "url": "https://ra.co/events/2548549"
+    },
+    {
+      "id": "ra-2535434",
+      "title": "EARTHTONES: Pedestrian Access, Frank Garret, Jake Korolev + Mago, Lulannie",
+      "lineup": "Pedestrian Access, Jake Korolev, Mago (US), Lulannie",
+      "artists": [
+        "Pedestrian Access",
+        "Jake Korolev",
+        "Mago (US)",
+        "Lulannie"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
+      "area": "Brooklyn",
+      "start": "2026-10-07T19:00:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2535434"
     },
     {
       "id": "dice-92nkwd",
       "title": "Open Decks w/ Steen - 3 YEAR ANNIVERSARY [Full Venue Edition]",
-      "lineup": "",
-      "venue": "SILO Brooklyn ",
+      "lineup": "Steen",
+      "artists": [
+        "Steen"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "venue": "SILO Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-07T19:00:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/92nkwd-open-decks-w-steen-3-year-anniversary-full-venue-edition-7th-oct-silo-brooklyn-brooklyn-tickets"
+    },
+    {
+      "id": "dice-536dk8",
+      "title": "RUSH Presents: Kettama",
+      "lineup": "Kettama, Loods, Willo",
+      "artists": [
+        "Kettama",
+        "Loods",
+        "Willo"
+      ],
+      "genres": [],
+      "venue": "Knockdown Center",
+      "area": "Queens",
+      "start": "2026-10-07T20:00:00-04:00",
+      "source": "dice",
+      "price": "$58.16",
+      "priceMin": 58.16,
+      "url": "https://dice.fm/event/536dk8-rush-presents-kettama-7th-oct-knockdown-center-new-york-tickets"
     },
     {
       "id": "ra-2545593",
       "title": "Elle Dee b2b KYRUH & LORD ASA",
       "lineup": "Elle Dee, KYRUH, LORD ASA",
+      "artists": [
+        "Elle Dee",
+        "KYRUH",
+        "LORD ASA"
+      ],
+      "genres": [
+        "techno"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-07T22:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2545593"
     },
     {
       "id": "ra-2555165",
       "title": "ANIMAL Wednesday Night w/ Madison Moore",
       "lineup": "Madison Moore",
+      "artists": [
+        "Madison Moore"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Animal",
       "area": "Brooklyn",
       "start": "2026-10-07T22:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2555165"
     },
     {
       "id": "dice-l8plbl",
       "title": "PluggedIN: bbbBbBB, Day Cart, HumanbIAN",
-      "lineup": "Day Cart",
+      "lineup": "BbbBbBB, Day Cart, HumanbIAN",
+      "artists": [
+        "BbbBbBB",
+        "Day Cart",
+        "HumanbIAN"
+      ],
+      "genres": [],
       "venue": "Jupiter Disco",
-      "area": "Brooklyn",
+      "area": "Queens",
       "start": "2026-10-08T19:00:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/l8plbl-pluggedin-bbbbbbb-day-cart-humanbian-8th-oct-jupiter-disco-new-york-city-tickets"
     },
     {
-      "id": "ra-2446136",
-      "title": "RUSH presents: KETTAMA",
-      "lineup": "KETTAMA, Loods",
+      "id": "dice-rykggv",
+      "title": "RUSH Presents: Kettama",
+      "lineup": "Kettama, Loods, FIFI",
+      "artists": [
+        "Kettama",
+        "Loods",
+        "FIFI"
+      ],
+      "genres": [
+        "garage",
+        "techno"
+      ],
       "venue": "Knockdown Center",
       "area": "Queens",
       "start": "2026-10-08T20:00:00-04:00",
-      "source": "ra",
-      "price": "",
-      "url": "https://ra.co/events/2446136"
+      "source": "dice",
+      "price": "$69.07",
+      "priceMin": 69.07,
+      "url": "https://dice.fm/event/rykggv-rush-presents-kettama-8th-oct-knockdown-center-new-york-tickets"
     },
     {
       "id": "ra-2546179",
       "title": "CODED Thursdays 10.08.26 w/ Giovannii, Boomer Banks",
       "lineup": "Giovannii, Boomer Banks",
+      "artists": [
+        "Giovannii",
+        "Boomer Banks"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Club Rawhide",
       "area": "Manhattan",
       "start": "2026-10-08T21:00:00-04:00",
       "source": "ra",
       "price": "$20",
+      "priceMin": 20,
       "url": "https://ra.co/events/2546179"
     },
     {
       "id": "ra-2549959",
       "title": "ROMANCE w Eli Escobar",
       "lineup": "Eli Escobar",
+      "artists": [
+        "Eli Escobar"
+      ],
+      "genres": [
+        "electro",
+        "pop"
+      ],
       "venue": "Gabriela",
       "area": "Brooklyn",
       "start": "2026-10-08T21:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2549959"
     },
     {
       "id": "ra-2555087",
       "title": "EscaFlowne, Rose Kourts & WTCHCRFT",
       "lineup": "EscaFlowne, Rose Kourts, WTCHCRFT",
+      "artists": [
+        "EscaFlowne",
+        "Rose Kourts",
+        "WTCHCRFT"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Mansions",
       "area": "Queens",
       "start": "2026-10-08T21:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2555087"
     },
     {
       "id": "dice-l8mg2b",
       "title": "Lounge Sessions (Main Room Event, Free w/ RSVP)",
       "lineup": "Anthony Romano, Lefti, THICCBOI DREWSKI",
-      "venue": "SILO Brooklyn ",
+      "artists": [
+        "Anthony Romano",
+        "Lefti",
+        "THICCBOI DREWSKI"
+      ],
+      "genres": [],
+      "venue": "SILO Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-08T22:00:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/l8mg2b-lounge-sessions-main-room-event-free-w-rsvp-8th-oct-silo-brooklyn-brooklyn-tickets"
     },
     {
       "id": "ra-2522925",
       "title": "Village Hidden in Sound",
-      "lineup": "KYRUH, J.N.R., DJ girlcrush, Samuel Pojer, zoro!, DJ Loose Fit",
+      "lineup": "KYRUH, J.N.R., DJ girlcrush, Samuel Pojer, zoro!, DJ Loose Fit, ceviché, Synestesia, Touch Base, HELIX (NYC), vivaval",
+      "artists": [
+        "KYRUH",
+        "J.N.R.",
+        "DJ girlcrush",
+        "Samuel Pojer",
+        "zoro!",
+        "DJ Loose Fit",
+        "ceviché",
+        "Synestesia",
+        "Touch Base",
+        "HELIX (NYC)",
+        "vivaval"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Honey's",
       "area": "Brooklyn",
       "start": "2026-10-09T18:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2522925"
     },
     {
       "id": "ra-2542676",
       "title": "feedbk with DJ Tree, Dizzy",
       "lineup": "DJ Tree, Dizzy",
+      "artists": [
+        "DJ Tree",
+        "Dizzy"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "feedbk",
       "area": "Brooklyn",
       "start": "2026-10-09T19:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2542676"
     },
     {
-      "id": "ra-2542588",
-      "title": "Mystic Bill, Prince Language, Gianna Guerino, Morgan Wiley, Cadence Radio - Dead Letter No.9",
-      "lineup": "Mystic Bill, Prince Language, Elkind",
-      "venue": "Dead Letter No. 9",
+      "id": "dice-wwk98g",
+      "title": "Mystic Bill, Prince Language, Morgan Wiley + more",
+      "lineup": "Gianna Guerino, Prince Language, Mystic Bill, Morgan Wiley",
+      "artists": [
+        "Gianna Guerino",
+        "Prince Language",
+        "Mystic Bill",
+        "Morgan Wiley"
+      ],
+      "genres": [
+        "acid",
+        "house"
+      ],
+      "venue": "Dead Letter No.9",
       "area": "Brooklyn",
       "start": "2026-10-09T20:00:00-04:00",
+      "source": "dice",
+      "price": "Free",
+      "priceMin": 0,
+      "url": "https://dice.fm/event/wwk98g-mystic-bill-prince-language-morgan-wiley-more-9th-oct-dead-letter-no9-new-york-city-tickets"
+    },
+    {
+      "id": "ra-2446125",
+      "title": "Overmono",
+      "lineup": "Overmono",
+      "artists": [
+        "Overmono"
+      ],
+      "genres": [],
+      "venue": "Terminal 5",
+      "area": "Manhattan",
+      "start": "2026-10-09T20:30:00-04:00",
       "source": "ra",
-      "price": "$20",
-      "url": "https://ra.co/events/2542588"
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2446125"
     },
     {
       "id": "ra-2546169",
       "title": "Club Rawhide FRIDAY NIGHT 10.09.26 w/ OZA, BEARCAT, KLKÉ",
       "lineup": "OZA, BEARCAT, KLKÉ",
+      "artists": [
+        "OZA",
+        "BEARCAT",
+        "KLKÉ"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Club Rawhide",
       "area": "Manhattan",
       "start": "2026-10-09T21:00:00-04:00",
       "source": "ra",
       "price": "$30",
+      "priceMin": 30,
       "url": "https://ra.co/events/2546169"
     },
     {
       "id": "ra-2552979",
       "title": "Boombox // ALL NIGHT LONG",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "electro",
+        "new wave"
+      ],
       "venue": "Gabriela",
       "area": "Brooklyn",
       "start": "2026-10-09T21:00:00-04:00",
       "source": "ra",
-      "price": "$20",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2552979"
     },
     {
       "id": "ra-2507374",
       "title": "Paradiso: The Carry Nation, Mike Servito, Kim Anh + Sissies of Mercy, Spyware",
       "lineup": "The Carry Nation, Mike Servito, Kim Anh, Sissies of Mercy, TEK NENA",
+      "artists": [
+        "The Carry Nation",
+        "Mike Servito",
+        "Kim Anh",
+        "Sissies of Mercy",
+        "TEK NENA"
+      ],
+      "genres": [
+        "acid",
+        "house"
+      ],
       "venue": "Paragon",
       "area": "Brooklyn",
       "start": "2026-10-09T21:30:00-04:00",
       "source": "ra",
       "price": "$25",
+      "priceMin": 25,
       "url": "https://ra.co/events/2507374"
     },
     {
       "id": "ra-2510702",
       "title": "ReSolute with Aurora Halal",
-      "lineup": "Aurora Halal, SPRKLBB, Amelia Holt, Seth Magoon, Dio Garcia, Serrian",
+      "lineup": "Aurora Halal, SPRKLBB, Amelia Holt, Seth Magoon, Dio Garcia, Serrian, Joiah",
+      "artists": [
+        "Aurora Halal",
+        "SPRKLBB",
+        "Amelia Holt",
+        "Seth Magoon",
+        "Dio Garcia",
+        "Serrian",
+        "Joiah"
+      ],
+      "genres": [
+        "electro",
+        "experimental"
+      ],
       "venue": "H0L0",
       "area": "Queens",
       "start": "2026-10-09T22:00:00-04:00",
       "source": "ra",
       "price": "$20",
+      "priceMin": 20,
       "url": "https://ra.co/events/2510702"
     },
     {
-      "id": "ra-2489115",
-      "title": "Techno Brooklyn presents Cristobal Pesce",
-      "lineup": "Cristobal Pesce",
-      "venue": "TBA - Brooklyn",
+      "id": "ra-2548039",
+      "title": "Refuge Friday: Colin Benders, Lewis Fautzi, Briela Veneno, Elle Dee",
+      "lineup": "Colin Benders, Lewis Fautzi, Briela Veneno, Elle Dee",
+      "artists": [
+        "Colin Benders",
+        "Lewis Fautzi",
+        "Briela Veneno",
+        "Elle Dee"
+      ],
+      "genres": [
+        "techno"
+      ],
+      "venue": "Refuge",
       "area": "Brooklyn",
       "start": "2026-10-09T22:00:00-04:00",
       "source": "ra",
-      "price": "$40",
-      "url": "https://ra.co/events/2489115"
-    },
-    {
-      "area": "Brooklyn",
-      "id": "eventbrite-2000774593669",
-      "lineup": "Colin Benders, Lewis Fautzi, Briela Veneno, Elle Dee",
-      "price": "$25",
-      "source": "eventbrite",
-      "start": "2026-10-09T22:00:00-04:00",
-      "title": "Refuge Friday: Colin Benders, Lewis Fautzi, Briela Veneno, Elle Dee",
-      "url": "https://www.eventbrite.com/e/refuge-friday-colin-benders-lewis-fautzi-briela-veneno-elle-dee-tickets-2000774593669",
-      "venue": "Refuge"
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2548039"
     },
     {
       "id": "ra-2548649",
       "title": "SOUNDCHECK",
       "lineup": "ALI IRL, CleoTheeDoll, Sapphyre",
+      "artists": [
+        "ALI IRL",
+        "CleoTheeDoll",
+        "Sapphyre"
+      ],
+      "genres": [
+        "electro",
+        "techno"
+      ],
       "venue": "Jade",
       "area": "Brooklyn",
       "start": "2026-10-09T22:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2548649"
     },
     {
       "id": "ra-2545438",
       "title": "SVMMON: Dark Dance Night",
       "lineup": "Brad Scott, Joe Hart (US), Mark Cage, Jamie K",
+      "artists": [
+        "Brad Scott",
+        "Joe Hart (US)",
+        "Mark Cage",
+        "Jamie K"
+      ],
+      "genres": [
+        "ebm",
+        "industrial"
+      ],
       "venue": "Talon Bar",
       "area": "Brooklyn",
       "start": "2026-10-09T22:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2545438"
     },
     {
       "id": "ra-2553986",
       "title": "private room - 001 // movement, atmosphere & controlled esclation",
       "lineup": ".json",
+      "artists": [
+        ".json"
+      ],
+      "genres": [
+        "house",
+        "minimal"
+      ],
       "venue": "Purgatory",
       "area": "Brooklyn",
       "start": "2026-10-09T22:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2553986"
     },
     {
       "id": "ra-2555173",
       "title": "ANIMAL Friday Night w/ planetperris",
       "lineup": "planetperris",
+      "artists": [
+        "planetperris"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Animal",
       "area": "Brooklyn",
       "start": "2026-10-09T22:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2555173"
     },
     {
-      "id": "dice-nvrgk8",
-      "title": "Girls Trip: Tom Marsi, Honey B, Pretty Privilege",
-      "lineup": "Tom Marsi, Pretty Privilege",
-      "venue": "Jupiter Disco",
+      "id": "ra-2489115",
+      "title": "Techno Brooklyn presents Cristobal Pesce",
+      "lineup": "Cristobal Pesce",
+      "artists": [
+        "Cristobal Pesce"
+      ],
+      "genres": [],
+      "venue": "TBA - Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-09T22:00:00-04:00",
-      "source": "dice",
-      "price": "$10",
-      "url": "https://dice.fm/event/nvrgk8-girls-trip-tom-marsi-honey-b-pretty-privilege-9th-oct-jupiter-disco-new-york-city-tickets"
+      "source": "ra",
+      "price": "$40",
+      "priceMin": 40,
+      "url": "https://ra.co/events/2489115"
     },
     {
       "id": "dice-py32ky",
       "title": "Night & Day: Sandwell District, Mary Yuzovskaya, Agonis, Henry Chow, Shaleen",
-      "lineup": "Mary Yuzovskaya, Agonis, Henry Chow, Shaleen",
+      "lineup": "Sandwell District, Mary Yuzovskaya, Agonis, Henry Chow, Shaleen",
+      "artists": [
+        "Sandwell District",
+        "Mary Yuzovskaya",
+        "Agonis",
+        "Henry Chow",
+        "Shaleen"
+      ],
+      "genres": [],
       "venue": "Signal",
       "area": "Brooklyn",
       "start": "2026-10-09T22:00:00-04:00",
       "source": "dice",
-      "price": "$30",
+      "price": "$33.99",
+      "priceMin": 33.99,
       "url": "https://dice.fm/event/py32ky-night-day-sandwell-district-mary-yuzovskaya-agonis-henry-chow-shaleen-9th-oct-signal-new-york-city-tickets"
     },
     {
-      "area": "Brooklyn",
-      "id": "eventbrite-2002720077664",
-      "lineup": "Cristobal Pesce",
-      "price": "$46",
-      "source": "eventbrite",
+      "id": "dice-nvrgk8",
+      "title": "Girls Trip: Tom Marsi, Honey B, Pretty Privilege",
+      "lineup": "Tom Marsi, HONEY B, Pretty Privilege",
+      "artists": [
+        "Tom Marsi",
+        "HONEY B",
+        "Pretty Privilege"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
+      "area": "Queens",
       "start": "2026-10-09T22:00:00-04:00",
-      "title": "Cristobal Pesce - Presented by Techno Bklyn",
-      "url": "https://www.eventbrite.com/e/cristobal-pesce-presented-by-techno-bklyn-tickets-2002720077664",
-      "venue": "Brooklyn Roots Collective"
+      "source": "dice",
+      "price": "$11.33",
+      "priceMin": 11.33,
+      "url": "https://dice.fm/event/nvrgk8-girls-trip-tom-marsi-honey-b-pretty-privilege-9th-oct-jupiter-disco-new-york-city-tickets"
+    },
+    {
+      "id": "dice-wwpakp",
+      "title": "RUSH Presents: Kettama",
+      "lineup": "Kettama, Loods, FIFI",
+      "artists": [
+        "Kettama",
+        "Loods",
+        "FIFI"
+      ],
+      "genres": [],
+      "venue": "Knockdown Center",
+      "area": "Queens",
+      "start": "2026-10-09T22:00:00-04:00",
+      "source": "dice",
+      "price": "$82.88",
+      "priceMin": 82.88,
+      "url": "https://dice.fm/event/wwpakp-rush-presents-kettama-9th-oct-knockdown-center-new-york-tickets"
+    },
+    {
+      "id": "ra-2533880",
+      "title": "Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden",
+      "lineup": "Wata Igarashi, ISAbella, Subb-an, Meilgaarden",
+      "artists": [
+        "Wata Igarashi",
+        "ISAbella",
+        "Subb-an",
+        "Meilgaarden"
+      ],
+      "genres": [],
+      "venue": "BASEMENT",
+      "area": "Queens",
+      "start": "2026-10-09T22:30:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2533880"
     },
     {
       "id": "dice-mxwxbr",
       "title": "HYSTERIA w/Bill Sanders & Michael Magnan",
-      "lineup": "",
+      "lineup": "Bill Sanders, Michael Magnan",
+      "artists": [
+        "Bill Sanders",
+        "Michael Magnan"
+      ],
+      "genres": [],
       "venue": "C'mon Everybody",
       "area": "Brooklyn",
       "start": "2026-10-09T22:30:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/mxwxbr-hysteria-wbill-sanders-michael-magnan-9th-oct-cmon-everybody-new-york-tickets"
-    },
-    {
-      "id": "dice-avkgn7",
-      "title": "AADJA, Kyle Geiger / Softi, DJ G / Zotos",
-      "lineup": "AADJA, Kyle Geiger, Softi",
-      "venue": "Public Records",
-      "area": "Brooklyn",
-      "start": "2026-10-09T23:00:00-04:00",
-      "source": "dice",
-      "price": "$25",
-      "url": "https://dice.fm/event/avkgn7-aadja-kyle-geiger-softi-dj-g-zotos-9th-oct-public-records-new-york-tickets"
     },
     {
       "id": "ra-2552027",
       "title": "Short King: Underground",
       "lineup": "autogyro, IPOK",
+      "artists": [
+        "autogyro",
+        "IPOK"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Red Eye NY",
       "area": "Manhattan",
       "start": "2026-10-09T23:00:00-04:00",
       "source": "ra",
       "price": "$10",
+      "priceMin": 10,
       "url": "https://ra.co/events/2552027"
+    },
+    {
+      "id": "dice-avkgn7",
+      "title": "AADJA, Kyle Geiger / Softi, DJ G / Zotos",
+      "lineup": "AADJA, Kyle Geiger, Softi, DJ G, Zotos",
+      "artists": [
+        "AADJA",
+        "Kyle Geiger",
+        "Softi",
+        "DJ G",
+        "Zotos"
+      ],
+      "genres": [
+        "tech house",
+        "techno"
+      ],
+      "venue": "Public Records",
+      "area": "Brooklyn",
+      "start": "2026-10-09T23:00:00-04:00",
+      "source": "dice",
+      "price": "$23.69",
+      "priceMin": 23.69,
+      "url": "https://dice.fm/event/avkgn7-aadja-kyle-geiger-softi-dj-g-zotos-9th-oct-public-records-new-york-tickets"
     },
     {
       "id": "ra-2532259",
       "title": "Mind Cargo & Downbeat Detection Takeover: Softi, 320, and Plushie",
       "lineup": "Softi, 320 (1), Plushie, Spiral Eddie",
+      "artists": [
+        "Softi",
+        "320 (1)",
+        "Plushie",
+        "Spiral Eddie"
+      ],
+      "genres": [
+        "dub techno",
+        "experimental"
+      ],
       "venue": "Silence Please",
       "area": "Manhattan",
       "start": "2026-10-10T11:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2532259"
     },
     {
       "id": "ra-2554691",
       "title": "Undergound! / Overground! - Brooklyn daytime Park Jam",
       "lineup": "Alexander Technique, CHRIS LEWIS, Destro187",
+      "artists": [
+        "Alexander Technique",
+        "CHRIS LEWIS",
+        "Destro187"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "TBA - Robert Fulton Park - 70 Chauncey St, Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-10T14:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2554691"
     },
     {
       "id": "ra-2545041",
       "title": "​LIMINAL — Ambient Slush Dub Techno Deep Listening · FLINTA*-Only DJs",
       "lineup": "R-DNA, 1ol1v1a, treesunstars",
+      "artists": [
+        "R-DNA",
+        "1ol1v1a",
+        "treesunstars"
+      ],
+      "genres": [
+        "ambient",
+        "dub techno"
+      ],
       "venue": "Reforesters Laboratory",
       "area": "Brooklyn",
       "start": "2026-10-10T15:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2545041"
-    },
-    {
-      "area": "Brooklyn",
-      "id": "eventbrite-2000538065206",
-      "lineup": "Dean Turnley, Caleb Jackson, Mario Polanco",
-      "price": "$25",
-      "source": "eventbrite",
-      "start": "2026-10-10T15:00:00-04:00",
-      "title": "Refuge Saturday Daytime: Dean Turnley, Caleb Jackson, Mario Polanco",
-      "url": "https://www.eventbrite.com/e/refuge-saturday-daytime-dean-turnley-caleb-jackson-mario-polanco-tickets-2000538065206",
-      "venue": "Refuge"
     },
     {
       "id": "ra-2555175",
       "title": "ANIMAL Saturday w/ Dane Deveraux, Kandylion",
       "lineup": "Dane Deveraux, Kandylion",
+      "artists": [
+        "Dane Deveraux",
+        "Kandylion"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Animal",
       "area": "Brooklyn",
       "start": "2026-10-10T16:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2555175"
     },
     {
       "id": "ra-2544220",
       "title": "Mind Xpansion: Damon Bradley / Jahveri b2b Sai / INVAR",
       "lineup": "Damon Bradley, Jahveri",
+      "artists": [
+        "Damon Bradley",
+        "Jahveri"
+      ],
+      "genres": [
+        "techno"
+      ],
       "venue": "KEYBAR",
       "area": "Brooklyn",
       "start": "2026-10-10T17:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2544220"
     },
     {
       "id": "ra-2539199",
       "title": "DLN9 3rd Year Anniversary! Ksenyeah + Manguito, Timo Lee, Joopiter, SMURFOUDIRTY, Robert PM",
-      "lineup": "Ksenyeah, Manguito, Timo Lee, Borbón, SMURFOUDIRTY, Robert PM",
+      "lineup": "Ksenyeah, Manguito, Timo Lee, Borbón, SMURFOUDIRTY, Robert PM, Joopiter, Tony Flow",
+      "artists": [
+        "Ksenyeah",
+        "Manguito",
+        "Timo Lee",
+        "Borbón",
+        "SMURFOUDIRTY",
+        "Robert PM",
+        "Joopiter",
+        "Tony Flow"
+      ],
+      "genres": [
+        "electro",
+        "house"
+      ],
       "venue": "Dead Letter No. 9",
       "area": "Brooklyn",
       "start": "2026-10-10T18:30:00-04:00",
       "source": "ra",
       "price": "$20",
+      "priceMin": 20,
       "url": "https://ra.co/events/2539199"
     },
     {
       "id": "ra-2542683",
       "title": "feedbk with Taylor Shockley, Hugo",
       "lineup": "Taylor Shockley, Hugo (US)",
+      "artists": [
+        "Taylor Shockley",
+        "Hugo (US)"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "feedbk",
       "area": "Brooklyn",
       "start": "2026-10-10T19:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2542683"
+    },
+    {
+      "id": "ra-2556243",
+      "title": "she.they.dj",
+      "lineup": "JIYNX",
+      "artists": [
+        "JIYNX"
+      ],
+      "genres": [
+        "club",
+        "techno"
+      ],
+      "venue": "Mood Ring",
+      "area": "Brooklyn",
+      "start": "2026-10-10T19:00:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2556243"
     },
     {
       "id": "ra-2517993",
       "title": "A Cooperative Exercise",
       "lineup": "ECHOES, Hydro Lin, U+0000",
+      "artists": [
+        "ECHOES",
+        "Hydro Lin",
+        "U+0000"
+      ],
+      "genres": [
+        "experimental",
+        "techno"
+      ],
       "venue": "Amma Cafe",
       "area": "Queens",
       "start": "2026-10-10T20:00:00-04:00",
       "source": "ra",
       "price": "$11",
+      "priceMin": 11,
       "url": "https://ra.co/events/2517993"
     },
     {
       "id": "ra-2546171",
       "title": "Club Rawhide SATURDAY NIGHT 10.10.26 w/ W. Jeremy, S4M23, Caín Lima",
       "lineup": "W. Jeremy, S4M23, Caín Lima",
+      "artists": [
+        "W. Jeremy",
+        "S4M23",
+        "Caín Lima"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Club Rawhide",
       "area": "Manhattan",
       "start": "2026-10-10T21:00:00-04:00",
       "source": "ra",
       "price": "$30",
+      "priceMin": 30,
       "url": "https://ra.co/events/2546171"
     },
     {
       "id": "ra-2552980",
       "title": "Mike Simonetti // ALL NIGHT LONG",
       "lineup": "Mike Simonetti",
+      "artists": [
+        "Mike Simonetti"
+      ],
+      "genres": [
+        "acid",
+        "electro"
+      ],
       "venue": "Gabriela",
       "area": "Brooklyn",
       "start": "2026-10-10T21:00:00-04:00",
       "source": "ra",
-      "price": "$20",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2552980"
     },
     {
       "id": "ra-2532452",
       "title": "Club Stars: Dj Sliink, Martyn Bootyspoon b2b Swami Sound, Sevyn, James Bambu(Live) ",
-      "lineup": "Dj Sliink, Martyn Bootyspoon, Swami Sound, Sevyn, Preacher's Daughter, kyxm",
+      "lineup": "Dj Sliink, Martyn Bootyspoon, Swami Sound, Sevyn, Preacher's Daughter, kyxm, KIMKILLA",
+      "artists": [
+        "Dj Sliink",
+        "Martyn Bootyspoon",
+        "Swami Sound",
+        "Sevyn",
+        "Preacher's Daughter",
+        "kyxm",
+        "KIMKILLA"
+      ],
+      "genres": [
+        "ghetto tech",
+        "techno"
+      ],
       "venue": "Paragon",
       "area": "Brooklyn",
       "start": "2026-10-10T21:30:00-04:00",
       "source": "ra",
       "price": "$25",
+      "priceMin": 25,
       "url": "https://ra.co/events/2532452"
     },
     {
       "id": "ra-2522249",
       "title": "Animalia Nonstop: Fred P, Kia, Louis Marlo (live), Mia Koden, Moopie, Simisea",
       "lineup": "Simisea, Louis Marlo, Mia Koden, Moopie, Fred P, Kia (AU)",
+      "artists": [
+        "Simisea",
+        "Louis Marlo",
+        "Mia Koden",
+        "Moopie",
+        "Fred P",
+        "Kia (AU)"
+      ],
+      "genres": [
+        "bass",
+        "techno"
+      ],
       "venue": "Nowadays",
       "area": "Queens",
       "start": "2026-10-10T22:00:00-04:00",
       "source": "ra",
       "price": "$30",
+      "priceMin": 30,
       "url": "https://ra.co/events/2522249"
     },
     {
       "id": "ra-2538860",
       "title": "Golden Record NYC x Third Floor Sounds present Maurice Fulton",
       "lineup": "Maurice Fulton, TEE EM DEE, Miss Gypsy, Ralph Session, Morgan, Mario Polanco",
+      "artists": [
+        "Maurice Fulton",
+        "TEE EM DEE",
+        "Miss Gypsy",
+        "Ralph Session",
+        "Morgan",
+        "Mario Polanco"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Green Room NYC",
       "area": "Brooklyn",
       "start": "2026-10-10T22:00:00-04:00",
       "source": "ra",
       "price": "$20",
+      "priceMin": 20,
       "url": "https://ra.co/events/2538860"
     },
     {
-      "id": "dice-92nw6d",
-      "title": "Road To Trotamundo Nyc ",
+      "id": "ra-2283407",
+      "title": "Zero BERLIN SHOWCASE",
       "lineup": "",
-      "venue": "H0l0",
-      "area": "Queens",
-      "start": "2026-10-10T22:00:00-04:00",
-      "source": "dice",
-      "price": "$25",
-      "url": "https://dice.fm/event/92nw6d-road-to-trotamundo-nyc-10th-oct-h0l0-new-york-tickets"
-    },
-    {
+      "artists": [],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "venue": "Refuge",
       "area": "Brooklyn",
-      "id": "eventbrite-2001271498926",
-      "lineup": "",
-      "price": "$25",
-      "source": "eventbrite",
       "start": "2026-10-10T22:00:00-04:00",
-      "title": "Refuge X ZERO: Berlin Showcase",
-      "url": "https://www.eventbrite.com/e/refuge-x-zero-berlin-showcase-tickets-2001271498926",
-      "venue": "Refuge"
+      "source": "ra",
+      "price": "$39",
+      "priceMin": 39,
+      "url": "https://ra.co/events/2283407"
     },
     {
       "id": "ra-2551018",
       "title": "XP1ONAGE",
-      "lineup": "Dasychira, Sausha, LOKA (US), Via App, c4fatman, m i m i (US)",
+      "lineup": "Dasychira, Sausha, LOKA (US), Via App, c4fatman, m i m i (US), FortifiedStructures",
+      "artists": [
+        "Dasychira",
+        "Sausha",
+        "LOKA (US)",
+        "Via App",
+        "c4fatman",
+        "m i m i (US)",
+        "FortifiedStructures"
+      ],
+      "genres": [
+        "electronica",
+        "techno"
+      ],
       "venue": "XTC Bushwick",
       "area": "Brooklyn",
       "start": "2026-10-10T22:00:00-04:00",
       "source": "ra",
       "price": "$5",
+      "priceMin": 5,
       "url": "https://ra.co/events/2551018"
     },
     {
-      "id": "dice-92n5ad",
-      "title": "MRAK",
-      "lineup": "Mrak",
+      "id": "ra-2539029",
+      "title": "MRAK at Industry City",
+      "lineup": "MRAK",
+      "artists": [
+        "MRAK"
+      ],
+      "genres": [
+        "techno"
+      ],
       "venue": "Industry City",
       "area": "Brooklyn",
       "start": "2026-10-10T22:00:00-04:00",
-      "source": "dice",
+      "source": "ra",
       "price": "$40",
-      "url": "https://dice.fm/event/92n5ad-mrak-10th-oct-industry-city-new-york-city-tickets"
+      "priceMin": 40,
+      "url": "https://ra.co/events/2539029"
     },
     {
       "id": "ra-2545037",
       "title": "Techno Brooklyn presents USH",
       "lineup": "",
+      "artists": [],
+      "genres": [],
       "venue": "TBA - Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-10T22:00:00-04:00",
       "source": "ra",
       "price": "$30",
+      "priceMin": 30,
       "url": "https://ra.co/events/2545037"
     },
     {
+      "id": "ra-2519987",
+      "title": "Sweat and Movement: Sol System, Oppo-Normalè, JUST RAJ, Kevin Karrera",
+      "lineup": "Oppo-Normalè, JUST RAJ, Kevin Karrera",
+      "artists": [
+        "Oppo-Normalè",
+        "JUST RAJ",
+        "Kevin Karrera"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
       "area": "Brooklyn",
-      "id": "eventbrite-2002719145877",
-      "lineup": "",
-      "price": "$30",
-      "source": "eventbrite",
       "start": "2026-10-10T22:00:00-04:00",
-      "title": "USH NY DEBUT",
-      "url": "https://www.eventbrite.com/e/ush-ny-debut-tickets-2002719145877",
-      "venue": "Brooklyn Roots Collective"
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2519987"
+    },
+    {
+      "id": "dice-92nw6d",
+      "title": "Road To Trotamundo Nyc",
+      "lineup": "Alec Falconer, Bruno Limma, CAMILLA, David Berrie, DJ Rino, Harrisôn, !NN, Kurilo, Lorenzo Slider, MANNY, Max Sprauer, Matt Foley, RAAUL, San Dee, SOLANA, Woreq",
+      "artists": [
+        "Alec Falconer",
+        "Bruno Limma",
+        "CAMILLA",
+        "David Berrie",
+        "DJ Rino",
+        "Harrisôn",
+        "!NN",
+        "Kurilo",
+        "Lorenzo Slider",
+        "MANNY",
+        "Max Sprauer",
+        "Matt Foley",
+        "RAAUL",
+        "San Dee",
+        "SOLANA",
+        "Woreq"
+      ],
+      "genres": [
+        "house",
+        "minimal"
+      ],
+      "venue": "H0l0",
+      "area": "Queens",
+      "start": "2026-10-10T22:00:00-04:00",
+      "source": "dice",
+      "price": "$12.47",
+      "priceMin": 12.47,
+      "url": "https://dice.fm/event/92nw6d-road-to-trotamundo-nyc-10th-oct-h0l0-new-york-city-tickets"
+    },
+    {
+      "id": "ra-2533887",
+      "title": "Mala Junta: Yazzus / Akua / FASHION / DJ TOOL / Kilopatrah Jones / Alfonso Javier",
+      "lineup": "Yazzus, Akua, FASHION (US), DJ TOOL, Kilopatrah Jones, Alfonso Javier",
+      "artists": [
+        "Yazzus",
+        "Akua",
+        "FASHION (US)",
+        "DJ TOOL",
+        "Kilopatrah Jones",
+        "Alfonso Javier"
+      ],
+      "genres": [],
+      "venue": "BASEMENT",
+      "area": "Queens",
+      "start": "2026-10-10T22:30:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2533887"
     },
     {
       "id": "dice-dk7a5v",
       "title": "STANK.BK",
-      "lineup": "",
+      "lineup": "Petrichor, MTHR TRSA, PUNKALOID, Bru, Pup Elio, Spencer Adam, Simon Malvaez",
+      "artists": [
+        "Petrichor",
+        "MTHR TRSA",
+        "PUNKALOID",
+        "Bru",
+        "Pup Elio",
+        "Spencer Adam",
+        "Simon Malvaez"
+      ],
+      "genres": [],
       "venue": "C'mon Everybody",
       "area": "Brooklyn",
       "start": "2026-10-10T22:30:00-04:00",
       "source": "dice",
-      "price": "$15",
+      "price": "$20.09",
+      "priceMin": 20.09,
       "url": "https://dice.fm/event/dk7a5v-stankbk-10th-oct-cmon-everybody-new-york-tickets"
-    },
-    {
-      "area": "Manhattan",
-      "id": "eventbrite-1997239152068",
-      "lineup": "",
-      "price": "$34",
-      "source": "eventbrite",
-      "start": "2026-10-10T22:30:00-04:00",
-      "title": "Off The Record at PUBLIC Hotel",
-      "url": "https://www.eventbrite.com/e/off-the-record-at-public-hotel-tickets-1997239152068",
-      "venue": "ARTSPACE"
     },
     {
       "id": "ra-2536652",
       "title": "STUNTSZ: HOME SHOPPING NETWORK",
       "lineup": "Prince Rose, Ty Sunderland, Mike Servito, Drew Baker, Memphy",
+      "artists": [
+        "Prince Rose",
+        "Ty Sunderland",
+        "Mike Servito",
+        "Drew Baker",
+        "Memphy"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Good Room",
       "area": "Brooklyn",
       "start": "2026-10-10T23:00:00-04:00",
       "source": "ra",
       "price": "$20",
+      "priceMin": 20,
       "url": "https://ra.co/events/2536652"
     },
     {
       "id": "ra-2552673",
       "title": "Public record",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
       "venue": "public records",
       "area": "Brooklyn",
       "start": "2026-10-10T23:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2552673"
     },
     {
       "id": "ra-2535612",
       "title": "WORLD CUP ii",
       "lineup": "SPRFRK, ALEXIS DE LA ROSA, Kim Ann Foxman, Michael Magnan",
+      "artists": [
+        "SPRFRK",
+        "ALEXIS DE LA ROSA",
+        "Kim Ann Foxman",
+        "Michael Magnan"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Qncc",
       "area": "Brooklyn",
       "start": "2026-10-10T23:59:00-04:00",
       "source": "ra",
       "price": "$30",
+      "priceMin": 30,
       "url": "https://ra.co/events/2535612"
-    },
-    {
-      "area": "Brooklyn",
-      "id": "eventbrite-2003060988337",
-      "lineup": "",
-      "price": "$30",
-      "source": "eventbrite",
-      "start": "2026-10-11T04:00:00-04:00",
-      "title": "SUNDAY MORNING AFTER PARTY 4AM ● SECRET RAVER ● SPECIAL GUEST",
-      "url": "https://www.eventbrite.com/e/sunday-morning-after-party-4am-secret-raver-special-guest-tickets-2003060988337",
-      "venue": "Brooklyn Warehouse"
     },
     {
       "id": "ra-2539859",
       "title": "Mizz Softee: CORA, DJ Saliva, Mohajer, Succubass, DJ G, Eugenia, Hank Jackson, Matas + more",
-      "lineup": "Cora (CN), Dj Saliva, DJ G., Mohajer, Samuel Fish, Hank Jackson",
+      "lineup": "Cora (CN), Dj Saliva, DJ G., Mohajer, Samuel Fish, Hank Jackson, Samwise (US), Matas, Eugenia, Succubass",
+      "artists": [
+        "Cora (CN)",
+        "Dj Saliva",
+        "DJ G.",
+        "Mohajer",
+        "Samuel Fish",
+        "Hank Jackson",
+        "Samwise (US)",
+        "Matas",
+        "Eugenia",
+        "Succubass"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Signal",
       "area": "Brooklyn",
       "start": "2026-10-11T10:00:00-04:00",
       "source": "ra",
       "price": "$20",
+      "priceMin": 20,
       "url": "https://ra.co/events/2539859"
-    },
-    {
-      "id": "dice-7dx62v",
-      "title": "HI-LO *3hr set* with Rebūke",
-      "lineup": "HI-LO, Rebūke, Oliver Heldens",
-      "venue": "Creekside - Under The K Bridge",
-      "area": "Brooklyn",
-      "start": "2026-10-11T14:00:00-04:00",
-      "source": "dice",
-      "price": "$20",
-      "url": "https://dice.fm/event/7dx62v-hi-lo-3hr-set-with-rebke-11th-oct-creekside-under-the-k-bridge-new-york-city-tickets"
     },
     {
       "id": "dice-avq3e7",
       "title": "The Nursery: Frank & Tony, Roman Flügel",
-      "lineup": "Roman Flügel, Frank and Tony",
+      "lineup": "Frank & Tony, Roman Flügel",
+      "artists": [
+        "Frank & Tony",
+        "Roman Flügel"
+      ],
+      "genres": [],
       "venue": "Public Records",
       "area": "Brooklyn",
       "start": "2026-10-11T15:00:00-04:00",
       "source": "dice",
-      "price": "$15",
+      "price": "$21.63",
+      "priceMin": 21.63,
       "url": "https://dice.fm/event/avq3e7-the-nursery-frank-tony-roman-flgel-11th-oct-public-records-new-york-tickets"
     },
     {
       "id": "ra-2555179",
       "title": "ANIMAL Sunday GIRLS TRIP w/ Tom Marsi, Pretty Privilege, Bill Sanders",
       "lineup": "Tom Marsi, Pretty Privilege, Bill Sanders",
+      "artists": [
+        "Tom Marsi",
+        "Pretty Privilege",
+        "Bill Sanders"
+      ],
+      "genres": [
+        "electro",
+        "house"
+      ],
       "venue": "Animal",
       "area": "Brooklyn",
       "start": "2026-10-11T16:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2555179"
     },
     {
       "id": "ra-2549106",
       "title": "Open Decks + Industry Night - Dead Letter No.9",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "electro",
+        "house"
+      ],
       "venue": "Dead Letter No. 9",
       "area": "Brooklyn",
       "start": "2026-10-11T17:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2549106"
     },
     {
       "id": "ra-2549166",
       "title": "feedbk with Kurilo and J. Richards",
       "lineup": "Kurilo, J. Richards",
+      "artists": [
+        "Kurilo",
+        "J. Richards"
+      ],
+      "genres": [
+        "progressive house",
+        "techno"
+      ],
       "venue": "feedbk",
       "area": "Brooklyn",
       "start": "2026-10-11T19:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2549166"
     },
     {
       "id": "ra-2553539",
       "title": "Happy Hour: Veralyn",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "club",
+        "techno"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-11T19:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2553539"
     },
     {
       "id": "dice-3o8vg8",
       "title": "Ear, Nose + Throat: hazzi, Tagof, Lila, MarzAtta",
-      "lineup": "",
+      "lineup": "hazzi, Tagof, Lila, MarzAtta",
+      "artists": [
+        "hazzi",
+        "Tagof",
+        "Lila",
+        "MarzAtta"
+      ],
+      "genres": [],
       "venue": "Jupiter Disco",
-      "area": "Brooklyn",
+      "area": "Queens",
       "start": "2026-10-11T19:00:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/3o8vg8-ear-nose-throat-hazzi-tagof-lila-marzatta-11th-oct-jupiter-disco-new-york-city-tickets"
     },
     {
       "id": "dice-6do7m8",
       "title": "GENESI with Welker",
-      "lineup": "GENESI",
+      "lineup": "GENESI, WELKER, Chellzz, Gabz",
+      "artists": [
+        "GENESI",
+        "WELKER",
+        "Chellzz",
+        "Gabz"
+      ],
+      "genres": [],
       "venue": "Knockdown Center",
       "area": "Queens",
       "start": "2026-10-11T20:00:00-04:00",
       "source": "dice",
-      "price": "$10",
+      "price": "$17.57",
+      "priceMin": 17.57,
       "url": "https://dice.fm/event/6do7m8-genesi-with-welker-11th-oct-knockdown-center-new-york-tickets"
     },
     {
       "id": "ra-2553600",
       "title": "TIKI AFTERS w FIXED",
       "lineup": "JDH",
+      "artists": [
+        "JDH"
+      ],
+      "genres": [
+        "acid",
+        "house"
+      ],
       "venue": "Gabriela",
       "area": "Brooklyn",
       "start": "2026-10-11T21:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2553600"
     },
     {
       "id": "ra-2537154",
       "title": "DAWSHA: 8ULENTINA, Donia L Jelly, Simzii, Hamadi",
       "lineup": "8ULENTINA, A7ba L Jelly, Hamadi, Simzii",
+      "artists": [
+        "8ULENTINA",
+        "A7ba L Jelly",
+        "Hamadi",
+        "Simzii"
+      ],
+      "genres": [
+        "experimental",
+        "techno"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-11T22:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2537154"
     },
     {
-      "id": "dice-532db8",
+      "id": "ra-2551905",
       "title": "Kater (Berlin) + Werkstatt 257 present: Steve Challier, Rafa, Masa",
-      "lineup": "",
+      "lineup": "Steve Challier, RAFAELO, Masa Saji",
+      "artists": [
+        "Steve Challier",
+        "RAFAELO",
+        "Masa Saji"
+      ],
+      "genres": [],
       "venue": "Signal",
       "area": "Brooklyn",
       "start": "2026-10-11T22:30:00-04:00",
-      "source": "dice",
-      "price": "$20",
-      "url": "https://dice.fm/event/532db8-kater-berlin-werkstatt-257-present-steve-challier-rafa-masa-11th-oct-signal-new-york-city-tickets"
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2551905"
     },
     {
       "id": "ra-2525563",
       "title": "Techno Yoga with Yaya Flows & nataliepops",
       "lineup": "Yaya Flows, nataliepops",
+      "artists": [
+        "Yaya Flows",
+        "nataliepops"
+      ],
+      "genres": [],
       "venue": "Nowadays",
       "area": "Queens",
       "start": "2026-10-13T19:00:00-04:00",
       "source": "ra",
       "price": "$15",
+      "priceMin": 15,
       "url": "https://ra.co/events/2525563"
-    },
-    {
-      "id": "ra-2541036",
-      "title": "Open Decks with STEEN & Clübsession",
-      "lineup": "STEEN",
-      "venue": "SILO",
-      "area": "Brooklyn",
-      "start": "2026-10-13T19:00:00-04:00",
-      "source": "ra",
-      "price": "",
-      "url": "https://ra.co/events/2541036"
     },
     {
       "id": "dice-7d5bp9",
       "title": "Open Decks w/ Steen & Clübsession",
-      "lineup": "",
-      "venue": "SILO Brooklyn ",
+      "lineup": "Steen, Clübsession",
+      "artists": [
+        "Steen",
+        "Clübsession"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "venue": "SILO Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-13T19:00:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/7d5bp9-open-decks-w-steen-clbsession-13th-oct-silo-brooklyn-brooklyn-tickets"
     },
     {
       "id": "ra-2543664",
       "title": "Input x CYBERSOUL",
-      "lineup": "shekdash, Rose Kourts, Sasha Rome, Joshua Orange, CAMILLA, LeCamille",
+      "lineup": "shekdash, Rose Kourts, Sasha Rome, Joshua Orange, CAMILLA, LeCamille, DAYE., GEOTHEORY",
+      "artists": [
+        "shekdash",
+        "Rose Kourts",
+        "Sasha Rome",
+        "Joshua Orange",
+        "CAMILLA",
+        "LeCamille",
+        "DAYE.",
+        "GEOTHEORY"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-13T22:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2543664"
-    },
-    {
-      "id": "ra-2541034",
-      "title": "Open Decks with STEEN and Monkey Wrench Techno",
-      "lineup": "STEEN",
-      "venue": "SILO",
-      "area": "Brooklyn",
-      "start": "2026-10-14T19:00:00-04:00",
-      "source": "ra",
-      "price": "",
-      "url": "https://ra.co/events/2541034"
     },
     {
       "id": "ra-2522489",
       "title": "happy hour with .json & daimei",
       "lineup": ".json",
+      "artists": [
+        ".json"
+      ],
+      "genres": [
+        "house",
+        "minimal"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-14T19:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2522489"
     },
     {
       "id": "ra-2550534",
       "title": "Matthew O'Neill 'Through To Us' Album Release Preview",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "electro",
+        "experimental"
+      ],
       "venue": "Dada",
       "area": "Queens",
       "start": "2026-10-14T19:00:00-04:00",
       "source": "ra",
       "price": "$10",
+      "priceMin": 10,
       "url": "https://ra.co/events/2550534"
+    },
+    {
+      "id": "ra-2542550",
+      "title": "synchroNYCity II: the downward spiral with Bella Mode, Sam Valle, SUPER WAV",
+      "lineup": "Bella Mode, Sam Valle, SUPER WAV",
+      "artists": [
+        "Bella Mode",
+        "Sam Valle",
+        "SUPER WAV"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
+      "area": "Brooklyn",
+      "start": "2026-10-14T19:00:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2542550"
     },
     {
       "id": "dice-k62yal",
       "title": "Open Decks w/ Steen and Monkey Wrench Techno",
-      "lineup": "",
-      "venue": "SILO Brooklyn ",
+      "lineup": "Steen, Monkey Wrench Techno",
+      "artists": [
+        "Steen",
+        "Monkey Wrench Techno"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "venue": "SILO Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-14T19:00:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/k62yal-open-decks-w-steen-and-monkey-wrench-techno-14th-oct-silo-brooklyn-brooklyn-tickets"
     },
     {
       "id": "ra-2553840",
       "title": "Happy Hour with Itsbenjamin",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-15T19:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2553840"
     },
     {
       "id": "ra-2522233",
       "title": "ILLEGAL: Rave Flyers of the 90s Launch Party: DB, DJ Miss Parker, DJ Three, S4M23",
       "lineup": "Miss Parker, DJ Three, S4M23",
+      "artists": [
+        "Miss Parker",
+        "DJ Three",
+        "S4M23"
+      ],
+      "genres": [
+        "acid",
+        "techno"
+      ],
       "venue": "Nowadays",
       "area": "Queens",
       "start": "2026-10-15T21:00:00-04:00",
       "source": "ra",
       "price": "$15",
+      "priceMin": 15,
       "url": "https://ra.co/events/2522233"
     },
     {
       "id": "ra-2549964",
       "title": "ROMANCE w Eli Escobar",
       "lineup": "Eli Escobar",
+      "artists": [
+        "Eli Escobar"
+      ],
+      "genres": [
+        "electro",
+        "pop"
+      ],
       "venue": "Gabriela",
       "area": "Brooklyn",
       "start": "2026-10-15T21:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2549964"
-    },
-    {
-      "id": "ra-2556100",
-      "title": "CODED Thursdays 10.15.26",
-      "lineup": "",
-      "venue": "Club Rawhide",
-      "area": "Manhattan",
-      "start": "2026-10-15T21:00:00-04:00",
-      "source": "ra",
-      "price": "$20",
-      "url": "https://ra.co/events/2556100"
     },
     {
       "id": "ra-2545965",
       "title": "Rendezvous Grooves Open decks",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Idle Mind Tavern",
       "area": "Brooklyn",
       "start": "2026-10-15T21:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2545965"
+    },
+    {
+      "id": "ra-2556100",
+      "title": "CODED Thursdays 10.15.26",
+      "lineup": "",
+      "artists": [],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "venue": "Club Rawhide",
+      "area": "Manhattan",
+      "start": "2026-10-15T21:00:00-04:00",
+      "source": "ra",
+      "price": "$20",
+      "priceMin": 20,
+      "url": "https://ra.co/events/2556100"
     },
     {
       "id": "ra-2553904",
       "title": "PAN!C ROOM",
       "lineup": "BUBUCORE69, duco, WADDLE, y2aura",
+      "artists": [
+        "BUBUCORE69",
+        "duco",
+        "WADDLE",
+        "y2aura"
+      ],
+      "genres": [
+        "gabber",
+        "techno"
+      ],
       "venue": "H0L0",
       "area": "Queens",
       "start": "2026-10-15T22:00:00-04:00",
       "source": "ra",
       "price": "$10",
+      "priceMin": 10,
       "url": "https://ra.co/events/2553904"
-    },
-    {
-      "id": "ra-2540999",
-      "title": "TRIM: cassandrah / Crypture / C4 (Main Room Event, Free with RSVP)",
-      "lineup": "cassandrah, C4",
-      "venue": "SILO",
-      "area": "Brooklyn",
-      "start": "2026-10-15T22:00:00-04:00",
-      "source": "ra",
-      "price": "",
-      "url": "https://ra.co/events/2540999"
     },
     {
       "id": "ra-2532860",
       "title": "TUNNELWERK: ACID NIGHT - ft NIGHTVVITCH & XSB-R",
       "lineup": "NIGHTVVITCH, XSB-R",
+      "artists": [
+        "NIGHTVVITCH",
+        "XSB-R"
+      ],
+      "genres": [
+        "acid",
+        "techno"
+      ],
       "venue": "Jade",
       "area": "Brooklyn",
       "start": "2026-10-15T22:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2532860"
+    },
+    {
+      "id": "ra-2535412",
+      "title": "Ardio presents: Ardio + Cutbird",
+      "lineup": "Ardio Zemog",
+      "artists": [
+        "Ardio Zemog"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
+      "area": "Brooklyn",
+      "start": "2026-10-15T22:00:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2535412"
     },
     {
       "id": "dice-q2dl7o",
       "title": "Trim: Cassandrah / Crypture / C4 (Main Room Event, Free w/ RSVP)",
-      "lineup": "Crypture, C4, cassandrah",
-      "venue": "SILO Brooklyn ",
+      "lineup": "Cassandrah, Crypture, C4",
+      "artists": [
+        "Cassandrah",
+        "Crypture",
+        "C4"
+      ],
+      "genres": [
+        "industrial",
+        "techno"
+      ],
+      "venue": "SILO Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-15T22:00:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/q2dl7o-trim-cassandrah-crypture-c4-main-room-event-free-w-rsvp-15th-oct-silo-brooklyn-brooklyn-tickets"
     },
     {
       "id": "ra-2549466",
       "title": "ruzz.OS vol. 002",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "dubstep",
+        "electro"
+      ],
       "venue": "OS NYC",
       "area": "Manhattan",
       "start": "2026-10-16T19:00:00-04:00",
       "source": "ra",
       "price": "$23",
+      "priceMin": 23,
       "url": "https://ra.co/events/2549466"
     },
     {
       "id": "ra-2543493",
       "title": "Outer Heaven Records 002 Release Party: A.Wild",
       "lineup": "A.Wild, Chloe Battelle",
+      "artists": [
+        "A.Wild",
+        "Chloe Battelle"
+      ],
+      "genres": [
+        "acid",
+        "house"
+      ],
       "venue": "Outer Heaven",
       "area": "Manhattan",
       "start": "2026-10-16T20:00:00-04:00",
       "source": "ra",
       "price": "$50",
+      "priceMin": 50,
       "url": "https://ra.co/events/2543493"
     },
     {
       "id": "ra-2553764",
       "title": "Groove Therapy presents Jorge Caiado (Carpet & Snares / Lisbon)",
       "lineup": "Jorge Caiado, Elkind, J.N.R., Sam Clark, Samuel Pojer",
+      "artists": [
+        "Jorge Caiado",
+        "Elkind",
+        "J.N.R.",
+        "Sam Clark",
+        "Samuel Pojer"
+      ],
+      "genres": [
+        "house",
+        "minimal techno"
+      ],
       "venue": "Honey's",
       "area": "Brooklyn",
       "start": "2026-10-16T21:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2553764"
     },
     {
       "id": "ra-2552981",
       "title": "Amber Valentine // ALL NIGHT LONG",
       "lineup": "Amber Valentine",
+      "artists": [
+        "Amber Valentine"
+      ],
+      "genres": [
+        "disco",
+        "electro"
+      ],
       "venue": "Gabriela",
       "area": "Brooklyn",
       "start": "2026-10-16T21:00:00-04:00",
       "source": "ra",
-      "price": "$20",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2552981"
     },
     {
       "id": "ra-2556104",
       "title": "Club Rawhide FRIDAY NIGHT 10.16.26",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "Club Rawhide",
       "area": "Manhattan",
       "start": "2026-10-16T21:00:00-04:00",
       "source": "ra",
       "price": "$30",
+      "priceMin": 30,
       "url": "https://ra.co/events/2556104"
     },
     {
       "id": "ra-2541300",
       "title": "TURN THAT OFF",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "pop",
+        "techno"
+      ],
       "venue": "Jade",
       "area": "Brooklyn",
       "start": "2026-10-16T21:30:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2541300"
     },
     {
       "id": "ra-2542689",
       "title": "feedbk with Meilgaarden and Amelia Holt, Second Contact",
       "lineup": "Meilgaarden, Amelia Holt, Second Contact",
+      "artists": [
+        "Meilgaarden",
+        "Amelia Holt",
+        "Second Contact"
+      ],
+      "genres": [
+        "progressive house",
+        "techno"
+      ],
       "venue": "feedbk",
       "area": "Brooklyn",
       "start": "2026-10-16T22:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2542689"
-    },
-    {
-      "area": "Brooklyn",
-      "id": "eventbrite-2001796504231",
-      "lineup": "Adam X, Fran LF, Frankie Bones, Perc, Cotton",
-      "price": "$25",
-      "source": "eventbrite",
-      "start": "2026-10-16T22:00:00-04:00",
-      "title": "Refuge Friday: ÄGAPĒ w/ Adam X, Fran LF, Frankie Bones, Perc, Cotton",
-      "url": "https://www.eventbrite.com/e/refuge-friday-agape-w-adam-x-fran-lf-frankie-bones-perc-cotton-tickets-2001796504231",
-      "venue": "Refuge"
     },
     {
       "id": "ra-2549962",
       "title": "Loofy",
       "lineup": "Loofy",
+      "artists": [
+        "Loofy"
+      ],
+      "genres": [
+        "minimal",
+        "tech house"
+      ],
       "venue": "SILO",
       "area": "Brooklyn",
       "start": "2026-10-16T22:00:00-04:00",
       "source": "ra",
       "price": "$15",
+      "priceMin": 15,
       "url": "https://ra.co/events/2549962"
     },
     {
       "id": "ra-2544645",
       "title": "DESCEND",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "techno"
+      ],
       "venue": "El Cartel",
       "area": "Bronx",
       "start": "2026-10-16T22:00:00-04:00",
       "source": "ra",
       "price": "$10",
+      "priceMin": 10,
       "url": "https://ra.co/events/2544645"
     },
     {
-      "id": "dice-l8pwmb",
-      "title": "Loofy / DNC b2b Hanzondeck / LoKho / NDRS b2b Sights",
-      "lineup": "Loofy",
-      "venue": "SILO Brooklyn ",
+      "id": "ra-2541651",
+      "title": "Refuge Friday: ÄGAPĒ with Adam X, Fran LF, Frankie Bones & Perc",
+      "lineup": "Adam X, Fran LF, Frankie Bones, Perc, cotton",
+      "artists": [
+        "Adam X",
+        "Fran LF",
+        "Frankie Bones",
+        "Perc",
+        "cotton"
+      ],
+      "genres": [],
+      "venue": "Refuge",
       "area": "Brooklyn",
       "start": "2026-10-16T22:00:00-04:00",
-      "source": "dice",
-      "price": "$15",
-      "url": "https://dice.fm/event/l8pwmb-loofy-dnc-b2b-hanzondeck-lokho-ndrs-b2b-sights-16th-oct-silo-brooklyn-brooklyn-tickets"
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2541651"
+    },
+    {
+      "id": "ra-2535414",
+      "title": "Natural Selections: Balam, Mona Matsuoka, Carlo Sine, Loren Berrier",
+      "lineup": "Balam, Mona Matsuoka, Carlo Sine, Loren Berrier",
+      "artists": [
+        "Balam",
+        "Mona Matsuoka",
+        "Carlo Sine",
+        "Loren Berrier"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
+      "area": "Brooklyn",
+      "start": "2026-10-16T22:00:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2535414"
     },
     {
       "id": "dice-bbg5lm",
       "title": "Night & Day: Shed (LIVE), 1morning, LYDO, Concrete Husband + TBA",
-      "lineup": "Shed, Concrete Husband, 1morning, Lydo",
+      "lineup": "Shed, 1morning, LYDO, Juana, Kamran Sadeghi, Concrete Husband",
+      "artists": [
+        "Shed",
+        "1morning",
+        "LYDO",
+        "Juana",
+        "Kamran Sadeghi",
+        "Concrete Husband"
+      ],
+      "genres": [],
       "venue": "Signal",
       "area": "Brooklyn",
       "start": "2026-10-16T22:00:00-04:00",
       "source": "dice",
-      "price": "$25",
+      "price": "$28.33",
+      "priceMin": 28.33,
       "url": "https://dice.fm/event/bbg5lm-night-day-shed-live-1morning-lydo-concrete-husband-tba-16th-oct-signal-new-york-city-tickets"
     },
     {
       "id": "dice-v3xnvl",
       "title": "Jan Blomqvist, Parallelle, Kanykei",
       "lineup": "Jan Blomqvist, Parallelle, Kanykei",
+      "artists": [
+        "Jan Blomqvist",
+        "Parallelle",
+        "Kanykei"
+      ],
+      "genres": [],
       "venue": "Knockdown Center",
       "area": "Queens",
       "start": "2026-10-16T22:00:00-04:00",
       "source": "dice",
-      "price": "$30",
+      "price": "$38.17",
+      "priceMin": 38.17,
       "url": "https://dice.fm/event/v3xnvl-jan-blomqvist-parallelle-kanykei-16th-oct-knockdown-center-new-york-tickets"
     },
     {
       "id": "ra-2536777",
       "title": "Phantasma: Joey Beltram, Volvox, Light Asylum(DJ Set) + Lenny Dee, FortifiedStructures",
       "lineup": "Joey Beltram, Volvox, Light Asylum, Lenny Dee, FortifiedStructures",
+      "artists": [
+        "Joey Beltram",
+        "Volvox",
+        "Light Asylum",
+        "Lenny Dee",
+        "FortifiedStructures"
+      ],
+      "genres": [
+        "gabber",
+        "techno"
+      ],
       "venue": "Paragon",
       "area": "Brooklyn",
       "start": "2026-10-16T22:30:00-04:00",
       "source": "ra",
       "price": "$25",
+      "priceMin": 25,
       "url": "https://ra.co/events/2536777"
     },
     {
       "id": "ra-2550264",
       "title": "Horror Hi-Fi",
       "lineup": "Alex Oxley, Alcala",
+      "artists": [
+        "Alex Oxley",
+        "Alcala"
+      ],
+      "genres": [
+        "electro",
+        "italo disco"
+      ],
       "venue": "The Onyx Room at House of Yes",
       "area": "Brooklyn",
       "start": "2026-10-16T22:30:00-04:00",
       "source": "ra",
       "price": "$24",
+      "priceMin": 24,
       "url": "https://ra.co/events/2550264"
     },
     {
-      "id": "ra-2532326",
-      "title": "D. Tiffany, Flørist / Gi Gi, adobeprincess / Very J",
-      "lineup": "D. Tiffany, Flørist, Gi Gi, adobeprincess, Very J",
-      "venue": "public records",
-      "area": "Brooklyn",
-      "start": "2026-10-16T23:00:00-04:00",
+      "id": "ra-2533892",
+      "title": "Juliana Huxtable / Anika Kunst / VILE / Pablo Bozzi / Byron Yeates / Kim Ann Foxman",
+      "lineup": "Juliana Huxtable, Anika Kunst, VILE, Pablo Bozzi, Byron Yeates, Kim Ann Foxman",
+      "artists": [
+        "Juliana Huxtable",
+        "Anika Kunst",
+        "VILE",
+        "Pablo Bozzi",
+        "Byron Yeates",
+        "Kim Ann Foxman"
+      ],
+      "genres": [],
+      "venue": "BASEMENT",
+      "area": "Queens",
+      "start": "2026-10-16T22:30:00-04:00",
       "source": "ra",
       "price": "",
-      "url": "https://ra.co/events/2532326"
+      "priceMin": null,
+      "url": "https://ra.co/events/2533892"
+    },
+    {
+      "id": "dice-nvxo35",
+      "title": "D. Tiffany, Flørist / Gi Gi, adobeprincess / Very J",
+      "lineup": "D. Tiffany, Flørist, Gi Gi, adobeprincess, Very J",
+      "artists": [
+        "D. Tiffany",
+        "Flørist",
+        "Gi Gi",
+        "adobeprincess",
+        "Very J"
+      ],
+      "genres": [
+        "minimal",
+        "tech house"
+      ],
+      "venue": "Public Records",
+      "area": "Brooklyn",
+      "start": "2026-10-16T23:00:00-04:00",
+      "source": "dice",
+      "price": "$21.63",
+      "priceMin": 21.63,
+      "url": "https://dice.fm/event/nvxo35-d-tiffany-flrist-gi-gi-adobeprincess-very-j-16th-oct-public-records-new-york-tickets"
     },
     {
       "id": "dice-wwm8wv",
       "title": "RUSH Presents - Funk Tribu: Day & Night",
-      "lineup": "Afem Syko, Funk Tribu, Ksenyeah, LOVEFOXY, Innamorati, SUPERGLOSS",
+      "lineup": "Funk Tribu, X3Butterfly, Ksenyeah, Afem Syko, Innamorati, Supergloss, LOVEFOXY",
+      "artists": [
+        "Funk Tribu",
+        "X3Butterfly",
+        "Ksenyeah",
+        "Afem Syko",
+        "Innamorati",
+        "Supergloss",
+        "LOVEFOXY"
+      ],
+      "genres": [
+        "acid",
+        "techno"
+      ],
       "venue": "Knockdown Center",
       "area": "Queens",
       "start": "2026-10-17T15:00:00-04:00",
       "source": "dice",
-      "price": "$35",
+      "price": "$43.32",
+      "priceMin": 43.32,
       "url": "https://dice.fm/event/wwm8wv-rush-presents-funk-tribu-day-night-17th-oct-knockdown-center-new-york-ruins-at-knockdown-center-new-york-tickets"
-    },
-    {
-      "area": "Brooklyn",
-      "id": "eventbrite-1996356569239",
-      "lineup": "Notre Dame, Falyn B2B Ramyen, Papyon",
-      "price": "$25",
-      "source": "eventbrite",
-      "start": "2026-10-17T15:00:00-04:00",
-      "title": "Refuge Saturday Daytime w/ Notre Dame, Falyn B2B Ramyen, Papyon",
-      "url": "https://www.eventbrite.com/e/refuge-saturday-daytime-w-notre-dame-falyn-b2b-ramyen-papyon-tickets-1996356569239",
-      "venue": "Refuge"
     },
     {
       "id": "ra-2474470",
       "title": "ULTRA SUNN with Soft Vein + DJ Jeffo",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "ebm",
+        "industrial"
+      ],
       "venue": "Le Poisson Rouge",
       "area": "Manhattan",
       "start": "2026-10-17T18:30:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2474470"
-    },
-    {
-      "id": "dice-ryo7lw",
-      "title": "Duffy x Uhlmann",
-      "lineup": "Duffy x Uhlmann",
-      "venue": "Union Pool",
-      "area": "Brooklyn",
-      "start": "2026-10-17T19:00:00-04:00",
-      "source": "dice",
-      "price": "$20",
-      "url": "https://dice.fm/event/ryo7lw-duffy-x-uhlmann-17th-oct-union-pool-new-york-tickets"
     },
     {
       "id": "ra-2543495",
       "title": "Attention Spin!: Dawidu b2b Nuts",
       "lineup": "Dawidu, NUTS (2), Chuwee",
+      "artists": [
+        "Dawidu",
+        "NUTS (2)",
+        "Chuwee"
+      ],
+      "genres": [
+        "electro",
+        "house"
+      ],
       "venue": "Outer Heaven",
       "area": "Manhattan",
       "start": "2026-10-17T20:00:00-04:00",
       "source": "ra",
       "price": "$50",
+      "priceMin": 50,
       "url": "https://ra.co/events/2543495"
     },
     {
       "id": "ra-2546869",
       "title": "PLAY ME TECHNO XII",
-      "lineup": "SKIN CONTACT, OCTI, KYRUH, Battygyal, Alfonso Javier, sydfalls",
+      "lineup": "SKIN CONTACT, OCTI, KYRUH, Battygyal, Alfonso Javier, sydfalls, Feonix (2), Concrete Husband",
+      "artists": [
+        "SKIN CONTACT",
+        "OCTI",
+        "KYRUH",
+        "Battygyal",
+        "Alfonso Javier",
+        "sydfalls",
+        "Feonix (2)",
+        "Concrete Husband"
+      ],
+      "genres": [
+        "electro",
+        "techno"
+      ],
       "venue": "TBA - Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-17T21:00:00-04:00",
       "source": "ra",
       "price": "$42",
+      "priceMin": 42,
       "url": "https://ra.co/events/2546869"
-    },
-    {
-      "id": "dice-l8m32w",
-      "title": "Midnight Caviar x Elevation: Hardt Antoine, SKALA",
-      "lineup": "Hardt Antoine, Lovecraft, SKALA",
-      "venue": "Signal",
-      "area": "Brooklyn",
-      "start": "2026-10-17T21:00:00-04:00",
-      "source": "dice",
-      "price": "$25",
-      "url": "https://dice.fm/event/l8m32w-midnight-caviar-x-elevation-hardt-antoine-skala-17th-oct-signal-new-york-city-tickets"
-    },
-    {
-      "id": "ra-2556107",
-      "title": "Club Rawhide SATURDAY NIGHT 10.17.26",
-      "lineup": "",
-      "venue": "Club Rawhide",
-      "area": "Manhattan",
-      "start": "2026-10-17T21:00:00-04:00",
-      "source": "ra",
-      "price": "$30",
-      "url": "https://ra.co/events/2556107"
     },
     {
       "id": "ra-2552982",
       "title": "Lady Harley // ALL NIGHT LONG",
       "lineup": "Lady Harley",
+      "artists": [
+        "Lady Harley"
+      ],
+      "genres": [
+        "acid",
+        "electro"
+      ],
       "venue": "Gabriela",
       "area": "Brooklyn",
       "start": "2026-10-17T21:00:00-04:00",
       "source": "ra",
-      "price": "$20",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2552982"
     },
     {
-      "id": "dice-7dmydp",
-      "title": "Kein Klub: Intergalactic Gary, Soundstream, Mike Servito, Amelia Holt",
-      "lineup": "Intergalactic Gary, Soundstream, Mike Servito, Amelia Holt",
-      "venue": "H0l0",
+      "id": "dice-l8m32w",
+      "title": "Midnight Caviar x Elevation: Hardt Antoine, SKALA",
+      "lineup": "Lovecraft, Hardt Antoine, SKALA, Christian Voldstadt, HOVR, Nota, oba+flip",
+      "artists": [
+        "Lovecraft",
+        "Hardt Antoine",
+        "SKALA",
+        "Christian Voldstadt",
+        "HOVR",
+        "Nota",
+        "oba+flip"
+      ],
+      "genres": [
+        "deep house",
+        "techno"
+      ],
+      "venue": "Signal",
+      "area": "Brooklyn",
+      "start": "2026-10-17T21:00:00-04:00",
+      "source": "dice",
+      "price": "$24.93",
+      "priceMin": 24.93,
+      "url": "https://dice.fm/event/l8m32w-midnight-caviar-x-elevation-hardt-antoine-skala-17th-oct-signal-new-york-city-tickets"
+    },
+    {
+      "id": "ra-2334019",
+      "title": "KEIN KLUB",
+      "lineup": "Intergalactic Gary, Mike Servito, Amelia Holt, Soundstream",
+      "artists": [
+        "Intergalactic Gary",
+        "Mike Servito",
+        "Amelia Holt",
+        "Soundstream"
+      ],
+      "genres": [
+        "italo disco",
+        "techno"
+      ],
+      "venue": "H0L0",
       "area": "Queens",
       "start": "2026-10-17T22:00:00-04:00",
-      "source": "dice",
+      "source": "ra",
       "price": "$15",
-      "url": "https://dice.fm/event/7dmydp-kein-klub-intergalactic-gary-soundstream-mike-servito-amelia-holt-17th-oct-h0l0-new-york-tickets"
+      "priceMin": 15,
+      "url": "https://ra.co/events/2334019"
     },
     {
       "id": "ra-2535245",
       "title": "AGAPĒ PRESENTS: Somewhen - Extended Set [4 Hours]",
       "lineup": "Somewhen",
+      "artists": [
+        "Somewhen"
+      ],
+      "genres": [
+        "techno",
+        "trance"
+      ],
       "venue": "Brooklyn Roots Collective",
       "area": "Brooklyn",
       "start": "2026-10-17T22:00:00-04:00",
       "source": "ra",
       "price": "$35",
+      "priceMin": 35,
       "url": "https://ra.co/events/2535245"
     },
     {
       "id": "ra-2522092",
       "title": "House of Yes x I Feel present Time & Space: Kino Todo",
       "lineup": "Kino Todo",
+      "artists": [
+        "Kino Todo"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
       "venue": "House of Yes",
       "area": "Brooklyn",
       "start": "2026-10-17T22:00:00-04:00",
       "source": "ra",
       "price": "$15",
+      "priceMin": 15,
       "url": "https://ra.co/events/2522092"
     },
     {
       "id": "ra-2547859",
       "title": "Peter Napoli, Prince Rose, Clubsásta: Nasti & Ru Mac, Rich Rotas - Dead Letter No.9",
       "lineup": "Peter Napoli, Prince Rose, Rich Rotas",
+      "artists": [
+        "Peter Napoli",
+        "Prince Rose",
+        "Rich Rotas"
+      ],
+      "genres": [
+        "electro",
+        "house"
+      ],
       "venue": "Dead Letter No. 9",
       "area": "Brooklyn",
       "start": "2026-10-17T22:00:00-04:00",
       "source": "ra",
       "price": "$20",
+      "priceMin": 20,
       "url": "https://ra.co/events/2547859"
     },
     {
       "id": "ra-2455820",
       "title": "Running Clouds presents: David Lindmer, Oscar L, EZE RAMIREZ, & Amiti",
       "lineup": "David Lindmer, Oscar L, EZE RAMIREZ, Amiti",
+      "artists": [
+        "David Lindmer",
+        "Oscar L",
+        "EZE RAMIREZ",
+        "Amiti"
+      ],
+      "genres": [
+        "progressive house",
+        "techno"
+      ],
       "venue": "SILO",
       "area": "Brooklyn",
       "start": "2026-10-17T22:00:00-04:00",
       "source": "ra",
       "price": "$20",
+      "priceMin": 20,
       "url": "https://ra.co/events/2455820"
     },
     {
-      "id": "dice-oeaqaa",
-      "title": "Running Clouds presents: David Lindmer, Oscar L, Eze Ramirez, & Amiti",
-      "lineup": "David Lindmer, Oscar L, Eze Ramirez, Amiti",
-      "venue": "SILO Brooklyn ",
+      "id": "ra-2540593",
+      "title": "HunnyBunny + Jeremy Giros",
+      "lineup": "HunnyBunny, Jeremy Giros",
+      "artists": [
+        "HunnyBunny",
+        "Jeremy Giros"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
+      "area": "Brooklyn",
+      "start": "2026-10-17T22:00:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2540593"
+    },
+    {
+      "id": "dice-nvxvrl",
+      "title": "Golden Record NYC present ARPO; Call Super, Shanti Celeste",
+      "lineup": "ARPO, Call Super, Shanti Celeste",
+      "artists": [
+        "ARPO",
+        "Call Super",
+        "Shanti Celeste"
+      ],
+      "genres": [],
+      "venue": "Location TBA, Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-17T22:00:00-04:00",
       "source": "dice",
-      "price": "$30",
-      "url": "https://dice.fm/event/oeaqaa-running-clouds-presents-david-lindmer-oscar-l-eze-ramirez-amiti-17th-oct-silo-brooklyn-brooklyn-tickets"
+      "price": "$29.75",
+      "priceMin": 29.75,
+      "url": "https://dice.fm/event/nvxvrl-golden-record-nyc-present-arpo-call-super-shanti-celeste-17th-oct-location-tba-brooklyn-new-york-city-tickets"
+    },
+    {
+      "id": "ra-2533898",
+      "title": "Dr. Rubinstein / The Advent / 98dots / Jay Jackson (fka.m4a) / Lauren Flax / Rumi de Baires",
+      "lineup": "Dr. Rubinstein, The Advent, 98dots, fka.m4a, Lauren Flax, Rumi de Baires",
+      "artists": [
+        "Dr. Rubinstein",
+        "The Advent",
+        "98dots",
+        "fka.m4a",
+        "Lauren Flax",
+        "Rumi de Baires"
+      ],
+      "genres": [],
+      "venue": "BASEMENT",
+      "area": "Queens",
+      "start": "2026-10-17T22:30:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2533898"
     },
     {
       "id": "ra-2534587",
       "title": "Polar Vortex Electronic Fest (21)",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "club",
+        "electro"
+      ],
       "venue": "The Meadows",
       "area": "Brooklyn",
       "start": "2026-10-17T23:00:00-04:00",
       "source": "ra",
       "price": "$20",
+      "priceMin": 20,
       "url": "https://ra.co/events/2534587"
     },
     {
       "id": "ra-2550593",
       "title": "Cafe Reflexion - ft Charity Kill & XSB-R",
       "lineup": "Charity Kill, XSB-R",
+      "artists": [
+        "Charity Kill",
+        "XSB-R"
+      ],
+      "genres": [
+        "ebm",
+        "minimal techno"
+      ],
       "venue": "Artbean Coffee Roasters",
       "area": "Manhattan",
       "start": "2026-10-18T12:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2550593"
     },
     {
-      "id": "ra-2535591",
+      "id": "eventbrite-1997643108312",
       "title": "Refuge Sunday: HAAi [Open to Close]",
       "lineup": "HAAi",
+      "artists": [
+        "HAAi"
+      ],
+      "genres": [],
       "venue": "Refuge",
       "area": "Brooklyn",
       "start": "2026-10-18T16:00:00-04:00",
-      "source": "ra",
-      "price": "",
-      "url": "https://ra.co/events/2535591"
+      "source": "eventbrite",
+      "price": "$15",
+      "priceMin": 15.0,
+      "url": "https://www.eventbrite.com/e/refuge-sunday-haai-open-to-close-tickets-1997643108312"
     },
     {
       "id": "ra-2542693",
       "title": "feedbk x slow life with Cecliio, Paolo Mosca",
       "lineup": "Cecilio, Paolo Mosca",
+      "artists": [
+        "Cecilio",
+        "Paolo Mosca"
+      ],
+      "genres": [
+        "minimal",
+        "trance"
+      ],
       "venue": "feedbk",
       "area": "Brooklyn",
       "start": "2026-10-18T19:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2542693"
     },
     {
       "id": "ra-2534891",
       "title": "Giallo Disco",
       "lineup": "Kellen303",
+      "artists": [
+        "Kellen303"
+      ],
+      "genres": [
+        "ebm",
+        "new wave"
+      ],
       "venue": "TBA - Rock Bar - 185 Christopher Street, New York Ny 10014",
       "area": "Manhattan",
       "start": "2026-10-18T19:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2534891"
     },
     {
       "id": "ra-2552294",
       "title": "Happy Hour: Groove Dealers",
       "lineup": "",
+      "artists": [],
+      "genres": [
+        "electro",
+        "techno"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-18T19:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2552294"
+    },
+    {
+      "id": "ra-2535417",
+      "title": "Sidera Invites: JESSXO, espurr, Brooke Steele, steele deficiency",
+      "lineup": "JESSXO, espurr, Brooke Steele, steele deficiency",
+      "artists": [
+        "JESSXO",
+        "espurr",
+        "Brooke Steele",
+        "steele deficiency"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
+      "area": "Brooklyn",
+      "start": "2026-10-18T19:00:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2535417"
     },
     {
       "id": "ra-2548994",
       "title": "Sidechain with Kanyon, DJ Linda, Conor Krane, & Piner",
       "lineup": "Kanyon, DJ Linda, Piner",
+      "artists": [
+        "Kanyon",
+        "DJ Linda",
+        "Piner"
+      ],
+      "genres": [
+        "techno"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-19T22:00:00-04:00",
       "source": "ra",
-      "price": "",
+      "price": "Free",
+      "priceMin": 0,
       "url": "https://ra.co/events/2548994"
-    },
-    {
-      "id": "ra-2546303",
-      "title": "Open Decks with STEEN & Crescent",
-      "lineup": "STEEN",
-      "venue": "SILO",
-      "area": "Brooklyn",
-      "start": "2026-10-20T19:00:00-04:00",
-      "source": "ra",
-      "price": "",
-      "url": "https://ra.co/events/2546303"
     },
     {
       "id": "dice-3o8qxv",
       "title": "Open Decks w/ Steen & Solarsonic Soundsystem",
-      "lineup": "",
-      "venue": "SILO Brooklyn ",
+      "lineup": "Steen, Solarsonic Soundsystem",
+      "artists": [
+        "Steen",
+        "Solarsonic Soundsystem"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "venue": "SILO Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-20T19:00:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/3o8qxv-open-decks-w-steen-solarsonic-soundsystem-20th-oct-silo-brooklyn-brooklyn-tickets"
     },
     {
       "id": "ra-2532666",
       "title": "KI-HOLE",
       "lineup": "bounce kisses, Yaz Lancaster, Kilbourne, L4RV4, SELENE (3)",
+      "artists": [
+        "bounce kisses",
+        "Yaz Lancaster",
+        "Kilbourne",
+        "L4RV4",
+        "SELENE (3)"
+      ],
+      "genres": [
+        "club",
+        "industrial"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-20T22:00:00-04:00",
       "source": "ra",
       "price": "$10",
+      "priceMin": 10,
       "url": "https://ra.co/events/2532666"
     },
     {
-      "area": "Manhattan",
-      "id": "eventbrite-1997241631484",
-      "lineup": "",
-      "price": "$34",
-      "source": "eventbrite",
-      "start": "2026-10-20T23:00:00-04:00",
-      "title": "Off The Record | Tuesday Sessions at PUBLIC Hotel",
-      "url": "https://www.eventbrite.com/e/off-the-record-tuesday-sessions-at-public-hotel-tickets-1997241631484",
-      "venue": "PUBLIC Hotel"
-    },
-    {
-      "id": "ra-2541040",
-      "title": "Open Decks with STEEN and MatchMyFreq Society",
-      "lineup": "STEEN",
-      "venue": "SILO",
+      "id": "ra-2540594",
+      "title": "LUSH: Joopiter, Stevo Blaque, Indigo Heaven",
+      "lineup": "Joopiter, Stevo Blaque, Indigo Heaven",
+      "artists": [
+        "Joopiter",
+        "Stevo Blaque",
+        "Indigo Heaven"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
       "area": "Brooklyn",
       "start": "2026-10-21T19:00:00-04:00",
       "source": "ra",
       "price": "",
-      "url": "https://ra.co/events/2541040"
+      "priceMin": null,
+      "url": "https://ra.co/events/2540594"
+    },
+    {
+      "id": "ra-2542551",
+      "title": "Joopiter + Special Guests TBA",
+      "lineup": "Joopiter",
+      "artists": [
+        "Joopiter"
+      ],
+      "genres": [],
+      "venue": "Jupiter Disco",
+      "area": "Brooklyn",
+      "start": "2026-10-21T19:00:00-04:00",
+      "source": "ra",
+      "price": "",
+      "priceMin": null,
+      "url": "https://ra.co/events/2542551"
     },
     {
       "id": "dice-py3b9y",
       "title": "Open Decks w/ Steen and MatchMyFreq Society",
-      "lineup": "",
-      "venue": "SILO Brooklyn ",
+      "lineup": "Steen, MatchMyFreq Society",
+      "artists": [
+        "Steen",
+        "MatchMyFreq Society"
+      ],
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "venue": "SILO Brooklyn",
       "area": "Brooklyn",
       "start": "2026-10-21T19:00:00-04:00",
       "source": "dice",
       "price": "Free",
+      "priceMin": 0,
       "url": "https://dice.fm/event/py3b9y-open-decks-w-steen-and-matchmyfreq-society-21st-oct-silo-brooklyn-brooklyn-tickets"
     },
     {
       "id": "dice-yoxw9x",
       "title": "Sonosphere: Episodic Memory, Olivia Mancuso, Kris Harris",
-      "lineup": "Episodic Memory, Kris Harris",
+      "lineup": "Episodic Memory, Olivia Mancuso, Kris Harris",
+      "artists": [
+        "Episodic Memory",
+        "Olivia Mancuso",
+        "Kris Harris"
+      ],
+      "genres": [],
       "venue": "Sleepwalk",
       "area": "Brooklyn",
       "start": "2026-10-21T19:00:00-04:00",
       "source": "dice",
-      "price": "$13",
+      "price": "$14.73",
+      "priceMin": 14.73,
       "url": "https://dice.fm/event/yoxw9x-sonosphere-episodic-memory-olivia-mancuso-kris-harris-21st-oct-sleepwalk-new-york-city-tickets"
     },
     {
       "id": "ra-2555009",
       "title": "PARALLELS",
       "lineup": "Pablo Vitale, ceviché, VHS, KOLO, Alchemy (US)",
+      "artists": [
+        "Pablo Vitale",
+        "ceviché",
+        "VHS",
+        "KOLO",
+        "Alchemy (US)"
+      ],
+      "genres": [
+        "techno"
+      ],
       "venue": "H0L0",
       "area": "Queens",
       "start": "2026-10-21T22:00:00-04:00",
       "source": "ra",
       "price": "$15",
+      "priceMin": 15,
       "url": "https://ra.co/events/2555009"
     },
     {
       "id": "ra-2549226",
       "title": "Community Hole",
       "lineup": "Vesolo, SWIMMIE, Subcultures, Brutal Twink",
+      "artists": [
+        "Vesolo",
+        "SWIMMIE",
+        "Subcultures",
+        "Brutal Twink"
+      ],
+      "genres": [
+        "breakbeat",
+        "electro"
+      ],
       "venue": "Bossa Nova Civic Club",
       "area": "Brooklyn",
       "start": "2026-10-21T22:00:00-04:00",
       "source": "ra",
       "price": "",
+      "priceMin": null,
       "url": "https://ra.co/events/2549226"
     }
   ]
