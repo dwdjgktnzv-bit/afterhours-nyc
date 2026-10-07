@@ -144,7 +144,7 @@ function dayLabel(d) {
 }
 function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" })[c]); }
 function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : "#"; }
-const SOURCE_NAMES = { ra: "RA", dice: "Dice", eventbrite: "Eventbrite", shotgun: "Shotgun", axs: "AXS", grayarea: "Gray Area" };
+const SOURCE_NAMES = { ra: "RA", dice: "Dice", eventbrite: "Eventbrite", shotgun: "Shotgun", axs: "AXS" };
 
 function render() {
   document.querySelectorAll("[data-when]").forEach(b => b.setAttribute("aria-pressed", b.dataset.when === state.when));
@@ -201,6 +201,17 @@ async function load() {
   render();
 }
 load();
+
+// Home-screen apps often resume without reloading. Check for new events
+// whenever the app comes back to the foreground (at most once a minute).
+let lastLoad = Date.now();
+function refreshIfStale() {
+  if (document.visibilityState !== "visible" || Date.now() - lastLoad < 60000) return;
+  lastLoad = Date.now();
+  load();
+}
+document.addEventListener("visibilitychange", refreshIfStale);
+window.addEventListener("pageshow", e => { if (e.persisted) { lastLoad = 0; refreshIfStale(); } });
 </script>
 </body>
 </html>
