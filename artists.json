@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T19:30:00-04:00",
+  "updatedAt": "2026-10-08T14:20:40-04:00",
   "artists": {
     "akua": {
       "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -1967,6 +1967,60 @@
         "bandcamp": "https://wtchcrft.bandcamp.com"
       },
       "checkedAt": "2026-10-07"
+    },
+    "caleb jackson": {
+      "bio": "New Zealand-born, Sydney-based DJ and producer; groove-driven psychedelic house; runs the Party Favours label and event series; supported Michael Bibi and played HÖR Berlin.",
+      "checkedAt": "2026-10-08",
+      "followers": {
+        "instagram": 14355
+      },
+      "genres": [
+        "house",
+        "tech house"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/calebjacks.on/",
+        "soundcloud": "https://soundcloud.com/caleb-jackson-41",
+        "spotify": "https://open.spotify.com/artist/3YRKJG9dgxTToWLfQnp3h3"
+      },
+      "name": "Caleb Jackson"
+    },
+    "dean turnley": {
+      "bio": "Melbourne-based Australian DJ and producer; viral 2026 single 'Actin' Tough' hit No. 1 on Spotify Viral and Beatport; co-founder of Thailand's Sundancer festival.",
+      "checkedAt": "2026-10-08",
+      "followers": {
+        "instagram": 47273
+      },
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "links": {
+        "instagram": "https://www.instagram.com/dean_turnley/",
+        "spotify": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
+      },
+      "name": "Dean Turnley"
+    },
+    "elkind": {
+      "bio": "Brooklyn-based DJ and event curator (Sights & Sounds); Austin transplant; plays house and techno across the NYC underground including Elsewhere and Honey's.",
+      "checkedAt": "2026-10-08",
+      "genres": [
+        "house",
+        "techno"
+      ],
+      "name": "Elkind"
+    },
+    "fifi": {
+      "bio": "LA-born DJ; house, techno and tech house; played Koko London and Life Is Beautiful and opened for Disclosure and Prospa; runs the Heatstroke party.",
+      "checkedAt": "2026-10-08",
+      "followers": {},
+      "genres": [
+        "house",
+        "tech house",
+        "techno"
+      ],
+      "links": {},
+      "name": "FIFI"
     }
   }
 }
