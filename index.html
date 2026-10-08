@@ -59,9 +59,11 @@ h1 span { color: var(--sodium); }
 .search svg { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; stroke: var(--muted); fill: none; stroke-width: 2; pointer-events: none; }
 .search .clear { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); background: none; border: 0; color: var(--muted); font-size: 20px; line-height: 1; padding: 6px 8px; cursor: pointer; }
 
-.rail { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; align-items: center; }
-.rail::-webkit-scrollbar { display: none; }
-.rail .sep { flex: none; width: 1px; height: 20px; background: var(--line); margin-inline: 2px; }
+/* Two centered rows that wrap instead of scrolling: time filters are pills, area filters are squared tabs */
+.rail { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; align-items: center; }
+.rail.area { gap: 6px; }
+.rail.area .chip { border-radius: 6px; padding: 5px 12px; font-size: 12px; letter-spacing: .03em; background: transparent; }
+.rail.area .chip[aria-pressed="true"] { background: transparent; color: var(--sodium); border-color: var(--sodium); }
 .chip {
   flex: none; font: 500 13px var(--body); color: var(--text);
   background: var(--panel); border: 1px solid var(--line); border-radius: 999px;
@@ -140,11 +142,12 @@ details.more > .artist + .artist { margin-top: 10px; }
       <input type="search" id="q" placeholder="Search artist, venue or genre" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" aria-label="Search artist, venue or genre">
       <button class="clear" id="clear" type="button" aria-label="Clear search" hidden>×</button>
     </div>
-    <div class="rail" role="group" aria-label="When and where">
+    <div class="rail when" role="group" aria-label="When">
       <button class="chip" id="w-tonight" data-when="tonight" aria-pressed="true">Tonight</button>
       <button class="chip" id="w-weekend" data-when="weekend" aria-pressed="false">This weekend</button>
       <button class="chip" id="w-all" data-when="all" aria-pressed="false">Next 2 weeks</button>
-      <span class="sep" aria-hidden="true"></span>
+    </div>
+    <div class="rail area" role="group" aria-label="Area">
       <button class="chip" id="b-all" data-boro="all" aria-pressed="true">All areas</button>
       <button class="chip" id="b-bk" data-boro="Brooklyn" aria-pressed="false">Brooklyn</button>
       <button class="chip" id="b-qn" data-boro="Queens" aria-pressed="false">Queens</button>
