@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T13:35:00-04:00",
+ "updatedAt": "2026-10-11T09:40:26-04:00",
  "artists": {
   "akua": {
    "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -451,7 +451,7 @@
    "name": "Henry Chow"
   },
   "isabella": {
-   "bio": "Colombian-born, Barcelona-based DJ and producer; co-founder of the LGBTQ+ party and label MARICAS; released debut EP Audio Exótica in 2020",
+   "bio": "Colombian-born, Barcelona-based DJ and producer; co-founder of the LGBTQ+ party and label MARICAS; released debut EP Audio Ex\u00f3tica in 2020",
    "checkedAt": "2026-10-07",
    "genres": [
     "house",
@@ -488,9 +488,9 @@
    },
    "name": "Kevin Karrera"
   },
-  "klké": {
+  "klk\u00e9": {
    "checkedAt": "2026-10-07",
-   "name": "KLKÉ"
+   "name": "KLK\u00c9"
   },
   "lefti": {
    "bio": "Brooklyn-based DJ and producer (real name Alexandro Suarez); runs Quincy Boy Records; plays house and tech house with releases on Toolroom, Nervous and Kittball",
@@ -723,8 +723,8 @@
    },
    "name": "Aurora Halal"
   },
-  "borbón": {
-   "bio": "New York DJ Juan Carlos Borbón; eclectic house and techno sets at TBA Brooklyn",
+  "borb\u00f3n": {
+   "bio": "New York DJ Juan Carlos Borb\u00f3n; eclectic house and techno sets at TBA Brooklyn",
    "checkedAt": "2026-10-07",
    "followers": {
     "instagram": 3312
@@ -736,7 +736,7 @@
    "links": {
     "instagram": "https://www.instagram.com/borbondj"
    },
-   "name": "Borbón"
+   "name": "Borb\u00f3n"
   },
   "camilla": {
    "bio": "Italian-born DJ based in New York; part of the Encrypted party series",
@@ -985,7 +985,7 @@
    "name": "MTHR TRSA"
   },
   "petrichor": {
-   "bio": "Techno project of Glasgow-based producer Simon Stokes; releases on Slam's Soma label, including the albums Mångata and Narisshu",
+   "bio": "Techno project of Glasgow-based producer Simon Stokes; releases on Slam's Soma label, including the albums M\u00e5ngata and Narisshu",
    "checkedAt": "2026-10-07",
    "genres": [
     "techno",
@@ -1010,7 +1010,7 @@
    "name": "Prince Rose"
   },
   "robert pm": {
-   "bio": "Brooklyn producer and DJ; label head of toucan sounds; one half of indie-dance band French Horn Rebellion; remixes for Beyoncé and Sia",
+   "bio": "Brooklyn producer and DJ; label head of toucan sounds; one half of indie-dance band French Horn Rebellion; remixes for Beyonc\u00e9 and Sia",
    "checkedAt": "2026-10-07",
    "followers": {
     "instagram": 2212
@@ -1174,14 +1174,14 @@
    "checkedAt": "2026-10-07",
    "name": "Brad Scott"
   },
-  "caín lima": {
+  "ca\u00edn lima": {
    "bio": "Peruvian multimedia artist, writer and DJ; signature genre-blending sets moving across styles and influences; recorded an NTS x Diesel Tracks set in Playa Roja, Peru in 2026",
    "checkedAt": "2026-10-07",
    "genres": [
     "club",
     "techno"
    ],
-   "name": "Caín Lima"
+   "name": "Ca\u00edn Lima"
   },
   "damon bradley": {
    "bio": "Philadelphia-based DJ; runs the TechnoFist platform",
@@ -1366,7 +1366,7 @@
    "name": "Sapphyre"
   },
   "simisea": {
-   "bio": "Brandon Sánchez; co-founder of the Human Pitch label",
+   "bio": "Brandon S\u00e1nchez; co-founder of the Human Pitch label",
    "checkedAt": "2026-10-07",
    "genres": [
     "electronic"
@@ -1457,7 +1457,7 @@
    ],
    "name": "Briela Veneno"
   },
-  "ceviché": {
+  "cevich\u00e9": {
    "bio": "New York open-format DJ (Che Johnson) and founder of Village Hidden in Sound; sets spanning disco, house, techno and breaks",
    "checkedAt": "2026-10-07",
    "genres": [
@@ -1466,7 +1466,7 @@
     "disco",
     "breaks"
    ],
-   "name": "ceviché"
+   "name": "cevich\u00e9"
   },
   "dane deveraux": {
    "bio": "Brooklyn DJ and former professional dancer; played the Lithuania club circuit with a Radio Vilnius residency; booked at Renate Berlin",
@@ -1604,14 +1604,14 @@
    ],
    "name": "Moopie"
   },
-  "oppo-normalè": {
+  "oppo-normal\u00e8": {
    "bio": "Bushwick-based queer artist playing genre-defying sets; regular at SILO and Pinky Swear",
    "checkedAt": "2026-10-07",
    "genres": [
     "club",
     "house"
    ],
-   "name": "Oppo-Normalè"
+   "name": "Oppo-Normal\u00e8"
   },
   "plushie": {
    "bio": "Brooklyn DJ playing high-energy club sets across DIY spaces like Night Club 101, IO Cafe and Godspeed Arts",
@@ -1696,7 +1696,7 @@
     "ambient",
     "experimental"
    ],
-   "bio": "Zurich-based DJ, live act and producer; co-runs Amenthia Recordings with Garçon; debut album Neutropia (2021); releases on Midgar, Delsin and Kynant",
+   "bio": "Zurich-based DJ, live act and producer; co-runs Amenthia Recordings with Gar\u00e7on; debut album Neutropia (2021); releases on Midgar, Delsin and Kynant",
    "links": {
     "soundcloud": "https://soundcloud.com/agonis-amenthia"
    },
@@ -1764,8 +1764,8 @@
    "name": "FASHION (US)",
    "checkedAt": "2026-10-07"
   },
-  "harrisôn": {
-   "name": "Harrisôn",
+  "harris\u00f4n": {
+   "name": "Harris\u00f4n",
    "checkedAt": "2026-10-07"
   },
   "hydro lin": {
@@ -1969,7 +1969,7 @@
    "checkedAt": "2026-10-07"
   },
   "caleb jackson": {
-   "bio": "New Zealand-born, Sydney-based DJ and producer; groove-driven psychedelic house; runs the Party Favours label and event series; supported Michael Bibi and played HÖR Berlin.",
+   "bio": "New Zealand-born, Sydney-based DJ and producer; groove-driven psychedelic house; runs the Party Favours label and event series; supported Michael Bibi and played H\u00d6R Berlin.",
    "checkedAt": "2026-10-08",
    "followers": {
     "instagram": 14355
@@ -2057,7 +2057,7 @@
    "name": "A7ba L Jelly"
   },
   "babu (2)": {
-   "bio": "Madrid-based DJ and Palique collective resident; deep, hypnotic vinyl-only techno and house at TRAMA, Sigh Club and El Sótano.",
+   "bio": "Madrid-based DJ and Palique collective resident; deep, hypnotic vinyl-only techno and house at TRAMA, Sigh Club and El S\u00f3tano.",
    "checkedAt": "2026-10-10",
    "genres": [
     "techno",
@@ -2110,7 +2110,7 @@
    ],
    "name": "Chellzz"
   },
-  "christopher schwarzwälder": {
+  "christopher schwarzw\u00e4lder": {
    "bio": "Berlin-based producer and DJ; Kater Blau resident; deep, restrained house and downtempo; member of the Feathered Sun collective.",
    "checkedAt": "2026-10-10",
    "followers": {
@@ -2127,7 +2127,7 @@
     "soundcloud": "https://soundcloud.com/shuffle",
     "spotify": "https://open.spotify.com/artist/11i3tISGuOUmWFuXTRNrtD"
    },
-   "name": "Christopher Schwarzwälder"
+   "name": "Christopher Schwarzw\u00e4lder"
   },
   "cora (cn)": {
    "bio": "Chengdu-born, Berlin-based DJ and producer; cinematic sets blending old-school trance, progressive house and techno; former .TAG resident and founder of the 6G+ party series.",
@@ -2419,7 +2419,7 @@
    ],
    "name": "RAFAELO"
   },
-  "roman flügel": {
+  "roman fl\u00fcgel": {
    "bio": "Producer and DJ active since the early 90s; chameleon across house, techno, electro and leftfield; co-founded Playhouse and Klang Elektronik labels.",
    "checkedAt": "2026-10-10",
    "followers": {
@@ -2436,7 +2436,7 @@
     "soundcloud": "https://soundcloud.com/romanfluegel",
     "spotify": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
    },
-   "name": "Roman Flügel"
+   "name": "Roman Fl\u00fcgel"
   },
   "samuel fish": {
    "bio": "Brooklyn-based DJ and Outer Orbit boss; focuses on deeper sides of house and techno alongside disco and dub.",
@@ -2561,6 +2561,676 @@
     "tiktok": "https://www.tiktok.com/@welkermusic"
    },
    "name": "WELKER"
+  },
+  "babeitspurr": {
+   "bio": "NYC DJ (alias PURR); open-format global club sets spanning amapiano, techno, jungle, baile funk and gqom, rooted in queer and Black dancefloor traditions.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 5711
+   },
+   "genres": [
+    "club",
+    "techno",
+    "amapiano",
+    "baile funk"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/babeitspurr/",
+    "soundcloud": "https://soundcloud.com/babeitspurr"
+   },
+   "name": "BABEITSPURR"
+  },
+  "bella mode": {
+   "bio": "Brooklyn-based DJ and producer from Grand Rapids, MI; plays electro, breaks, house, techno and psy; released original singles in 2025.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 1790
+   },
+   "genres": [
+    "electro",
+    "breaks",
+    "house",
+    "techno"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/bellamode.222/"
+   },
+   "name": "Bella Mode"
+  },
+  "bubucore69": {
+   "bio": "NYC-based DJ, producer and vtuber; plays j-core, happy hardcore and hard dance at anime con raves; releases on Bandcamp as SIPPING OUT OF CUPS and SPACE VS.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 2047,
+    "tiktok": 151
+   },
+   "genres": [
+    "j-core",
+    "happy hardcore",
+    "hard dance",
+    "techno"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/bubucore69",
+    "soundcloud": "https://soundcloud.com/bubucore69",
+    "tiktok": "https://www.tiktok.com/@bubucore69"
+   },
+   "name": "BUBUCORE69"
+  },
+  "c4": {
+   "bio": "DJ and producer from Pereira, Colombia; fast, raw, unfiltered techno with the CRUD0 collective, playing Brooklyn floors like SILO.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "techno",
+    "hard techno"
+   ],
+   "links": {},
+   "name": "C4"
+  },
+  "mohajer": {
+   "bio": "Berlin-based Swedish-Persian DJ and producer; groovy techno, tribal house and driving trance with Persian percussive roots; Fast Forward resident and cofounder of queer party series mp3.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 8576
+   },
+   "genres": [
+    "techno",
+    "trance",
+    "tribal house",
+    "progressive house"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/melindamohajer/",
+    "soundcloud": "https://soundcloud.com/djmohajer"
+   },
+   "name": "Mohajer"
+  },
+  "super wav": {
+   "bio": "Brooklyn-based DJ (Corey Hindin); eclectic sets spanning house, breaks, bass and jazz; plays NYC spots including Jupiter Disco, Rash and Crossroads Cafe",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 832
+   },
+   "genres": [
+    "house",
+    "breaks",
+    "bass",
+    "jazz"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/coreyhindin/",
+    "soundcloud": "https://soundcloud.com/super_wav"
+   },
+   "name": "SUPER WAV"
+  },
+  "veralyn": {
+   "bio": "Brooklyn-based DJ and producer playing techno and house across NYC clubs including Bossa Nova Civic Club and Paragon; founder of the Synth Wars DJ competition.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 3318
+   },
+   "genres": [
+    "techno",
+    "house",
+    "club"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/veralynwen/"
+   },
+   "name": "Veralyn"
+  },
+  "cassandrah": {
+   "bio": "Italian DJ and producer launched in 2021; sets blend industrial techno sounds, dark atmospheres and breakcore influences; performed at MONASTERIO and BLACKWORKS.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "spotify": 1417
+   },
+   "genres": [
+    "techno",
+    "industrial",
+    "breakcore",
+    "hard techno"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/cassandrah.music/",
+    "ra": "https://ra.co/dj/cassandrah",
+    "spotify": "https://open.spotify.com/artist/5HjLtJjUiHKlcYFdbqFbwG"
+   },
+   "name": "cassandrah"
+  },
+  "charmed": {
+   "bio": "New York-based b2b DJ duo Charmed, the joint project of BABEITSPURR and KC (NYC), plays bass, dubstep, breaks and jungle in their club sets.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "bass",
+    "dubstep",
+    "breaks",
+    "jungle"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/charmedxbass/",
+    "ra": "https://ra.co/dj/charmed"
+   },
+   "name": "Charmed"
+  },
+  "dj three": {
+   "bio": "Florida-born, NYC-based DJ; veteran of US house and techno since the early 90s; founder of the Hallucienda label, formerly Hallucination Limited.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "house",
+    "techno",
+    "tech-house"
+   ],
+   "links": {
+    "bandcamp": "https://bandcamp.com/djthree",
+    "facebook": "https://www.facebook.com/djthree",
+    "ra": "https://ra.co/dj/djthree",
+    "soundcloud": "https://soundcloud.com/djthreeofc"
+   },
+   "name": "DJ Three"
+  },
+  "duco": {
+   "bio": "NYC-based DJ/producer originally from Seoul; founder of the PAN!C ROOM collective; plays hardgroove techno, hard house, ghettotech and breakbeat.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 1978
+   },
+   "genres": [
+    "techno",
+    "hardgroove",
+    "ghettotech",
+    "breakbeat"
+   ],
+   "links": {
+    "bandcamp": "https://madebyduco.bandcamp.com/",
+    "instagram": "https://www.instagram.com/madebyduco/",
+    "ra": "https://ra.co/dj/duco",
+    "soundcloud": "https://soundcloud.com/ducoxiii"
+   },
+   "name": "duco"
+  },
+  "gigi rio": {
+   "bio": "Brooklyn-based DJ; genre-bending sets spanning UKG, bassline, breaks and minimal; host of the Unravel party and mix series.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 2747
+   },
+   "genres": [
+    "uk garage",
+    "bassline",
+    "breaks",
+    "techno"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/gigi_rio_/",
+    "ra": "https://ra.co/dj/gigirio",
+    "soundcloud": "https://soundcloud.com/gigi_rio"
+   },
+   "name": "Gigi Rio"
+  },
+  "iluvonionz": {
+   "bio": "Brooklyn-based DJ and Club Akira collective member; plays techno and club sets at NYC venues including Rash, Jupiter Disco, Mood Ring and Elsewhere.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 3161
+   },
+   "genres": [
+    "techno",
+    "club"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/kieramanda/",
+    "ra": "https://ra.co/dj/iluvonionz"
+   },
+   "name": "Iluvonionz"
+  },
+  "kc (nyc)": {
+   "bio": "Brooklyn-based DJ playing house, hardgroove, techno and drum and bass; blends multiple genres in each set; founder and curator of the Born 2 Boogie dance party.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 3949,
+    "soundcloud": 152
+   },
+   "genres": [
+    "house",
+    "hardgroove",
+    "techno",
+    "drum and bass"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/kcxcazz_/",
+    "nosignal": "https://www.nosignalnyc.com/artists/kc",
+    "soundcloud": "https://soundcloud.com/kc_cazz9"
+   },
+   "name": "KC (NYC)"
+  },
+  "miss parker": {
+   "bio": "Brooklyn-based queer non-binary DJ, producer and promoter whose vinyl sets span trance, techno, acid and hardstyle; runs the Oasis series at Nowadays and has played Boiler Room and HOR Berlin.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "techno",
+    "trance",
+    "acid",
+    "hardstyle"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/thebussycatdoll",
+    "soundcloud": "https://soundcloud.com/djmissparker"
+   },
+   "name": "Miss Parker"
+  },
+  "mui mui": {
+   "bio": "Brooklyn-based DJ, organizer and classically trained dancer who runs the Techno Casa party series and holds residencies on Noods Radio and Hong Kong Community Radio, playing bass-driven techno and club sets.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "techno",
+    "bass",
+    "dubstep",
+    "club"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/mui____mui",
+    "soundcloud": "https://soundcloud.com/mui_muii"
+   },
+   "name": "Mui Mui"
+  },
+  "nightvvitch": {
+   "bio": "Bronx-born Nuyorican DJ and multimedia artist rooted in NYC's goth, industrial and EBM scenes; dark, hypnotic sets that keep the groove, released the Moonlight & Teeth demo in 2021.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "ebm",
+    "industrial",
+    "acid",
+    "darkwave"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/nightvvitch_"
+   },
+   "name": "NIGHTVVITCH"
+  },
+  "sister zo": {
+   "bio": "New York-based DJ and producer (real name Zoey Shopmaker) blending UK bass, percussive broken beats and driving techno; releases on 3024 and Scuffed Recordings; co-founder of the UN/TUCK collective.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "techno",
+    "bass",
+    "breakbeat",
+    "uk funky"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/sister_zo",
+    "soundcloud": "https://soundcloud.com/sisterzo",
+    "spotify": "https://open.spotify.com/artist/6Ewmrt3OB8NFIZ4JJNDh0X"
+   },
+   "name": "Sister Zo"
+  },
+  "waddle": {
+   "bio": "Seoul-born, NYC-based DJ and producer (Sam Chung), a classically trained cellist whose open-format sets range from deep/tech house to hard dance, donk and ghetto tech; co-founder of the PAN!C ROOM collective.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "techno",
+    "hardgroove",
+    "ghetto tech",
+    "uk garage"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/waddle_yongga",
+    "soundcloud": "https://soundcloud.com/waddle_yongga"
+   },
+   "name": "WADDLE"
+  },
+  "xsb-r": {
+   "bio": "Brooklyn native Henry Chen's electronic music project channeling NYC goth, industrial and dark techno; founder of the TUNNELWERK acid/EBM/noise party series and the Cafe Reflexion darkwave coffee sessions.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "acid",
+    "ebm",
+    "industrial",
+    "dark techno"
+   ],
+   "links": {},
+   "name": "XSB-R"
+  },
+  "y2aura": {
+   "bio": "NYC DJ (real name Auralee) and one-fifth of the PAN!C ROOM collective; brings driving techno, gritty bass and club music to Brooklyn parties including Bossa Nova Civic Club and Mood Ring.",
+   "checkedAt": "2026-10-11",
+   "followers": {},
+   "genres": [
+    "techno",
+    "bass",
+    "club"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/y2aura"
+   },
+   "name": "y2aura"
+  },
+  "1morning": {
+   "name": "1morning",
+   "genres": [
+    "techno",
+    "hardgroove"
+   ],
+   "bio": "Los Angeles-based vinyl DJ and producer; funky old-school techno and hardgroove with swung '90s grooves; releases on Fixed Rhythms, Ilian Tape, Character and ARTS.",
+   "followers": {
+    "instagram": 6100,
+    "spotify": 2200
+   },
+   "links": {
+    "instagram": "https://instagram.com/1morning_",
+    "soundcloud": "https://soundcloud.com/1morning"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "adam x": {
+   "name": "Adam X",
+   "genres": [
+    "techno",
+    "industrial",
+    "ebm"
+   ],
+   "bio": "Brooklyn-born, Berlin-based DJ and producer; NYC techno pioneer since 1990; Sonic Groove Records founder; merges techno with industrial and EBM.",
+   "followers": {},
+   "links": {
+    "instagram": "https://instagram.com/adamx_sonicgroove"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "ah dek": {
+   "name": "Ah Dek",
+   "genres": [
+    "techno"
+   ],
+   "bio": "Brooklyn-based DJ and hardware techno performer active since 2010; plays NYC underground spots like Bossa Nova Civic Club and Jupiter Disco; makes club edits.",
+   "followers": {},
+   "links": {
+    "instagram": "https://instagram.com/ah_dek_jing_gao"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "anika kunst": {
+   "name": "Anika Kunst",
+   "genres": [
+    "techno",
+    "hypnotic",
+    "raw techno"
+   ],
+   "bio": "Spanish (Granada-born, Barcelona-based) DJ, producer and Chapter Records founder; 20+ years; raw, groovy, hypnotic techno.",
+   "followers": {
+    "spotify": 2600
+   },
+   "links": {
+    "instagram": "https://instagram.com/anikakunstmuzik",
+    "soundcloud": "https://soundcloud.com/anika-kunst"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "balam": {
+   "name": "Balam",
+   "genres": [
+    "dark disco",
+    "house",
+    "indie dance",
+    "psychedelic"
+   ],
+   "bio": "Buenos Aires producer and DJ on Multi Culti, Hard Fist, Calypso and Natural Selections; tribal percussion and folkloric samples meet modular synths in psychedelic, disco-leaning dancefloor pressure.",
+   "followers": {},
+   "links": {
+    "soundcloud": "https://soundcloud.com/balamok"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "byron yeates": {
+   "name": "Byron Yeates",
+   "genres": [
+    "techno",
+    "house",
+    "acid",
+    "trance"
+   ],
+   "bio": "Berlin-based DJ and producer from Galway, Ireland; founder of party-turned-label Radiant Records and co-founder of La Noche; plays long sets of cosmic techno, celestial acid and deep house.",
+   "followers": {
+    "instagram": 18072
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/byronyeates/",
+    "soundcloud": "https://soundcloud.com/byronyeates"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "carlo sine": {
+   "name": "Carlo Sine",
+   "genres": [
+    "disco",
+    "cosmic house",
+    "indie dance"
+   ],
+   "bio": "New England DJ, producer and Natural Selections co-founder; selections run from disco and cosmic house to punk-infused psych rock; releases on Tour De Infinite, Spa In Disco and Whiskey Pickle.",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-11"
+  },
+  "frankie bones": {
+   "bio": "Brooklyn-born DJ and producer who began playing New York clubs in the early 1980s and organized the first Storm Rave outdoor parties; brother of Adam X, founder of Bangin Music.",
+   "checkedAt": "2026-10-11",
+   "followers": {
+    "instagram": 56564
+   },
+   "genres": [
+    "techno",
+    "acid",
+    "breaks",
+    "house"
+   ],
+   "links": {
+    "bandcamp": "https://frankiebones.bandcamp.com/",
+    "instagram": "https://www.instagram.com/djfrankiebones/",
+    "soundcloud": "https://soundcloud.com/frankiebones"
+   },
+   "name": "Frankie Bones"
+  },
+  "dynoman": {
+   "name": "Dynoman",
+   "genres": [
+    "techno",
+    "house",
+    "experimental"
+   ],
+   "bio": "Brooklyn-based DJ and producer (Haamid Rahim) from Karachi; techno built on chuggy basslines and South Asian percussion like tabla; cofounder of Forever South, Rare Frequency Transmissions and Tarka.",
+   "followers": {
+    "instagram": 3201
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/dynomanmusic/",
+    "spotify": "https://open.spotify.com/artist/6EeYep6NoRGxTDAjwQl9ki",
+    "bandcamp": "https://dynoman.bandcamp.com"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "fran lf": {
+   "name": "Fran LF",
+   "genres": [
+    "techno",
+    "hardgroove",
+    "deep techno"
+   ],
+   "bio": "Sicilian-born, Amsterdam-based DJ and producer; groove-driven hardgroove techno on Quartz, Solid Tracks, NECHTO and his Vibrant Collective; one half of F Theory.",
+   "followers": {
+    "instagram": 13869
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/fran__lf/",
+    "soundcloud": "https://soundcloud.com/flflflflflflf"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "helix": {
+   "name": "Helix",
+   "genres": [
+    "hard groove",
+    "techno",
+    "jersey club"
+   ],
+   "bio": "Brooklyn-based DJ (real name Aheli); hard groove, techno and jersey club; plays NYC underground parties like Stoneface Sessions and Bossa Nova Civic Club.",
+   "followers": {},
+   "links": {
+    "ra": "https://ra.co/dj/helix-2"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "jack marlow": {
+   "name": "JACK MARLOW",
+   "genres": [
+    "house",
+    "garage"
+   ],
+   "bio": "Liverpool-based producer; signature blend of house and UK garage with tracks 'Who Do U' and 'Pressure FM'; independent, 1.4M+ Spotify monthly listeners.",
+   "followers": {
+    "instagram": 33672,
+    "tiktok": 44700
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/jackmarloww",
+    "soundcloud": "https://soundcloud.com/jackmarlowwzzz",
+    "spotify": "https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3",
+    "tiktok": "https://www.tiktok.com/@jackmarlowww",
+    "ra": "https://ra.co/dj/jackmarlow"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "concrete husband": {
+   "name": "Concrete Husband",
+   "genres": [
+    "techno",
+    "hard groove",
+    "industrial",
+    "hard techno"
+   ],
+   "bio": "Brooklyn-based DJ, producer, composer and classically trained flutist; releases on White Owl Records and NNA Tapes blend hard groove and industrial techno with chamber composition.",
+   "followers": {
+    "instagram": 7011
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/concrete___husband/",
+    "soundcloud": "https://soundcloud.com/concretehusband",
+    "spotify": "https://open.spotify.com/artist/0j5kRVO5Stf87TSQlo2i0E",
+    "bandcamp": "https://concretehusband.bandcamp.com",
+    "residentadvisor": "https://ra.co/dj/concretehusband"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "cotton": {
+   "name": "cotton",
+   "genres": [
+    "techno",
+    "hard groove",
+    "industrial"
+   ],
+   "bio": "Brooklyn-born DJ in the New York underground for 13 years; founder of the Renegade parties; plays driving, raw techno with an exploratory, no-BS approach.",
+   "followers": {
+    "instagram": 5270
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/cottonroach/",
+    "soundcloud": "https://soundcloud.com/cottonroach",
+    "residentadvisor": "https://ra.co/dj/cotton-2"
+   },
+   "checkedAt": "2026-10-11"
+  },
+  "joey beltram": {
+   "bio": "Queens-born DJ and producer; pioneering 1990s techno via the anthems \"Energy Flash\" and \"Mentasm\"; releases on R&S, Tresor and Drumcode.",
+   "checkedAt": "2026-10-11",
+   "genres": [
+    "techno",
+    "acid"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/joeybeltram/",
+    "soundcloud": "https://soundcloud.com/joey-beltram",
+    "spotify": "https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0"
+   },
+   "name": "Joey Beltram"
+  },
+  "juana": {
+   "bio": "Chicago-born, DC-based DJ and producer on the Discwoman roster; straight-ahead techno with Chicago acid and deep house roots; co-founder of the NOXEEMA JACKSON collective.",
+   "checkedAt": "2026-10-11",
+   "genres": [
+    "techno",
+    "acid",
+    "house"
+   ],
+   "links": {
+    "bandcamp": "https://thatjuana.bandcamp.com",
+    "instagram": "https://www.instagram.com/thatjuana/",
+    "soundcloud": "https://soundcloud.com/thatjuana"
+   },
+   "name": "Juana"
+  },
+  "juliana huxtable": {
+   "bio": "New York artist, writer and DJ; founder of the Shock Value party series; genre-blending club sets fusing techno, grime and hip-hop.",
+   "checkedAt": "2026-10-11",
+   "genres": [
+    "techno",
+    "club",
+    "experimental"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/julianahuxtable",
+    "soundcloud": "https://soundcloud.com/julianahuxtable"
+   },
+   "name": "Juliana Huxtable"
+  },
+  "kamran sadeghi": {
+   "bio": "Iranian-born, NYC-based electronic composer, producer and live performer; hypnotic house and techno via modular synthesis; core member of Soundwalk Collective.",
+   "checkedAt": "2026-10-11",
+   "genres": [
+    "techno",
+    "ambient",
+    "experimental"
+   ],
+   "links": {
+    "bandcamp": "https://kamransadeghi.bandcamp.com",
+    "soundcloud": "https://soundcloud.com/kamransadeghi",
+    "spotify": "https://open.spotify.com/artist/4SrJ3PNOh8RYatrECpW8s6"
+   },
+   "name": "Kamran Sadeghi"
+  },
+  "light asylum": {
+   "bio": "Brooklyn electronic project of vocalist Shannon Funchess, founded 2007; darkwave and synth-pop with operatic contralto vocals; released on Mexican Summer.",
+   "checkedAt": "2026-10-11",
+   "genres": [
+    "darkwave",
+    "synthpop",
+    "ebm"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/light_asylum/",
+    "soundcloud": "https://soundcloud.com/light-asylum",
+    "spotify": "https://open.spotify.com/artist/2y98d6N81pArQNXYvkupr8"
+   },
+   "name": "Light Asylum"
+  },
+  "loren berrier": {
+   "bio": "Brooklyn-based DJ and co-founder of the Mobile Output event series; 25 years behind the decks playing house, disco and open-format sets across NYC.",
+   "checkedAt": "2026-10-11",
+   "genres": [
+    "house",
+    "deep house",
+    "disco"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/lberrier/"
+   },
+   "name": "Loren Berrier"
   }
  }
 }
