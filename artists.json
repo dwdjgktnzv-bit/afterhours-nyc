@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T09:40:26-04:00",
+ "updatedAt": "2026-10-12T10:02:28-04:00",
  "artists": {
   "akua": {
    "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -3231,6 +3231,200 @@
     "instagram": "https://www.instagram.com/lberrier/"
    },
    "name": "Loren Berrier"
+  },
+  "a.wild": {
+   "name": "A.Wild",
+   "genres": [
+    "techno",
+    "tech house",
+    "minimal"
+   ],
+   "bio": "Bristol-based DJ and electronic producer splitting time with London; debut EP ReportDeluxe on Studio Barnhus; releases on Wisdom Teeth and Outer Heaven Records; mixes minimal, techno and tech house.",
+   "links": {
+    "bandcamp": "http://awild.bandcamp.com"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "alcala": {
+   "name": "Alcala",
+   "genres": [
+    "electro",
+    "disco",
+    "house"
+   ],
+   "bio": "Boston-born, NYC-based DJ; started at college house parties with underground progressive house, electro and techno; blurs lines between electro, disco, techno, house and indie.",
+   "links": {
+    "soundcloud": "https://soundcloud.com/alcala"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "alex oxley": {
+   "name": "Alex Oxley",
+   "genres": [
+    "italo",
+    "disco",
+    "electro"
+   ],
+   "bio": "LA-based UK-born DJ; co-founder of global touring remix project Fleetmac Wood; runs Horror Hi-Fi, channeling psychedelic electronic music via horror cinema.",
+   "followers": {
+    "instagram": 1757
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/alexoxley/"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "chloe battelle": {
+   "name": "Chloe Battelle",
+   "genres": [
+    "techno",
+    "acid",
+    "electro"
+   ],
+   "bio": "Brooklyn-based DJ and producer whose sound merges techno with cinematic melody, drawing on 90s acid, breakbeat and early rave; debut EP 'Porcelain' on EELF Records; founder of the Softcore party series.",
+   "followers": {
+    "instagram": 5807
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/chloebattelle",
+    "spotify": "https://open.spotify.com/artist/4dQZbGYqmZQxjdoOzRChrc"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "lydo": {
+   "name": "LYDO",
+   "genres": [
+    "techno",
+    "trance",
+    "experimental"
+   ],
+   "bio": "New York-based sound artist and DJ; BASEMENT NY resident; founder of the X-TRA.SERVICES party series and label.",
+   "links": {
+    "instagram": "https://www.instagram.com/lydole",
+    "soundcloud": "https://soundcloud.com/lydole"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "lenny dee": {
+   "name": "Lenny Dee",
+   "genres": [
+    "hardcore",
+    "gabber",
+    "techno"
+   ],
+   "bio": "New York DJ; founder of Industrial Strength Records (1991); pioneer of hardcore techno and gabber; first hardcore DJ to appear in the DJ Mag Top 100.",
+   "followers": {
+    "instagram": 1255
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/djlennydee"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "marsolo": {
+   "name": "Marsolo",
+   "genres": [
+    "house",
+    "deep house",
+    "minimal tech"
+   ],
+   "bio": "Dutch house DJ and producer Marijn van Vliet from Utrecht; emotive sample-driven house with vintage drums and warm synths; releases on Eastenderz and Three Six Zero, supported by Chris Stussy and Enzo Siragusa.",
+   "followers": {
+    "instagram": 69626
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/marsolomusic/",
+    "soundcloud": "https://soundcloud.com/marsolomusic",
+    "tiktok": "https://www.tiktok.com/@marsolomusic"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "natalia roth": {
+   "name": "Natalia Roth",
+   "genres": [
+    "minimal deep tech",
+    "techno",
+    "house"
+   ],
+   "bio": "Puerto Rican-born DJ, vocalist and producer based in Miami; fuses minimal tech and techno; resident at Club Space and founder of the Mel\u00f3die party brand and record label.",
+   "links": {
+    "soundcloud": "https://soundcloud.com/nataliaroth"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "pablo bozzi": {
+   "name": "Pablo Bozzi",
+   "genres": [
+    "italo disco",
+    "ebm",
+    "electro",
+    "synthwave"
+   ],
+   "bio": "Berlin-based French producer and DJ; Italo Body Music blending italo disco, EBM, synthwave and early trance; half of Imperial Black Unit and Soft Crash; owns Second Sight label.",
+   "followers": {
+    "instagram": 61085
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/pablo.bozzi/",
+    "soundcloud": "https://soundcloud.com/pablo-bozzi",
+    "spotify": "https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "perc": {
+   "name": "Perc",
+   "genres": [
+    "techno",
+    "industrial techno"
+   ],
+   "bio": "London-based producer Ali Wells; industrial-leaning techno and founder of the Perc Trax label, active since the early 2000s with albums on Perc Trax and releases on CLR, Drumcode and Kompakt.",
+   "followers": {
+    "instagram": 91403
+   },
+   "links": {
+    "instagram": "https://instagram.com/perctrax/",
+    "soundcloud": "https://soundcloud.com/perc"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "shed": {
+   "name": "Shed",
+   "genres": [
+    "techno",
+    "dub techno",
+    "house"
+   ],
+   "bio": "Berlin-based German producer Ren\u00e9 Pawlowitz; dub-inflected techno also released as Head High, Wax and STP; Ostgut Ton and 50 Weapons artist; debut Shedding the Past named RA's 2008 album of the year.",
+   "checkedAt": "2026-10-12"
+  },
+  "vile": {
+   "name": "VILE",
+   "genres": [
+    "techno",
+    "hard techno"
+   ],
+   "bio": "Colombian-born, NYC-based DJ and producer Vile S\u00e1nchez; dark, surreal hard techno with goth and cyber aesthetics; 2025 single 'Sinister'; plays Basement and Bossa Nova Civic Club.",
+   "followers": {
+    "instagram": 7305
+   },
+   "links": {
+    "instagram": "https://instagram.com/vilesanchez",
+    "soundcloud": "https://soundcloud.com/vile999"
+   },
+   "checkedAt": "2026-10-12"
+  },
+  "volvox": {
+   "name": "Volvox",
+   "genres": [
+    "techno",
+    "acid",
+    "electro"
+   ],
+   "bio": "NYC-based DJ Ariana Paoletti; tough, stripped-back techno and acid; early Discwoman artist, now runs the FLINTA NYC party series; played Boiler Room, Berghain and De School.",
+   "links": {
+    "soundcloud": "https://soundcloud.com/volvox"
+   },
+   "checkedAt": "2026-10-12"
   }
  }
 }
