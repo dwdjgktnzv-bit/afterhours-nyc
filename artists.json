@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T10:02:28-04:00",
+ "updatedAt": "2026-10-13T09:35:00-04:00",
  "artists": {
   "akua": {
    "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -3425,6 +3425,440 @@
     "soundcloud": "https://soundcloud.com/volvox"
    },
    "checkedAt": "2026-10-12"
+  },
+  "dr. rubinstein": {
+   "name": "Dr. Rubinstein",
+   "genres": [
+    "acid",
+    "techno",
+    "rave"
+   ],
+   "bio": "Russian-born Israeli DJ Marina Rubinstein, Berlin-based since 2012; rave-focused acid techno sets as a vinyl enthusiast and Berghain Klubnacht regular; launched the Uppers & Downers label in 2024",
+   "followers": {
+    "instagram": 52200
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/dr.rubinstein666/",
+    "soundcloud": "https://soundcloud.com/dr-rubinstein"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "the advent": {
+   "name": "The Advent",
+   "genres": [
+    "techno",
+    "electro",
+    "acid"
+   ],
+   "bio": "Cisco Ferreira, London-based techno pioneer; released his first track in 1988, formed The Advent with Colin McBean in 1994, runs Kombination Research, regular at Berghain and Tresor",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/ciscoadvent/",
+    "soundcloud": "https://soundcloud.com/ciscoadvent"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "marie davidson": {
+   "name": "Marie Davidson",
+   "genres": [
+    "minimal wave",
+    "techno",
+    "electronic"
+   ],
+   "bio": "Montreal-based electronic musician on Ninja Tune; solo albums Working Class Woman (2018) and City of Clowns (2025); half of the minimal wave duo Essaie pas",
+   "followers": {
+    "spotify": 81027
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/mariedavidson.official",
+    "soundcloud": "https://soundcloud.com/mariedavidson_official",
+    "spotify": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "xeno & oaklander": {
+   "name": "Xeno & Oaklander",
+   "genres": [
+    "minimal synth",
+    "coldwave",
+    "darkwave"
+   ],
+   "bio": "Brooklyn minimal electronics duo of Liz Wendelbo and Sean McBride (Martial Canterel); record and perform on analog synthesizers exclusively; albums on Ghostly International and Dais Records",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-13"
+  },
+  "call super": {
+   "name": "Call Super",
+   "genres": [
+    "techno",
+    "ambient",
+    "experimental"
+   ],
+   "bio": "Joseph Richmond Seaton, London-based producer and DJ; albums Suzi Ecto (2014), Arpo (2017) and Every Mouth Teeth Missing (2020); co-founded the Can You Feel The Sun label; started the ARPO DJ project in 2025",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/call_super",
+    "soundcloud": "https://soundcloud.com/call-super"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "arpo": {
+   "name": "ARPO",
+   "genres": [
+    "techno",
+    "house"
+   ],
+   "bio": "ARPO (A Rhythm Protects One), Call Super's all-night DJ project honouring the mix CD, launched with the mix album A Rhythm Protects One on Dekmantel in 2025",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-13"
+  },
+  "shanti celeste": {
+   "name": "Shanti Celeste",
+   "genres": [
+    "house",
+    "techno",
+    "electro"
+   ],
+   "bio": "Chilean-born, London-based DJ and producer; founder of the Peach Discs label; NTS radio host; debut album Tangerine (2019), followed by Romance",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/shanticeleste",
+    "soundcloud": "https://soundcloud.com/shanticeleste",
+    "spotify": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "funk tribu": {
+   "name": "Funk Tribu",
+   "genres": [
+    "techno",
+    "trance",
+    "hard techno"
+   ],
+   "bio": "Eduardo Jos\u00e9 Monta\u00f1ez S\u00e1nchez, Bogot\u00e1-born, Berlin-based producer; 2021 breakout track Phonky Tribu; debut album Against All Odds (2024); founded the TRIBE label",
+   "followers": {
+    "spotify": 175319
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/funktribu/",
+    "soundcloud": "https://soundcloud.com/funktribumusic",
+    "spotify": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "intergalactic gary": {
+   "name": "Intergalactic Gary",
+   "genres": [
+    "italo disco",
+    "electro",
+    "disco"
+   ],
+   "bio": "John Scheffer, New Zealand-born, The Hague-based DJ mixing since around 1980; formed The Parallax Corporation with I-F and produced the club hit Lift Off; Intergalactic FM regular",
+   "followers": {},
+   "links": {
+    "soundcloud": "https://soundcloud.com/intergalactic_gary"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "soundstream": {
+   "name": "Soundstream",
+   "genres": [
+    "disco",
+    "house",
+    "techno"
+   ],
+   "bio": "Frank Timm, Berlin producer sampling disco and funk loops over hard kicks; also records as Soundhack and with Errorsmith as Smith 'N' Hack; played around 200 sets at Berghain/Panorama Bar",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-13"
+  },
+  "somewhen": {
+   "name": "Somewhen",
+   "genres": [
+    "techno",
+    "industrial",
+    "ebm"
+   ],
+   "bio": "Szymon Rabowicz, Berlin DJ and producer; Berghain resident since 2016; releases on Ostgut Ton, Unterton and R-Label Group; runs the SANA label",
+   "followers": {
+    "spotify": 35302
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/somewhensrx/",
+    "soundcloud": "https://soundcloud.com/somewhen-1",
+    "spotify": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "notre dame": {
+   "name": "Notre Dame",
+   "genres": [
+    "melodic techno",
+    "melodic house"
+   ],
+   "bio": "Paris-born producer; breakout track Yumi on Solomun's Diynamic, later released on Innervisions and Cercle; founded the Paranormal Society label in 2025",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/notredame.music",
+    "soundcloud": "https://soundcloud.com/notredamemusic"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "lauren flax": {
+   "name": "Lauren Flax",
+   "genres": [
+    "techno",
+    "house",
+    "electro"
+   ],
+   "bio": "Detroit-born, Brooklyn-based DJ and producer; began as a jungle DJ, evolved into techno, house and electro; The Bunker New York member; half of the trip-hop project CREEP",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/laurenflax",
+    "soundcloud": "https://soundcloud.com/laurenflax"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "lady harley": {
+   "name": "Lady Harley",
+   "genres": [
+    "acid house",
+    "breaks",
+    "dark disco"
+   ],
+   "bio": "Rosie McWilliams, NYC DJ influenced by acid house, breaks and dark disco grooves; hosts the Bella Donna party series; regular at Gabriela and Good Room",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-13"
+  },
+  "afem syko": {
+   "name": "Afem Syko",
+   "genres": [
+    "techno",
+    "acid",
+    "hard techno"
+   ],
+   "bio": "Berlin-based DJ and producer; high-paced techno sets blending hypnotic techno, acid and old-school influences; debut release on Kobosil's R Label Group",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/afemsyko/",
+    "soundcloud": "https://soundcloud.com/afemsyko"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "andi": {
+   "name": "Andi",
+   "genres": [
+    "techno",
+    "ebm",
+    "industrial",
+    "italo"
+   ],
+   "bio": "Brooklyn-based DJ, producer and founder of the dark synth party and label SYNTHICIDE; author of \"Some Wear Leather, Some Wear Lace\".",
+   "followers": {
+    "instagram": 24046
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/andi80s/",
+    "soundcloud": "https://soundcloud.com/andi80s"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "falyn": {
+   "name": "FALYN",
+   "genres": [
+    "afro house",
+    "afro tech",
+    "melodic house"
+   ],
+   "bio": "Miami-based DJ and producer blending Afro House and Afro Tech; emerged in 2023 and has performed from California to Morocco.",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-13"
+  },
+  "ramyen": {
+   "name": "Ramyen",
+   "genres": [
+    "melodic house",
+    "techno",
+    "tech house"
+   ],
+   "bio": "French DJ and producer behind the Mellow concept; releases include \"Beach House\" and \"Polka\" with Yarkin Bora on Sapiens.",
+   "followers": {
+    "instagram": 30081
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/ramyen/",
+    "soundcloud": "https://soundcloud.com/ramyenmusic"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "papyon": {
+   "name": "Papyon",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "bio": "New York DJ playing house and techno; appeared at Elements Music & Arts Festival and GORDO's New Year's Eve at The Brooklyn Hangar.",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-13"
+  },
+  "98dots": {
+   "name": "98dots",
+   "genres": [
+    "techno",
+    "psychedelic techno",
+    "trance"
+   ],
+   "bio": "Tbilisi-born, Brooklyn-based DJ and promoter; Mutant Radio resident hosting the Rapture Investigation show, playing psychedelic exploratory techno at Bassiani, BASEMENT and Signal NYC.",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/98dots/"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "rumi de baires": {
+   "name": "Rumi de Baires",
+   "genres": [
+    "house",
+    "disco",
+    "techno",
+    "breaks"
+   ],
+   "bio": "Buenos Aires-born, Vienna-based DJ; co-founder of GAZE and A Party Called JACK; blends house, disco, breaks and techno with jazz and Afro-Latin influences; hosts the GEMS radio show.",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/rumidebaires/"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "fka.m4a": {
+   "name": "fka.m4a",
+   "genres": [
+    "house",
+    "italo disco",
+    "hi-nrg",
+    "techno"
+   ],
+   "bio": "London-born, Berlin-based DJ (Jay Jackson) known for energetic sets blending Italo disco, chunky house, hi-NRG and psychedelic techno; releases include the 'Summer Nostalgia' EP and 'Handbag Ho'.",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/fka.m4a/",
+    "soundcloud": "https://soundcloud.com/fkam4a",
+    "spotify": "https://open.spotify.com/artist/4hNyVzQ8PL0LLA3fROBEuY"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "battygyal": {
+   "name": "Battygyal",
+   "genres": [
+    "club",
+    "dub",
+    "breakbeat",
+    "ambient"
+   ],
+   "bio": "Bronx-based DJ and writer of Jamaican descent; moves between ambient, dub and bass-heavy club sets at parties like Papi Juice, Body Hack, Lava and Mood Ring.",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/msbattygyal/"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "octi": {
+   "name": "OCTI",
+   "genres": [
+    "techno"
+   ],
+   "bio": "Brooklyn techno DJ on PLAY ME TECHNO lineups, sharing bills with SKIN CONTACT, KYRUH, LUN\u2605 and Von.",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-13"
+  },
+  "skin contact": {
+   "name": "SKIN CONTACT",
+   "genres": [
+    "industrial techno",
+    "techno"
+   ],
+   "bio": "Brooklyn-based DJ; raw, industrial techno moving toward hypnotic intensity through 3\u20134 deck mixing; founder and curator of PLAY ME TECHNO.",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-13"
+  },
+  "sydfalls": {
+   "name": "sydfalls",
+   "genres": [
+    "techno",
+    "footwork",
+    "experimental club"
+   ],
+   "bio": "Chicago-born DJ, producer and hybrid performer now in New York; footwork, techno and diasporic bass traditions shape their sound.",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/sydfalls",
+    "soundcloud": "https://soundcloud.com/sydfalls"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "innamorati": {
+   "name": "Innamorati",
+   "genres": [
+    "techno",
+    "trance"
+   ],
+   "bio": "New duo of j:drive and TRIPS, appearing on RUSH's Funk Tribu day-and-night takeover at Knockdown Center.",
+   "followers": {},
+   "links": {},
+   "checkedAt": "2026-10-13"
+  },
+  "supergloss": {
+   "name": "Supergloss",
+   "genres": [
+    "acid",
+    "trance",
+    "techno"
+   ],
+   "bio": "Berlin-based DJ and producer fusing 90s/00s acid, trance and techno; released the 'Space Office' EPs on Noom Records and runs the X-IZE label.",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/superglosss/",
+    "soundcloud": "https://soundcloud.com/superglozz"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "lovefoxy": {
+   "name": "LOVEFOXY",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "bio": "Berlin-born DJ and producer (Fania Folaji) playing high-energy 90s house; debuted with 'Burning Down the Sluthouse' on Nervous Records and founded the HOTLORD label.",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/lovefoxy/",
+    "soundcloud": "https://soundcloud.com/foxy-love-1",
+    "spotify": "https://open.spotify.com/artist/11pW7chJfzATeandApxMBo"
+   },
+   "checkedAt": "2026-10-13"
+  },
+  "x3butterfly": {
+   "name": "x3butterfly",
+   "genres": [
+    "techno",
+    "jungle",
+    "drum and bass",
+    "dubstep"
+   ],
+   "bio": "Mexican-American DJ and producer from Detroit based in NYC; raw, high-BPM sets blending jungle, drum and bass, dubstep and techno, influenced by industrial pioneers.",
+   "followers": {},
+   "links": {
+    "instagram": "https://www.instagram.com/x3butterfly/",
+    "soundcloud": "https://soundcloud.com/sorrellem"
+   },
+   "checkedAt": "2026-10-13"
   }
  }
 }
