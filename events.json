@@ -1,106 +1,6 @@
 {
- "updatedAt": "2026-11-09T09:00:00-05:00",
+ "updatedAt": "2026-11-11T09:00:00-05:00",
  "events": [
-  {
-   "id": "ra-2576602",
-   "title": "Vibe Out with Eugene Nicholas Santos , Curator Paul Vicente Diaz , Dj Dech",
-   "lineup": "Gino Santos",
-   "artists": [
-    "Gino Santos"
-   ],
-   "genres": [
-    "club",
-    "electro"
-   ],
-   "venue": "The Rose",
-   "area": "Manhattan",
-   "start": "2026-11-09T17:00:00-05:00",
-   "source": "ra",
-   "price": "",
-   "priceMin": null,
-   "url": "https://ra.co/events/2576602"
-  },
-  {
-   "id": "dice-av8ko2",
-   "title": "ADULT. + A Place To Bury Strangers, Kill Alters",
-   "lineup": "ADULT., A Place To Bury Strangers, Kill Alters",
-   "artists": [
-    "ADULT.",
-    "A Place To Bury Strangers",
-    "Kill Alters"
-   ],
-   "genres": [
-    "ebm",
-    "electro"
-   ],
-   "venue": "Elsewhere - The Hall",
-   "area": "Brooklyn",
-   "start": "2026-11-09T19:00:00-05:00",
-   "source": "dice",
-   "price": "$46.92",
-   "priceMin": 46.92,
-   "url": "https://dice.fm/event/av8ko2-adult-a-place-to-bury-strangers-kill-alters-9th-nov-elsewhere-the-hall-new-york-tickets?lng=en-US"
-  },
-  {
-   "id": "ra-2576487",
-   "title": "guest speaker :",
-   "lineup": "",
-   "artists": [],
-   "genres": [
-    "dub",
-    "techno"
-   ],
-   "venue": "Head Hifi",
-   "area": "Brooklyn",
-   "start": "2026-11-10T18:00:00-05:00",
-   "source": "ra",
-   "price": "$5",
-   "priceMin": 5,
-   "url": "https://ra.co/events/2576487"
-  },
-  {
-   "id": "dice-qnxmra",
-   "title": "Open Decks w/ Steen & Body Art",
-   "lineup": "Steen, Body Art",
-   "artists": [
-    "Steen",
-    "Body Art"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "SILO Brooklyn",
-   "area": "Brooklyn",
-   "start": "2026-11-10T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/qnxmra-open-decks-w-steen-body-art-10th-nov-silo-brooklyn-brooklyn-tickets?lng=en-US"
-  },
-  {
-   "id": "ra-2547882",
-   "title": "Village Hidden in Sound",
-   "lineup": "ABEILLE, Amado, idvs, SOFIYA V, ram\u00f3n.ting, cevich\u00e9",
-   "artists": [
-    "ABEILLE",
-    "Amado",
-    "idvs",
-    "SOFIYA V",
-    "ram\u00f3n.ting",
-    "cevich\u00e9"
-   ],
-   "genres": [
-    "minimal techno",
-    "techno"
-   ],
-   "venue": "Bossa Nova Civic Club",
-   "area": "Brooklyn",
-   "start": "2026-11-10T22:00:00-05:00",
-   "source": "ra",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://ra.co/events/2547882"
-  },
   {
    "id": "dice-kxppmq",
    "title": "Open Decks w/ Steen, MZ3, & Spam",
@@ -187,21 +87,24 @@
    "url": "https://ra.co/events/2565887"
   },
   {
-   "id": "ra-2571674",
+   "id": "eventbrite-2003743557921",
    "title": "The Ornate Project: Lohrasp Kansara",
-   "lineup": "",
-   "artists": [],
+   "lineup": "Lohrasp Kansara, Mark Dumitrescu, Psymon GT",
+   "artists": [
+    "Lohrasp Kansara",
+    "Mark Dumitrescu",
+    "Psymon GT"
+   ],
    "genres": [
-    "afro house",
     "techno"
    ],
-   "venue": "The Ornate Studio",
+   "venue": "650 Sackett Street",
    "area": "Brooklyn",
    "start": "2026-11-12T18:00:00-05:00",
-   "source": "ra",
-   "price": "$10",
-   "priceMin": 10,
-   "url": "https://ra.co/events/2571674"
+   "source": "eventbrite",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://www.eventbrite.com/e/the-ornate-project-lohrasp-kansara-tickets-2003743557921"
   },
   {
    "id": "dice-g5bqe6",
@@ -240,8 +143,8 @@
    "area": "Brooklyn",
    "start": "2026-11-12T19:00:00-05:00",
    "source": "shotgun",
-   "price": "$15",
-   "priceMin": 15,
+   "price": "Free",
+   "priceMin": 0,
    "url": "https://shotgun.live/en/events/feedbk-with-truly-madly"
   },
   {
@@ -305,6 +208,26 @@
    "url": "https://ra.co/events/2575250"
   },
   {
+   "id": "ra-2576284",
+   "title": "Bar Milagro Launch Party",
+   "lineup": "AceMo, hypebeck",
+   "artists": [
+    "AceMo",
+    "hypebeck"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Bar  Milagro",
+   "area": "Brooklyn",
+   "start": "2026-11-12T21:00:00-05:00",
+   "source": "ra",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://ra.co/events/2576284"
+  },
+  {
    "id": "ra-2576616",
    "title": "Velvet Frequency vol. 6: Sixth Sense",
    "lineup": "Seisaro, Chillosophy, Zombi Adam, baby-g",
@@ -345,24 +268,6 @@
    "url": "https://ra.co/events/2576668"
   },
   {
-   "id": "dice-q2323o",
-   "title": "Doss & Friends",
-   "lineup": "Doss",
-   "artists": [
-    "Doss"
-   ],
-   "genres": [
-    "electro"
-   ],
-   "venue": "Paragon",
-   "area": "Brooklyn",
-   "start": "2026-11-12T21:30:00-05:00",
-   "source": "dice",
-   "price": "$11.33",
-   "priceMin": 11.33,
-   "url": "https://dice.fm/event/q2323o-doss-friends-12th-nov-paragon-new-york-city-tickets?lng=en-US"
-  },
-  {
    "id": "dice-532xrd",
    "title": "CRUD0 presents: Sound of Bogot\u00e1 - with Paula V\u00e9lez, Varju & Giovani",
    "lineup": "Paula V\u00e9lez, Varju, Giovani",
@@ -381,26 +286,6 @@
    "price": "Free",
    "priceMin": 0,
    "url": "https://dice.fm/event/532xrd-crud0-presents-sound-of-bogot-with-paula-vlez-varju-giovani-12th-nov-silo-brooklyn-brooklyn-tickets"
-  },
-  {
-   "id": "ra-2576284",
-   "title": "Bar Milagro Launch Party",
-   "lineup": "AceMo, hypebeck",
-   "artists": [
-    "AceMo",
-    "hypebeck"
-   ],
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "venue": "Bar  Milagro",
-   "area": "Brooklyn",
-   "start": "2026-11-12T22:00:00-05:00",
-   "source": "ra",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://ra.co/events/2576284"
   },
   {
    "id": "ra-2554938",
@@ -460,8 +345,8 @@
    "area": "Brooklyn",
    "start": "2026-11-13T19:00:00-05:00",
    "source": "shotgun",
-   "price": "$15",
-   "priceMin": 15,
+   "price": "Free",
+   "priceMin": 0,
    "url": "https://shotgun.live/en/events/feedbk-x-iceman-with-fonte"
   },
   {
@@ -525,9 +410,13 @@
   },
   {
    "id": "ra-2576671",
-   "title": "Club Rawhide FRIDAY NIGHT 11.13.26",
-   "lineup": "",
-   "artists": [],
+   "title": "Club Rawhide FRIDAY NIGHT 11.13.26 w/ Kim Anh, Jacob Meehan, Mixed Greens",
+   "lineup": "Jacob Meehan, Kim Anh, Mixed Greens",
+   "artists": [
+    "Jacob Meehan",
+    "Kim Anh",
+    "Mixed Greens"
+   ],
    "genres": [
     "house",
     "techno"
@@ -635,10 +524,10 @@
   },
   {
    "id": "dice-rye7qr",
-   "title": "Night & Day: Ellen Allien, Rrose, Spekki Webu, Kyruh, Connor Wrong",
-   "lineup": "Ellen Allien, Rrose, Spekki Webu, KYRUH, Connor Wrong",
+   "title": "Night & Day: Umfang, Rrose, Spekki Webu, KYRUH, Connor Wrong",
+   "lineup": "Umfang, Rrose, Spekki Webu, KYRUH, Connor Wrong",
    "artists": [
-    "Ellen Allien",
+    "Umfang",
     "Rrose",
     "Spekki Webu",
     "KYRUH",
@@ -653,7 +542,7 @@
    "source": "dice",
    "price": "$33.99",
    "priceMin": 33.99,
-   "url": "https://dice.fm/event/rye7qr-night-day-ellen-allien-rrose-spekki-webu-kyruh-connor-wrong-13th-nov-signal-new-york-city-tickets"
+   "url": "https://dice.fm/event/rye7qr-night-day-umfang-rrose-spekki-webu-kyruh-connor-wrong-13th-nov-signal-new-york-city-tickets"
   },
   {
    "id": "eventbrite-1999442675867",
@@ -799,25 +688,6 @@
    "url": "https://ra.co/events/2553735"
   },
   {
-   "id": "dice-bbq78o",
-   "title": "MTRNM x CX Present: Night at the Museum NYC | Nick Morgan",
-   "lineup": "Nick Morgan, OSCAAR",
-   "artists": [
-    "Nick Morgan",
-    "OSCAAR"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Mercer Labs",
-   "area": "Manhattan",
-   "start": "2026-11-13T23:00:00-05:00",
-   "source": "dice",
-   "price": "$57.11",
-   "priceMin": 57.11,
-   "url": "https://dice.fm/event/bbq78o-mtrnm-x-cx-present-night-at-the-museum-nyc-nick-morgan-13th-nov-mercer-labs-new-york-city-tickets"
-  },
-  {
    "id": "ra-2548528",
    "title": "SYSTEM: Lychee, R-DNA, Sofi Vonn",
    "lineup": "Lychee, R-DNA, Sofi Vonn",
@@ -859,6 +729,25 @@
    "url": "https://ra.co/events/2579986"
   },
   {
+   "id": "ra-2582103",
+   "title": "Refrakt Album Pre-Release Party (Free w/RSVP)",
+   "lineup": "Refrakt",
+   "artists": [
+    "Refrakt"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Danger Danger",
+   "area": "Brooklyn",
+   "start": "2026-11-13T23:30:00-05:00",
+   "source": "ra",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://ra.co/events/2582103"
+  },
+  {
    "id": "ra-2566776",
    "title": "VITAL Lower East Side: Two Year Anniversary Party with Oscil and Alter",
    "lineup": "Oscil, alter.world",
@@ -897,6 +786,23 @@
    "price": "Free",
    "priceMin": 0,
    "url": "https://ra.co/events/2566170"
+  },
+  {
+   "id": "eventbrite-2004684792178",
+   "title": "Esc\u00e1ndalo at Zona Sur: House & Techno Silent Party",
+   "lineup": "",
+   "artists": [],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Zona Sur Bar Bistro",
+   "area": "Brooklyn",
+   "start": "2026-11-14T20:00:00-05:00",
+   "source": "eventbrite",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://www.eventbrite.com/e/escandalo-at-zona-sur-house-techno-silent-party-tickets-2004684792178"
   },
   {
    "id": "ra-2561009",
@@ -944,9 +850,13 @@
   },
   {
    "id": "ra-2576675",
-   "title": "Club Rawhide SATURDAY NIGHT 11.14.26",
-   "lineup": "",
-   "artists": [],
+   "title": "Club Rawhide SATURDAY NIGHT 11.14.26 w/ flirty800, Peter Napoli, Ryan Farr",
+   "lineup": "flirty800, Peter Napoli, Ryan Farr",
+   "artists": [
+    "flirty800",
+    "Peter Napoli",
+    "Ryan Farr"
+   ],
    "genres": [
     "house",
     "techno"
@@ -985,15 +895,16 @@
   },
   {
    "id": "dice-mxwm7w",
-   "title": "Gio Shengelia, Woreq, Tripmastaz, YONIT & Amba, CHKLTE",
-   "lineup": "Gio Shengelia, Woreq, Tripmastaz, YONIT, Amba, CHKLTE",
+   "title": "Ellen Allien, Adam X, CHKLTE, Gio Shengelia, Tripmastaz",
+   "lineup": "Ellen Allien, Adam X, CHKLTE, Gio Shengelia, Tripmastaz, Woreq",
    "artists": [
+    "Ellen Allien",
+    "Adam X",
+    "CHKLTE",
     "Gio Shengelia",
-    "Woreq",
     "Tripmastaz",
-    "YONIT",
-    "Amba",
-    "CHKLTE"
+    "Woreq",
+    "YONIT"
    ],
    "genres": [
     "techno"
@@ -1004,7 +915,7 @@
    "source": "dice",
    "price": "$22.66",
    "priceMin": 22.66,
-   "url": "https://dice.fm/event/mxwm7w-gio-shengelia-woreq-tripmastaz-yonit-amba-chklte-14th-nov-signal-new-york-city-tickets"
+   "url": "https://dice.fm/event/mxwm7w-ellen-allien-adam-x-chklte-gio-shengelia-tripmastaz-14th-nov-signal-new-york-city-tickets"
   },
   {
    "id": "dice-mxy5ek",
@@ -1109,10 +1020,10 @@
   {
    "id": "ra-2557989",
    "title": "ReSolute with Dyed Soundorom",
-   "lineup": "Dyed Soundorom, Josefina Tapia, Shvili, CAMILLA",
+   "lineup": "Dyed Soundorom, Josefina Tapia (2), Shvili, CAMILLA",
    "artists": [
     "Dyed Soundorom",
-    "Josefina Tapia",
+    "Josefina Tapia (2)",
     "Shvili",
     "CAMILLA"
    ],
@@ -1194,7 +1105,7 @@
   },
   {
    "id": "ra-2579351",
-   "title": "Quick Draw with Bell Domin, Very J, & Christian Tokyo",
+   "title": "Quick Draw with Christian Tokyo, Very J, Bell Domin",
    "lineup": "Bell Domin, Very J, Christian Tokyo",
    "artists": [
     "Bell Domin",
@@ -1214,14 +1125,32 @@
    "url": "https://ra.co/events/2579351"
   },
   {
+   "id": "ra-2582110",
+   "title": "Kiyoshi + Matt FX (Free w/RSVP)",
+   "lineup": "Kiyoshi, Matt FX",
+   "artists": [
+    "Kiyoshi",
+    "Matt FX"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Danger Danger",
+   "area": "Brooklyn",
+   "start": "2026-11-14T22:00:00-05:00",
+   "source": "ra",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://ra.co/events/2582110"
+  },
+  {
    "id": "eventbrite-1996459381754",
-   "title": "X-Coast (open to close), 6 SENSE, K.ONE, PAN!C ROOM",
-   "lineup": "X-Coast, 6 SENSE, K.ONE, PAN!C ROOM, WADDLE, Y2AURA",
+   "title": "X-Coast, 6 SENSE, PAN!C ROOM: WADDLE, Y2AURA, NIJEII, DUCO",
+   "lineup": "X-Coast, 6 SENSE, WADDLE, Y2AURA, NIJEII, DUCO",
    "artists": [
     "X-Coast",
     "6 SENSE",
-    "K.ONE",
-    "PAN!C ROOM",
     "WADDLE",
     "Y2AURA",
     "NIJEII",
@@ -1305,6 +1234,26 @@
    "url": "https://ra.co/events/2549177"
   },
   {
+   "id": "shotgun-sentido-sonoro-4",
+   "title": "Sentido Sonoro",
+   "lineup": "Cades, Talker, Mario Diaz de Leon",
+   "artists": [
+    "Cades",
+    "Talker",
+    "Mario Diaz de Leon"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Secret location in Queens",
+   "area": "Queens",
+   "start": "2026-11-15T14:00:00-05:00",
+   "source": "shotgun",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://shotgun.live/en/events/sentido-sonoro-4"
+  },
+  {
    "id": "dice-l87xer",
    "title": "DURATIONS: Yu Su, Ghost Dubs [Live], K Wata [Live], Ayanna Heaven",
    "lineup": "Yu Su, Ghost Dubs, K Wata, Ayanna Heaven",
@@ -1365,6 +1314,26 @@
    "url": "https://ra.co/events/2569987"
   },
   {
+   "id": "dice-99eq39",
+   "title": "Transcendence: Akira, D1NAH, Se\u00f1oritajuicy",
+   "lineup": "Se\u00f1oritajuicy, Akira, D1NAH",
+   "artists": [
+    "Se\u00f1oritajuicy",
+    "Akira",
+    "D1NAH"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Jupiter Disco",
+   "area": "Brooklyn",
+   "start": "2026-11-15T19:00:00-05:00",
+   "source": "dice",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://dice.fm/event/99eq39-transcendence-akira-d1nah-seoritajuicy-15th-nov-jupiter-disco-new-york-city-tickets?lng=en-US"
+  },
+  {
    "id": "shotgun-feedbk-gio-shengelia",
    "title": "Feedbk: Gio Shengelia",
    "lineup": "Gio Shengelia",
@@ -1402,6 +1371,25 @@
    "price": "$10",
    "priceMin": 10,
    "url": "https://ra.co/events/2559334"
+  },
+  {
+   "id": "ra-2581845",
+   "title": "AUX: CHKLTE all night long",
+   "lineup": "CHKLTE",
+   "artists": [
+    "CHKLTE"
+   ],
+   "genres": [
+    "house",
+    "minimal"
+   ],
+   "venue": "Signal",
+   "area": "Brooklyn",
+   "start": "2026-11-15T22:00:00-05:00",
+   "source": "ra",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://ra.co/events/2581845"
   },
   {
    "id": "ra-2569266",
@@ -1616,6 +1604,25 @@
    "url": "https://ra.co/events/2553552"
   },
   {
+   "id": "ra-2582030",
+   "title": "feedbk with Penelope",
+   "lineup": "Penelope (2)",
+   "artists": [
+    "Penelope (2)"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "feedbk",
+   "area": "Brooklyn",
+   "start": "2026-11-19T19:00:00-05:00",
+   "source": "ra",
+   "price": "$15",
+   "priceMin": 15,
+   "url": "https://ra.co/events/2582030"
+  },
+  {
    "id": "ra-2532704",
    "title": "Homies Givin' 2026",
    "lineup": "TYLERFROMWHERE, gabby cocco, Extra Meesh, Papa",
@@ -1713,7 +1720,7 @@
    "area": "Brooklyn",
    "start": "2026-11-19T22:00:00-05:00",
    "source": "eventbrite",
-   "price": "$25.00",
+   "price": "$25",
    "priceMin": 25.0,
    "url": "https://www.eventbrite.com/e/refuge-thursday-enrico-sangiuliano-raw-planet-tickets-1999635809535"
   },
@@ -1761,8 +1768,8 @@
    "area": "Brooklyn",
    "start": "2026-11-20T21:00:00-05:00",
    "source": "dice",
-   "price": "$79.99",
-   "priceMin": 79.99,
+   "price": "$89.99",
+   "priceMin": 89.99,
    "url": "https://dice.fm/event/yo57ba-time-warp-nyc-friday-pass-20th-nov-duggal-greenhouse-brooklyn-navy-yard-new-york-city-tickets"
   },
   {
@@ -1844,8 +1851,8 @@
    "area": "Manhattan",
    "start": "2026-11-20T22:00:00-05:00",
    "source": "dice",
-   "price": "$25.56",
-   "priceMin": 25.56,
+   "price": "$28.12",
+   "priceMin": 28.12,
    "url": "https://dice.fm/event/dlgwvq-nuvora-20th-nov-eden-new-york-city-tickets?lng=en-US"
   },
   {
@@ -1874,6 +1881,20 @@
    "price": "$28.33",
    "priceMin": 28.33,
    "url": "https://dice.fm/event/eo9vmd-night-day-24h-ateq-caim-daura-eris-gnmr-j-richards-kurilo-lis-dalton-onirik-pascale-project-20th-nov-signal-new-york-city-tickets"
+  },
+  {
+   "id": "eventbrite-2003438659963",
+   "title": "Refuge Friday: Surprise Guests",
+   "lineup": "",
+   "artists": [],
+   "genres": [],
+   "venue": "Refuge",
+   "area": "Brooklyn",
+   "start": "2026-11-20T22:00:00-05:00",
+   "source": "eventbrite",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://www.eventbrite.com/e/refuge-friday-surprise-guests-tickets-2003438659963"
   },
   {
    "id": "ra-2549121",
@@ -2023,14 +2044,19 @@
   {
    "id": "dice-xeg5aa",
    "title": "Time Warp NYC (Saturday Pass)",
-   "lineup": "Adiel, Quest, \u00c2me DJ, Brunello, Chl\u00e4r, Dubi",
+   "lineup": "Adiel B2B Quest, \u00c2me, DJ Brunello, Chl\u00e4r, Dubi, Julya Karma",
    "artists": [
     "Adiel",
     "Quest",
-    "\u00c2me DJ",
-    "Brunello",
+    "\u00c2me",
+    "DJ Brunello",
     "Chl\u00e4r",
-    "Dubi"
+    "Dubi",
+    "Julya Karma",
+    "Klangkuenstler",
+    "Kyruh",
+    "Rose Kourts",
+    "Sven V\u00e4th"
    ],
    "genres": [
     "techno"
@@ -2078,6 +2104,26 @@
    "price": "$30",
    "priceMin": 30,
    "url": "https://ra.co/events/2576676"
+  },
+  {
+   "id": "dice-ok25yg",
+   "title": "Gala Galactica: Physical Therapy, Kate Simko & Ksenyeah",
+   "lineup": "Physical Therapy, Kate Simko, Ksenyeah",
+   "artists": [
+    "Physical Therapy",
+    "Kate Simko",
+    "Ksenyeah"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "House of Yes",
+   "area": "Brooklyn",
+   "start": "2026-11-21T22:00:00-05:00",
+   "source": "dice",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://dice.fm/event/ok25yg-gala-galactica-physical-therapy-kate-simko-ksenyeah-21st-nov-house-of-yes-new-york-city-tickets?lng=en-US"
   },
   {
    "id": "ra-2543579",
@@ -2253,10 +2299,9 @@
   {
    "id": "ra-2553762",
    "title": "Function b2b Nastia Reigel / NEUX / Juana / Cormac / x3butterfly / Will Automagic",
-   "lineup": "Function, Nastia Reigel, NEUX, Juana, Cormac, x3butterfly",
+   "lineup": "Function, NEUX, Juana, Cormac, x3butterfly, Will Automagic",
    "artists": [
     "Function",
-    "Nastia Reigel",
     "NEUX",
     "Juana",
     "Cormac",
@@ -2290,8 +2335,8 @@
    "area": "Manhattan",
    "start": "2026-11-21T23:00:00-05:00",
    "source": "dice",
-   "price": "$53.10",
-   "priceMin": 53.1,
+   "price": "$39.84",
+   "priceMin": 39.84,
    "url": "https://dice.fm/event/3o8dyx-anna-with-ardeshir-and-solna-haus-of-joon-21st-nov-somewhere-nowhere-nyc-new-york-tickets?lng=en-US"
   },
   {
@@ -2381,23 +2426,224 @@
    "url": "https://shotgun.live/en/events/feedbk-with-dea"
   },
   {
-   "id": "ra-2574432",
-   "title": "Open Decks with STEEN & Village Hidden in Sound - Vinyl Exchange Night",
-   "lineup": "STEEN",
+   "id": "dice-qnxnny",
+   "title": "Open Decks w/ Steen & Village Hidden in Sound - Vinyl Exchange Night",
+   "lineup": "STEEN, Village Hidden in Sound",
    "artists": [
-    "STEEN"
+    "STEEN",
+    "Village Hidden in Sound"
    ],
    "genres": [
     "house",
     "techno"
    ],
-   "venue": "SILO",
+   "venue": "SILO Brooklyn",
    "area": "Brooklyn",
    "start": "2026-11-23T19:00:00-05:00",
+   "source": "dice",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://dice.fm/event/qnxnny-open-decks-w-steen-village-hidden-in-sound-vinyl-exchange-night-23rd-nov-silo-brooklyn-brooklyn-tickets?lng=en-US"
+  },
+  {
+   "id": "ra-2580775",
+   "title": "Naked Lunch x Diffuse Reality: Jorge Sanders b2b Kevin Thorpe, Constructible, N1NA, Jiale",
+   "lineup": "Jorge Sanders, Anthorp, Constructible, N1NA, Jiale",
+   "artists": [
+    "Jorge Sanders",
+    "Anthorp",
+    "Constructible",
+    "N1NA",
+    "Jiale"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Bossa Nova Civic Club",
+   "area": "Brooklyn",
+   "start": "2026-11-23T22:00:00-05:00",
    "source": "ra",
    "price": "",
    "priceMin": null,
-   "url": "https://ra.co/events/2574432"
+   "url": "https://ra.co/events/2580775"
+  },
+  {
+   "id": "dice-r32335",
+   "title": "Open Decks w/ Steen & 5KULLK1SS",
+   "lineup": "STEEN, 5KULLK1SS",
+   "artists": [
+    "STEEN",
+    "5KULLK1SS"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "SILO Brooklyn",
+   "area": "Brooklyn",
+   "start": "2026-11-24T19:00:00-05:00",
+   "source": "dice",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://dice.fm/event/r32335-open-decks-w-steen-5kullk1ss-24th-nov-silo-brooklyn-brooklyn-tickets?lng=en-US"
+  },
+  {
+   "id": "ra-2549164",
+   "title": "Techno Yoga with Yaya Flows & Lychee",
+   "lineup": "Yaya Flows, Lychee",
+   "artists": [
+    "Yaya Flows",
+    "Lychee"
+   ],
+   "genres": [
+    "ambient",
+    "techno"
+   ],
+   "venue": "Nowadays",
+   "area": "Queens",
+   "start": "2026-11-24T19:00:00-05:00",
+   "source": "ra",
+   "price": "$15",
+   "priceMin": 15,
+   "url": "https://ra.co/events/2549164"
+  },
+  {
+   "id": "ra-2576661",
+   "title": "Threads: A Guided Journey In Chaos",
+   "lineup": "DJ Anarres, Darian, DJ Sour, Mercury Vibration",
+   "artists": [
+    "DJ Anarres",
+    "Darian",
+    "DJ Sour",
+    "Mercury Vibration"
+   ],
+   "genres": [
+    "electro",
+    "techno"
+   ],
+   "venue": "Bossa Nova Civic Club",
+   "area": "Brooklyn",
+   "start": "2026-11-24T22:00:00-05:00",
+   "source": "ra",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://ra.co/events/2576661"
+  },
+  {
+   "id": "shotgun-feedbk-thanksgiving",
+   "title": "Feedbk Thanksgiving Eve With Mariiin All Night Long",
+   "lineup": "Mariiin",
+   "artists": [
+    "Mariiin"
+   ],
+   "genres": [
+    "techno",
+    "minimal"
+   ],
+   "venue": "feedbk",
+   "area": "Brooklyn",
+   "start": "2026-11-25T19:00:00-05:00",
+   "source": "shotgun",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://shotgun.live/en/events/feedbk-thanksgiving"
+  },
+  {
+   "id": "dice-xe8r7a",
+   "title": "Tony Guerra / Luquez b2b Maria Sifontes",
+   "lineup": "Tony Guerra, Luquez B2B Maria Sifontes",
+   "artists": [
+    "Tony Guerra",
+    "Luquez",
+    "Maria Sifontes"
+   ],
+   "genres": [
+    "minimal",
+    "techno"
+   ],
+   "venue": "SILO Brooklyn",
+   "area": "Brooklyn",
+   "start": "2026-11-25T22:00:00-05:00",
+   "source": "dice",
+   "price": "$33.99",
+   "priceMin": 33.99,
+   "url": "https://dice.fm/event/xe8r7a-tony-guerra-luquez-b2b-maria-sifontes-25th-nov-silo-brooklyn-brooklyn-tickets?lng=en-US"
+  },
+  {
+   "id": "ra-2549130",
+   "title": "Ryan Elliott All Night",
+   "lineup": "Ryan Elliott",
+   "artists": [
+    "Ryan Elliott"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Nowadays",
+   "area": "Queens",
+   "start": "2026-11-25T22:00:00-05:00",
+   "source": "ra",
+   "price": "$20",
+   "priceMin": 20,
+   "url": "https://ra.co/events/2549130"
+  },
+  {
+   "id": "ra-2561568",
+   "title": "SLIST X FERAL (US DEBUT)",
+   "lineup": "Dark Matter, F\u00d8SS, Julia Kova",
+   "artists": [
+    "Dark Matter",
+    "F\u00d8SS",
+    "Julia Kova"
+   ],
+   "genres": [
+    "industrial"
+   ],
+   "venue": "The Brooklyn Monarch",
+   "area": "Brooklyn",
+   "start": "2026-11-25T22:00:00-05:00",
+   "source": "ra",
+   "price": "$15",
+   "priceMin": 15,
+   "url": "https://ra.co/events/2561568"
+  },
+  {
+   "id": "ra-2572886",
+   "title": "Golden Record NYC presents Eli Escobar",
+   "lineup": "Eli Escobar",
+   "artists": [
+    "Eli Escobar"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Green Room NYC",
+   "area": "Brooklyn",
+   "start": "2026-11-25T22:00:00-05:00",
+   "source": "ra",
+   "price": "$15",
+   "priceMin": 15,
+   "url": "https://ra.co/events/2572886"
+  },
+  {
+   "id": "ra-2576451",
+   "title": "Adam X All Night",
+   "lineup": "Adam X",
+   "artists": [
+    "Adam X"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Bossa Nova Civic Club",
+   "area": "Brooklyn",
+   "start": "2026-11-25T22:00:00-05:00",
+   "source": "ra",
+   "price": "$10",
+   "priceMin": 10,
+   "url": "https://ra.co/events/2576451"
   }
  ]
 }
