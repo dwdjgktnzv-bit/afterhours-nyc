@@ -1,45 +1,6 @@
 {
- "updatedAt": "2026-11-16T09:00:00-05:00",
+ "updatedAt": "2026-11-17T09:00:00-05:00",
  "events": [
-  {
-   "id": "ra-2569266",
-   "title": "MMF Society Open Decks",
-   "lineup": "shirlz",
-   "artists": [
-    "shirlz"
-   ],
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "venue": "The Rose",
-   "area": "Manhattan",
-   "start": "2026-11-16T18:00:00-05:00",
-   "source": "ra",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://ra.co/events/2569266"
-  },
-  {
-   "id": "ra-2553606",
-   "title": "Fractals pres SANCTUM with CRYFXB, Dante Pasquale, DJGothQueen, Rapture",
-   "lineup": "CRYFXB, Djgothqueen (3), Rapture",
-   "artists": [
-    "CRYFXB",
-    "Djgothqueen (3)",
-    "Rapture"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Bossa Nova Civic Club",
-   "area": "Brooklyn",
-   "start": "2026-11-16T22:00:00-05:00",
-   "source": "ra",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://ra.co/events/2553606"
-  },
   {
    "id": "ra-2568355",
    "title": "Tinamarie Diva , Gino Santos & Slade",
@@ -76,28 +37,29 @@
    "area": "Brooklyn",
    "start": "2026-11-17T18:00:00-05:00",
    "source": "dice",
-   "price": "$32.84",
-   "priceMin": 32.84,
+   "price": "$39.40",
+   "priceMin": 39.4,
    "url": "https://dice.fm/event/m2b2dv-youth-code-final-gasp-halloween-17th-nov-saint-vitus-new-york-city-tickets"
   },
   {
-   "id": "dice-8v33wr",
-   "title": "Open Decks w/ Steen & Remniqe + Iconic Demonic EP Listening Party",
-   "lineup": "Steen, Remniqe",
+   "id": "ra-2572227",
+   "title": "Open Decks with STEEN & Remniqe + Iconic Demonic EP Release Party",
+   "lineup": "STEEN, Remniqe",
    "artists": [
-    "Steen",
+    "STEEN",
     "Remniqe"
    ],
    "genres": [
+    "house",
     "techno"
    ],
-   "venue": "SILO Brooklyn",
+   "venue": "SILO",
    "area": "Brooklyn",
    "start": "2026-11-17T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/8v33wr-open-decks-w-steen-remniqe-iconic-demonic-ep-listening-party-17th-nov-silo-brooklyn-brooklyn-tickets"
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2572227"
   },
   {
    "id": "ra-2574394",
@@ -144,23 +106,24 @@
    "url": "https://ra.co/events/2566061"
   },
   {
-   "id": "dice-w833ar",
-   "title": "Open Decks w/ Steen & Touch Base",
-   "lineup": "Steen, Touch Base",
+   "id": "ra-2572240",
+   "title": "Open Decks with STEEN & Touch Base",
+   "lineup": "STEEN, Touch Base",
    "artists": [
-    "Steen",
+    "STEEN",
     "Touch Base"
    ],
    "genres": [
+    "house",
     "techno"
    ],
-   "venue": "SILO Brooklyn",
+   "venue": "SILO",
    "area": "Brooklyn",
    "start": "2026-11-18T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/w833ar-open-decks-w-steen-touch-base-18th-nov-silo-brooklyn-brooklyn-tickets"
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2572240"
   },
   {
    "id": "ra-2575184",
@@ -405,8 +368,8 @@
    "area": "Brooklyn",
    "start": "2026-11-20T21:00:00-05:00",
    "source": "dice",
-   "price": "$89.99",
-   "priceMin": 89.99,
+   "price": "$94.99",
+   "priceMin": 94.99,
    "url": "https://dice.fm/event/yo57ba-time-warp-nyc-friday-pass-20th-nov-duggal-greenhouse-brooklyn-navy-yard-new-york-city-tickets"
   },
   {
@@ -477,18 +440,18 @@
   {
    "id": "dice-eo9vmd",
    "title": "Night & Day 24h: Enrica Falqui, Dea Dvornik, GNMR and many more",
-   "lineup": "Ateq, Caim, ERIS, GNMR, J. Richards, Kurilo",
+   "lineup": "Ateq, Caim, Daura, ERIS, GNMR, J. Richards",
    "artists": [
     "Ateq",
     "Caim",
+    "Daura",
     "ERIS",
     "GNMR",
     "J. Richards",
     "Kurilo",
     "Lis Dalton",
     "Onirik",
-    "Mr. Stream",
-    "Daura"
+    "Pascale Project"
    ],
    "genres": [
     "techno"
@@ -621,26 +584,25 @@
    "url": "https://ra.co/events/2584125"
   },
   {
-   "id": "dice-pyxe5p",
-   "title": "ORBE, Laia / Rolando, Jay York / Jesse Dorris",
-   "lineup": "ORBE, Laia, Rolando, Jay York, Jesse Dorris",
+   "id": "ra-2554950",
+   "title": "ORBE, Laia / Rolando, jay york / Jesse Dorris",
+   "lineup": "ORBE, Laia, DJ Rolando, jay york",
    "artists": [
     "ORBE",
     "Laia",
-    "Rolando",
-    "Jay York",
-    "Jesse Dorris"
+    "DJ Rolando",
+    "jay york"
    ],
    "genres": [
     "techno"
    ],
-   "venue": "Public Records",
+   "venue": "public records",
    "area": "Brooklyn",
    "start": "2026-11-20T23:00:00-05:00",
-   "source": "dice",
-   "price": "$21.63",
-   "priceMin": 21.63,
-   "url": "https://dice.fm/event/pyxe5p-orbe-laia-rolando-jay-york-jesse-dorris-20th-nov-public-records-new-york-tickets"
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2554950"
   },
   {
    "id": "ra-2584216",
@@ -661,6 +623,26 @@
    "price": "",
    "priceMin": null,
    "url": "https://ra.co/events/2584216"
+  },
+  {
+   "id": "ra-2586631",
+   "title": "she.they.dj",
+   "lineup": "Excuse The Beauty, Bella Hex",
+   "artists": [
+    "Excuse The Beauty",
+    "Bella Hex"
+   ],
+   "genres": [
+    "club",
+    "techno"
+   ],
+   "venue": "Mood Ring",
+   "area": "Brooklyn",
+   "start": "2026-11-21T19:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2586631"
   },
   {
    "id": "shotgun-feedbk-x-22-recordings-with-c-ru-z-alonzo-live-luska",
@@ -754,8 +736,8 @@
    "area": "Brooklyn",
    "start": "2026-11-21T21:00:00-05:00",
    "source": "dice",
-   "price": "$89.99",
-   "priceMin": 89.99,
+   "price": "$94.99",
+   "priceMin": 94.99,
    "url": "https://dice.fm/event/xeg5aa-time-warp-nyc-saturday-pass-21st-nov-duggal-greenhouse-brooklyn-navy-yard-new-york-city-tickets"
   },
   {
@@ -815,8 +797,8 @@
    "area": "Brooklyn",
    "start": "2026-11-21T21:30:00-05:00",
    "source": "dice",
-   "price": "Sold out",
-   "priceMin": null,
+   "price": "$37.39",
+   "priceMin": 37.39,
    "url": "https://dice.fm/event/532o88-yaego-sangre-glass-halo-nymph-21st-nov-paragon-new-york-city-tickets"
   },
   {
@@ -1095,23 +1077,23 @@
    "url": "https://shotgun.live/en/events/feedbk-with-dea"
   },
   {
-   "id": "dice-qnxnny",
-   "title": "Open Decks w/ Steen & Village Hidden in Sound - Vinyl Exchange Night",
-   "lineup": "Steen, Village Hidden in Sound",
+   "id": "ra-2574432",
+   "title": "Open Decks with STEEN & Village Hidden in Sound - Vinyl Exchange Night",
+   "lineup": "STEEN",
    "artists": [
-    "Steen",
-    "Village Hidden in Sound"
+    "STEEN"
    ],
    "genres": [
+    "house",
     "techno"
    ],
-   "venue": "SILO Brooklyn",
+   "venue": "SILO",
    "area": "Brooklyn",
    "start": "2026-11-23T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/qnxnny-open-decks-w-steen-village-hidden-in-sound-vinyl-exchange-night-23rd-nov-silo-brooklyn-brooklyn-tickets"
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2574432"
   },
   {
    "id": "ra-2580775",
@@ -1136,25 +1118,6 @@
    "url": "https://ra.co/events/2580775"
   },
   {
-   "id": "dice-r32335",
-   "title": "Open Decks w/ Steen & 5KULLK1SS",
-   "lineup": "Steen, 5KULLK1SS",
-   "artists": [
-    "Steen",
-    "5KULLK1SS"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "SILO Brooklyn",
-   "area": "Brooklyn",
-   "start": "2026-11-24T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/r32335-open-decks-w-steen-5kullk1ss-24th-nov-silo-brooklyn-brooklyn-tickets"
-  },
-  {
    "id": "ra-2549164",
    "title": "Techno Yoga with Yaya Flows & Lychee",
    "lineup": "Yaya Flows, Lychee",
@@ -1173,6 +1136,25 @@
    "price": "$15",
    "priceMin": 15,
    "url": "https://ra.co/events/2549164"
+  },
+  {
+   "id": "ra-2574440",
+   "title": "Open Decks with STEEN & 5KULLK1SS",
+   "lineup": "STEEN",
+   "artists": [
+    "STEEN"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "SILO",
+   "area": "Brooklyn",
+   "start": "2026-11-24T19:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2574440"
   },
   {
    "id": "ra-2576661",
@@ -1331,6 +1313,23 @@
    "url": "https://ra.co/events/2575258"
   },
   {
+   "id": "ra-2586761",
+   "title": "CODED Thursdays THANKSGIVING NIGHT 11.26.26 with Tim Reyes",
+   "lineup": "",
+   "artists": [],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Club Rawhide",
+   "area": "Manhattan",
+   "start": "2026-11-26T21:00:00-05:00",
+   "source": "ra",
+   "price": "$20",
+   "priceMin": 20,
+   "url": "https://ra.co/events/2586761"
+  },
+  {
    "id": "shotgun-feedbk-with-greta-kurilo",
    "title": "Feedbk With Greta, Kurilo",
    "lineup": "Greta, Kurilo",
@@ -1369,6 +1368,27 @@
    "url": "https://ra.co/events/2575298"
   },
   {
+   "id": "ra-2586751",
+   "title": "Club Rawhide FRIDAY NIGHT 11.27.26 with Lauren Flax, Tommy Hart, Ben Wagner",
+   "lineup": "Lauren Flax, Tommy Hart, Ben Wagner",
+   "artists": [
+    "Lauren Flax",
+    "Tommy Hart",
+    "Ben Wagner"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Club Rawhide",
+   "area": "Manhattan",
+   "start": "2026-11-27T21:00:00-05:00",
+   "source": "ra",
+   "price": "$30",
+   "priceMin": 30,
+   "url": "https://ra.co/events/2586751"
+  },
+  {
    "id": "dice-av8pwx",
    "title": "Night & Day: Janina, Peachlyfe, Yazzus, Adriana Ruas, Alfonsvs, Jek b2b 98dots",
    "lineup": "Annie Lew, Janina, Jek, 98dots, Peachlyfe, Yazzus",
@@ -1394,34 +1414,14 @@
    "url": "https://dice.fm/event/av8pwx-night-day-janina-peachlyfe-yazzus-adriana-ruas-alfonsvs-jek-b2b-98dots-27th-nov-signal-new-york-city-tickets"
   },
   {
-   "id": "dice-dlg8re",
-   "title": "T\u00e9Q: Debut // Mike Trotter & David Ohana Aviance",
-   "lineup": "Mike Trotter, David Ohana Aviance",
-   "artists": [
-    "Mike Trotter",
-    "David Ohana Aviance"
-   ],
-   "genres": [
-    "hardgroove",
-    "techno"
-   ],
-   "venue": "KEYBAR",
-   "area": "Brooklyn",
-   "start": "2026-11-27T22:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/dlg8re-tq-debut-mike-trotter-david-ohana-aviance-27th-nov-keybar-new-york-city-tickets"
-  },
-  {
    "id": "dice-lqa8qp",
    "title": "MIJA INVITES : MRD, FLASH GEA & SLOWDANCEXO",
-   "lineup": "Mija, MRD, Flash Gea, Slowdancexo",
+   "lineup": "MIJA, MRD, Flash Gea, SLOWDANCEXO",
    "artists": [
-    "Mija",
+    "MIJA",
     "MRD",
     "Flash Gea",
-    "Slowdancexo"
+    "SLOWDANCEXO"
    ],
    "genres": [
     "techno",
@@ -1477,12 +1477,13 @@
   {
    "id": "ra-2575359",
    "title": "Sector of Groove presents: CONVERGENCE",
-   "lineup": "a.gar, MyCube, N\u00f6el Black, Pablo Vitale, Wren's Lullaby",
+   "lineup": "a.gar, MyCube, N\u00f6el Black, Pablo Vitale, S\u00e0udade, Wren's Lullaby",
    "artists": [
     "a.gar",
     "MyCube",
     "N\u00f6el Black",
     "Pablo Vitale",
+    "S\u00e0udade",
     "Wren's Lullaby"
    ],
    "genres": [
@@ -1517,6 +1518,26 @@
    "price": "",
    "priceMin": null,
    "url": "https://ra.co/events/2583025"
+  },
+  {
+   "id": "ra-2585716",
+   "title": "t\u00e9Q: BF Mike Trotter // David Ohana Aviance",
+   "lineup": "Michael Trotter, David Ohana Aviance",
+   "artists": [
+    "Michael Trotter",
+    "David Ohana Aviance"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "KEYBAR",
+   "area": "Brooklyn",
+   "start": "2026-11-27T22:00:00-05:00",
+   "source": "ra",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://ra.co/events/2585716"
   },
   {
    "id": "dice-l8p2rw",
@@ -1583,52 +1604,48 @@
    "url": "https://ra.co/events/2583211"
   },
   {
-   "id": "dice-yy2r7a",
-   "title": "Pressure: Derrick Carter, Rush Davis + PMT",
-   "lineup": "Derrick Carter, Rush Davis, Charlene Incarnate, Human Plushie, Trinity Forever, Redline Skin Contact",
+   "id": "ra-2586756",
+   "title": "Club Rawhide SATURDAY NIGHT 11.28.26 with Tom Peters, Gbenga, Jen DM",
+   "lineup": "Tom Peters, Gbenga",
+   "artists": [
+    "Tom Peters",
+    "Gbenga"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Club Rawhide",
+   "area": "Manhattan",
+   "start": "2026-11-28T21:00:00-05:00",
+   "source": "ra",
+   "price": "$30",
+   "priceMin": 30,
+   "url": "https://ra.co/events/2586756"
+  },
+  {
+   "id": "ra-2575386",
+   "title": "Pressure: Derrick Carter, Charlene Incarnate (Live), Rush Davis + Play Me Techno",
+   "lineup": "Derrick Carter, Rush Davis, SKIN CONTACT, Feonix (2), human plushie, Trinity Forever",
    "artists": [
     "Derrick Carter",
     "Rush Davis",
-    "Charlene Incarnate",
-    "Human Plushie",
-    "Trinity Forever",
-    "Redline Skin Contact",
-    "Feonix",
-    "Verbal Animal",
-    "X Von"
+    "SKIN CONTACT",
+    "Feonix (2)",
+    "human plushie",
+    "Trinity Forever"
    ],
    "genres": [
-    "techno",
-    "house"
+    "house",
+    "techno"
    ],
    "venue": "Paragon",
    "area": "Brooklyn",
    "start": "2026-11-28T21:30:00-05:00",
-   "source": "dice",
-   "price": "$28.33",
-   "priceMin": 28.33,
-   "url": "https://dice.fm/event/yy2r7a-pressure-derrick-carter-rush-davis-pmt-28th-nov-paragon-new-york-city-tickets"
-  },
-  {
-   "id": "dice-8edra5",
-   "title": "Galcher Lustwerk (Live). AceMo, Lauren Flax, Devoye",
-   "lineup": "Galcher Lustwerk, AceMo, Lauren Flax, Devoye",
-   "artists": [
-    "Galcher Lustwerk",
-    "AceMo",
-    "Lauren Flax",
-    "Devoye"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Signal",
-   "area": "Brooklyn",
-   "start": "2026-11-28T22:00:00-05:00",
-   "source": "dice",
-   "price": "$22.66",
-   "priceMin": 22.66,
-   "url": "https://dice.fm/event/8edra5-galcher-lustwerk-live-acemo-lauren-flax-devoye-28th-nov-signal-new-york-city-tickets"
+   "source": "ra",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://ra.co/events/2575386"
   },
   {
    "id": "dice-99e9a9",
@@ -1644,8 +1661,8 @@
    "area": "Brooklyn",
    "start": "2026-11-28T22:00:00-05:00",
    "source": "dice",
-   "price": "$106.09",
-   "priceMin": 106.09,
+   "price": "$111.40",
+   "priceMin": 111.4,
    "url": "https://dice.fm/event/99e9a9-mathame-28th-nov-pacha-new-york-new-york-city-tickets"
   },
   {
@@ -1692,6 +1709,42 @@
    "url": "https://ra.co/events/2581732"
   },
   {
+   "id": "shotgun-galcher-lustwerk-live-ace-mo-lauren-flax-devoye",
+   "title": "Galcher Lustwerk (Live), Acemo, Lauren Flax, Devoye",
+   "lineup": "Galcher Lustwerk, Acemo, Lauren Flax, Devoye",
+   "artists": [
+    "Galcher Lustwerk",
+    "Acemo",
+    "Lauren Flax",
+    "Devoye"
+   ],
+   "genres": [],
+   "venue": "Signal",
+   "area": "Brooklyn",
+   "start": "2026-11-28T22:00:00-05:00",
+   "source": "shotgun",
+   "price": "$22.70",
+   "priceMin": 22.7,
+   "url": "https://shotgun.live/en/events/galcher-lustwerk-live-ace-mo-lauren-flax-devoye"
+  },
+  {
+   "id": "ra-2586553",
+   "title": "The EURODANCE Party",
+   "lineup": "",
+   "artists": [],
+   "genres": [
+    "club",
+    "techno"
+   ],
+   "venue": "Market Hotel",
+   "area": "Brooklyn",
+   "start": "2026-11-28T23:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2586553"
+  },
+  {
    "id": "ra-2559684",
    "title": "Sunday Service With Tauceti & Lea Node",
    "lineup": "Tauceti (FR), Lea Node",
@@ -1728,25 +1781,6 @@
    "price": "$21.63",
    "priceMin": 21.63,
    "url": "https://dice.fm/event/nvrq8q-the-atrium-eli-escobar-jen-cardini-29th-nov-public-records-new-york-tickets"
-  },
-  {
-   "id": "dice-bvlabg",
-   "title": "Open Decks w/ Steen & Life After Trance",
-   "lineup": "Steen, Life After Trance",
-   "artists": [
-    "Steen",
-    "Life After Trance"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "SILO Brooklyn",
-   "area": "Brooklyn",
-   "start": "2026-11-30T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/bvlabg-open-decks-w-steen-life-after-trance-30th-nov-silo-brooklyn-brooklyn-tickets"
   },
   {
    "id": "ra-2575514",
