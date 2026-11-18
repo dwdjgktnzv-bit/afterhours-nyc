@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T09:00:00-05:00",
+ "updatedAt": "2026-11-18T09:00:00-05:00",
  "artists": {
   "akua": {
    "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -15925,6 +15925,178 @@
     "instagram": "https://www.instagram.com/tompetersworld/"
    },
    "name": "Tom Peters"
+  },
+  "hauswyfe": {
+   "bio": "DJ and producer; released 'Let's Get Dressed' with Arpolique and remixed Tate McRae's 'Housewife' with Eddy Caps",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "name": "Hauswyfe"
+  },
+  "j4t464": {
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno"
+   ],
+   "name": "J4T464"
+  },
+  "jack mulqueen": {
+   "bio": "NYC nightlife developer behind the Outer Heaven microclub; DJ playing house and techno sets across the city",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "name": "Jack Mulqueen"
+  },
+  "jin l": {
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno"
+   ],
+   "name": "Jin L"
+  },
+  "kat offline": {
+   "bio": "Lot Radio resident and sous chef at The Four Horsemen in Brooklyn; lush downtempo soundscapes; part of the Miss/Chief Collective",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "downtempo",
+    "house"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/kat.offline"
+   },
+   "name": "Kat Offline"
+  },
+  "mihigh": {
+   "bio": "Romanian DJ/producer and Club Midi resident since 2007; 'dirty old school underground music' blending minimal house and techno; founder of Midi Records Romania",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "minimal",
+    "techno",
+    "rominimal"
+   ],
+   "links": {
+    "soundcloud": "https://soundcloud.com/mihigh"
+   },
+   "name": "Mihigh"
+  },
+  "ouz": {
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "name": "Ouz"
+  },
+  "papa (us)": {
+   "bio": "Brooklyn-based DJ playing high-energy sets from balearic afternoons to deep/progressive house and ripping techno afters; founder of the DIY party Terrazza",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "house",
+    "techno",
+    "progressive house"
+   ],
+   "name": "PAPA (US)"
+  },
+  "draco meteor": {
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno"
+   ],
+   "name": "Draco Meteor"
+  },
+  "g.thulu": {
+   "bio": "Bass music artist on the MalLabel roster.",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "dubstep",
+    "bass"
+   ],
+   "name": "G.thulu"
+  },
+  "jewel": {
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno"
+   ],
+   "name": "Jewel"
+  },
+  "lai willi": {
+   "bio": "New York City DJ who has played Building Beats nights at Jupiter Disco in Brooklyn.",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno"
+   ],
+   "name": "Lai Willi"
+  },
+  "lumi\u00e8re": {
+   "bio": "Buenos Aires-born, Barcelona-based DJ and Mistress party resident playing house and techno with deep and jazzy facets.",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno",
+    "house"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/l.u.m.i.e.r.e/",
+    "soundcloud": "https://soundcloud.com/lucylumiere"
+   },
+   "name": "Lumi\u00e8re"
+  },
+  "maria josse": {
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno"
+   ],
+   "name": "MARIA JOSSE"
+  },
+  "bossy boots": {
+   "bio": "NYC-based DJ, movement teacher and multidisciplinary artist; founder of the SHE.THEY.DJ party series championing women, non-binary and trans DJs",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "electro",
+    "acid",
+    "breaks",
+    "house"
+   ],
+   "name": "bossy boots"
+  },
+  "cl\u00fcbsession": {
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno",
+    "house"
+   ],
+   "name": "Cl\u00fcbsession"
+  },
+  "nuisance": {
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno",
+    "house"
+   ],
+   "name": "Nuisance"
+  },
+  "richard o'bryan": {
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "techno"
+   ],
+   "name": "Richard O'Bryan"
+  },
+  "sana": {
+   "bio": "NYC-based DJ playing global club sounds with South Asian influences; regular at Mood Ring, Elsewhere, Public Records and SILO",
+   "checkedAt": "2026-11-18",
+   "genres": [
+    "club",
+    "techno"
+   ],
+   "links": {
+    "soundcloud": "https://soundcloud.com/djsanaa"
+   },
+   "name": "Sana"
   }
  }
 }
