@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T09:00:00-05:00",
+ "updatedAt": "2026-11-19T09:00:00-05:00",
  "artists": {
   "akua": {
    "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -16097,6 +16097,157 @@
     "soundcloud": "https://soundcloud.com/djsanaa"
    },
    "name": "Sana"
+  },
+  "carozilla": {
+   "bio": "Miami-born Cuban/Honduran vinyl selector and emcee Caroline Cardenas, holding a monthly Ladies Night residency at Dante's HiFi+ and a member of the all-femme vinyl collective Waxy.",
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "disco",
+    "funk",
+    "electro",
+    "house"
+   ],
+   "name": "Carozilla"
+  },
+  "darling nikki": {
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "techno"
+   ],
+   "name": "Darling Nikki"
+  },
+  "joooosh": {
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "techno"
+   ],
+   "name": "Joooosh"
+  },
+  "liz claymore": {
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "techno"
+   ],
+   "name": "Liz Claymore"
+  },
+  "muscle memory": {
+   "bio": "Brooklyn duo of Steven Reker and Michael Tapper, former indie-rock musicians turned dance producers, holding a monthly residency at Nightmoves and running the INFINITE BEAT (!) party series.",
+   "checkedAt": "2026-11-19",
+   "followers": {
+    "instagram": 1466,
+    "tiktok": 88
+   },
+   "genres": [
+    "synthpop",
+    "disco",
+    "house",
+    "acid"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/musclememorymusic/",
+    "spotify": "https://open.spotify.com/artist/6NZiWhxk5lW4MiVLdOFqOu",
+    "tiktok": "https://www.tiktok.com/@musclememorymusic"
+   },
+   "name": "Muscle Memory"
+  },
+  "tomas station": {
+   "bio": "Colombian-born, Brooklyn-based DJ and producer raised between Bogota and Chicago; ReSolute resident and Downpitch Recordings cofounder, with releases on Dailysession NY, Descendants Of The Deep and Moody Recordings.",
+   "checkedAt": "2026-11-19",
+   "followers": {
+    "instagram": 12434
+   },
+   "genres": [
+    "house",
+    "minimal techno",
+    "deep techno"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/tomasstation",
+    "soundcloud": "https://soundcloud.com/tomasstation"
+   },
+   "name": "Tomas Station"
+  },
+  "adree": {
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "techno",
+    "house"
+   ],
+   "name": "Adree"
+  },
+  "daisy o'dell": {
+   "bio": "Los Angeles-based DJ, producer and curator; hosts weekly vinyl nights at Cara Cara in Downtown LA and has curated music for Coachella parties.",
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "disco",
+    "house"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/daisyodell"
+   },
+   "name": "Daisy O'Dell"
+  },
+  "dj tones": {
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "techno"
+   ],
+   "name": "DJ Tones"
+  },
+  "leg room": {
+   "bio": "New York DJ duo and Outer Heaven residents; co-founders of the Stretch Your Legs party, playing an eclectic blend of house, disco and techno across NYC.",
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "house",
+    "disco",
+    "techno"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/legroom.nyc"
+   },
+   "name": "Leg Room"
+  },
+  "qtea": {
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "techno",
+    "experimental"
+   ],
+   "name": "Qtea"
+  },
+  "seth hosko": {
+   "bio": "New York DJ and violinist with the Playdate collective; melodic, experimental deep house and techno rooted in classical training, with sets at Movement Detroit and Burning Man.",
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "deep house",
+    "techno",
+    "experimental"
+   ],
+   "links": {
+    "soundcloud": "https://soundcloud.com/sethhosko"
+   },
+   "name": "Seth Hosko"
+  },
+  "stonie blue": {
+   "bio": "New York-based DJ, producer and community builder; founder of the Body Rock party and BIYDIY Records, playing deep and soulful house.",
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "deep house",
+    "house",
+    "disco"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/antbluejr",
+    "tiktok": "https://www.tiktok.com/@stonieblue"
+   },
+   "name": "Stonie Blue"
+  },
+  "tsumo": {
+   "checkedAt": "2026-11-19",
+   "genres": [
+    "techno"
+   ],
+   "name": "TSUMO"
   }
  }
 }
