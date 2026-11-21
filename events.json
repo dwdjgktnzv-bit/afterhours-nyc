@@ -1,558 +1,23 @@
 {
- "updatedAt": "2026-11-19T09:00:00-05:00",
+ "updatedAt": "2026-11-21T09:00:00-05:00",
  "events": [
   {
-   "id": "ra-2571674",
-   "title": "The Ornate Project: Lohrasp Kansara",
-   "lineup": "Mark Dumitrescu",
+   "id": "eventbrite-2005055413717",
+   "title": "SATURDAY MORNING AFTER PARTY 4AM \u25cf JUAN JIMENEZ B2B FELIPE LOMBANA & MORE",
+   "lineup": "Juan Jimenez, Felipe Lombana, John Rengifo",
    "artists": [
-    "Mark Dumitrescu"
+    "Juan Jimenez",
+    "Felipe Lombana",
+    "John Rengifo"
    ],
-   "genres": [
-    "afro house",
-    "techno"
-   ],
-   "venue": "The Ornate Studio",
-   "area": "Brooklyn",
-   "start": "2026-11-19T18:00:00-05:00",
-   "source": "ra",
-   "price": "$10",
-   "priceMin": 10,
-   "url": "https://ra.co/events/2571674"
-  },
-  {
-   "id": "ra-2553552",
-   "title": "Happy Hour: ENDOCYTOSIS",
-   "lineup": "mxmax",
-   "artists": [
-    "mxmax"
-   ],
-   "genres": [
-    "electro",
-    "techno"
-   ],
-   "venue": "Bossa Nova Civic Club",
-   "area": "Brooklyn",
-   "start": "2026-11-19T19:00:00-05:00",
-   "source": "ra",
-   "price": "",
-   "priceMin": null,
-   "url": "https://ra.co/events/2553552"
-  },
-  {
-   "id": "shotgun-feedbk-with-penelope",
-   "title": "feedbk with Penelope",
-   "lineup": "Penelope",
-   "artists": [
-    "Penelope"
-   ],
-   "genres": [
-    "techno",
-    "minimal"
-   ],
-   "venue": "feedbk",
-   "area": "Brooklyn",
-   "start": "2026-11-19T19:00:00-05:00",
-   "source": "shotgun",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://shotgun.live/en/events/feedbk-with-penelope"
-  },
-  {
-   "id": "dice-wwnyer",
-   "title": "Techno Thursday [Melodic2Hard] (Main Room Event, Free w/ RSVP)",
-   "lineup": "Bruce Wayne, Asa, Phantom, Vida Libre, Tay, Gio",
-   "artists": [
-    "Bruce Wayne",
-    "Asa",
-    "Phantom",
-    "Vida Libre",
-    "Tay",
-    "Gio",
-    "Roksana",
-    "Artela",
-    "J4T464",
-    "La Loca",
-    "IGP",
-    "Lufer"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "SILO Brooklyn",
-   "area": "Brooklyn",
-   "start": "2026-11-19T21:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/wwnyer-techno-thursday-melodic2hard-main-room-event-free-w-rsvp-19th-nov-silo-brooklyn-brooklyn-tickets?lng=en-US"
-  },
-  {
-   "id": "ra-2532704",
-   "title": "Homies Givin' 2026",
-   "lineup": "TYLERFROMWHERE, gabby cocco, Extra Meesh, PAPA (US)",
-   "artists": [
-    "TYLERFROMWHERE",
-    "gabby cocco",
-    "Extra Meesh",
-    "PAPA (US)"
-   ],
-   "genres": [
-    "acid",
-    "house"
-   ],
-   "venue": "Good Room",
-   "area": "Brooklyn",
-   "start": "2026-11-19T21:00:00-05:00",
-   "source": "ra",
-   "price": "$10",
-   "priceMin": 10,
-   "url": "https://ra.co/events/2532704"
-  },
-  {
-   "id": "ra-2575256",
-   "title": "ROMANCE w Andi + Eli Escobar",
-   "lineup": "Andi, Eli Escobar",
-   "artists": [
-    "Andi",
-    "Eli Escobar"
-   ],
-   "genres": [
-    "electro",
-    "pop"
-   ],
-   "venue": "Gabriela",
-   "area": "Brooklyn",
-   "start": "2026-11-19T21:00:00-05:00",
-   "source": "ra",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://ra.co/events/2575256"
-  },
-  {
-   "id": "ra-2576670",
-   "title": "CODED Thursdays 11.19.26 w/ Corey Craig, DROPO",
-   "lineup": "DROPO",
-   "artists": [
-    "DROPO"
-   ],
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "venue": "Club Rawhide",
-   "area": "Manhattan",
-   "start": "2026-11-19T21:00:00-05:00",
-   "source": "ra",
-   "price": "$20",
-   "priceMin": 20,
-   "url": "https://ra.co/events/2576670"
-  },
-  {
-   "id": "ra-2587942",
-   "title": "Jin L, Kat Offline & Spiral Eddie",
-   "lineup": "Jin L, Kat Offline, Spiral Eddie",
-   "artists": [
-    "Jin L",
-    "Kat Offline",
-    "Spiral Eddie"
-   ],
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "venue": "Mansions",
-   "area": "Queens",
-   "start": "2026-11-19T21:00:00-05:00",
-   "source": "ra",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://ra.co/events/2587942"
-  },
-  {
-   "id": "dice-bbq79g",
-   "title": "Pressure Point: A Multimedia Warehouse Party",
-   "lineup": "nigh.tv.isions, Maul Couple, Disco Vampire, Noah Lexi, theoretic",
-   "artists": [
-    "nigh.tv.isions",
-    "Maul Couple",
-    "Disco Vampire",
-    "Noah Lexi",
-    "theoretic"
-   ],
-   "genres": [
-    "industrial"
-   ],
-   "venue": "Empire Stage",
-   "area": "Brooklyn",
-   "start": "2026-11-19T21:30:00-05:00",
-   "source": "dice",
-   "price": "$19.27",
-   "priceMin": 19.27,
-   "url": "https://dice.fm/event/bbq79g-pressure-point-a-multimedia-warehouse-party-19th-nov-empire-stage-new-york-city-tickets?lng=en-US"
-  },
-  {
-   "id": "eventbrite-1999635809535",
-   "title": "Refuge Thursday: Enrico Sangiuliano, Raw Planet",
-   "lineup": "Enrico Sangiuliano, Raw Planet",
-   "artists": [
-    "Enrico Sangiuliano",
-    "Raw Planet"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Refuge",
-   "area": "Brooklyn",
-   "start": "2026-11-19T22:00:00-05:00",
-   "source": "eventbrite",
-   "price": "$25",
-   "priceMin": 25,
-   "url": "https://www.eventbrite.com/e/refuge-thursday-enrico-sangiuliano-raw-planet-tickets-1999635809535"
-  },
-  {
-   "id": "shotgun-feedbk-with-borja-s-hugo",
-   "title": "feedbk with Borja S, Hugo",
-   "lineup": "Borja S, Hugo",
-   "artists": [
-    "Borja S",
-    "Hugo"
-   ],
-   "genres": [
-    "techno",
-    "minimal"
-   ],
-   "venue": "feedbk",
-   "area": "Brooklyn",
-   "start": "2026-11-20T19:00:00-05:00",
-   "source": "shotgun",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://shotgun.live/en/events/feedbk-with-borja-s-hugo"
-  },
-  {
-   "id": "dice-dlgwvq",
-   "title": "NUVORA",
-   "lineup": "Motorolla, Ouz, Hauswyfe, New Wing, Jengs, Elyonn",
-   "artists": [
-    "Motorolla",
-    "Ouz",
-    "Hauswyfe",
-    "New Wing",
-    "Jengs",
-    "Elyonn"
-   ],
-   "genres": [
-    "techno",
-    "melodic techno"
-   ],
-   "venue": "Eden",
-   "area": "Manhattan",
-   "start": "2026-11-20T21:00:00-05:00",
-   "source": "dice",
-   "price": "$28.12",
-   "priceMin": 28.12,
-   "url": "https://dice.fm/event/dlgwvq-nuvora-20th-nov-eden-new-york-city-tickets?lng=en-US"
-  },
-  {
-   "id": "dice-yo57ba",
-   "title": "Time Warp NYC (Friday Pass)",
-   "lineup": "Anetha, Annie Lew, ChaseWest, DJ Tennis, Red Axes, Franky Rizardo",
-   "artists": [
-    "Anetha",
-    "Annie Lew",
-    "ChaseWest",
-    "DJ Tennis",
-    "Red Axes",
-    "Franky Rizardo",
-    "Indira Paganotto",
-    "Kilopatrah Jones",
-    "Novah",
-    "Silvie Loto",
-    "VTSS"
-   ],
-   "genres": [
-    "techno",
-    "hard techno"
-   ],
-   "venue": "Duggal Greenhouse",
-   "area": "Brooklyn",
-   "start": "2026-11-20T21:00:00-05:00",
-   "source": "dice",
-   "price": "$94.99",
-   "priceMin": 94.99,
-   "url": "https://dice.fm/event/yo57ba-time-warp-nyc-friday-pass-20th-nov-duggal-greenhouse-brooklyn-navy-yard-new-york-city-tickets?lng=en-US"
-  },
-  {
-   "id": "ra-2575287",
-   "title": "Amber Valentine // ALL NIGHT LONG",
-   "lineup": "Amber Valentine",
-   "artists": [
-    "Amber Valentine"
-   ],
-   "genres": [
-    "electro",
-    "house"
-   ],
-   "venue": "Gabriela",
-   "area": "Brooklyn",
-   "start": "2026-11-20T21:00:00-05:00",
-   "source": "ra",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://ra.co/events/2575287"
-  },
-  {
-   "id": "ra-2576674",
-   "title": "Club Rawhide FRIDAY NIGHT 11.20.26 w/ Will Automagic, William Francis, Will Jack",
-   "lineup": "Will Automagic, William Francis, Will Jack",
-   "artists": [
-    "Will Automagic",
-    "William Francis",
-    "Will Jack"
-   ],
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "venue": "Club Rawhide",
-   "area": "Manhattan",
-   "start": "2026-11-20T21:00:00-05:00",
-   "source": "ra",
-   "price": "$30",
-   "priceMin": 30,
-   "url": "https://ra.co/events/2576674"
-  },
-  {
-   "id": "ra-2561927",
-   "title": "Phantasma: TYGAPAW, 1morning, Ether Pleaser + purp, Amadeezy, Tromac b2b King Virgo",
-   "lineup": "TYGAPAW, 1morning, Ether Pleaser, purp, Tromac, King Virgo",
-   "artists": [
-    "TYGAPAW",
-    "1morning",
-    "Ether Pleaser",
-    "purp",
-    "Tromac",
-    "King Virgo"
-   ],
-   "genres": [
-    "club",
-    "techno"
-   ],
-   "venue": "Paragon",
-   "area": "Brooklyn",
-   "start": "2026-11-20T21:30:00-05:00",
-   "source": "ra",
-   "price": "$25",
-   "priceMin": 25,
-   "url": "https://ra.co/events/2561927"
-  },
-  {
-   "id": "dice-eo9vmd",
-   "title": "Night & Day 24h: Enrica Falqui, Dea Dvornik, GNMR and many more",
-   "lineup": "Ateq, Caim, Daura, ERIS, GNMR, J. Richards",
-   "artists": [
-    "Ateq",
-    "Caim",
-    "Daura",
-    "ERIS",
-    "GNMR",
-    "J. Richards",
-    "Kurilo",
-    "Lis Dalton",
-    "Onirik",
-    "Mr. Stream"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Signal",
-   "area": "Brooklyn",
-   "start": "2026-11-20T22:00:00-05:00",
-   "source": "dice",
-   "price": "$28.33",
-   "priceMin": 28.33,
-   "url": "https://dice.fm/event/eo9vmd-night-day-24h-enrica-falqui-dea-dvornik-gnmr-and-many-more-20th-nov-signal-new-york-city-tickets"
-  },
-  {
-   "id": "dice-te3299afdc95",
-   "title": "Carozilla + Muscle Memory",
-   "lineup": "Carozilla, Muscle Memory",
-   "artists": [
-    "Carozilla",
-    "Muscle Memory"
-   ],
-   "genres": [
-    "electro"
-   ],
-   "venue": "Jupiter Disco",
-   "area": "Brooklyn",
-   "start": "2026-11-20T22:00:00-05:00",
-   "source": "dice",
-   "price": "$11.33",
-   "priceMin": 11.33,
-   "url": "https://link.dice.fm/te3299afdc95"
-  },
-  {
-   "id": "eventbrite-2003438659963",
-   "title": "Refuge Friday: Surprise Guests",
-   "lineup": "",
-   "artists": [],
    "genres": [],
-   "venue": "Refuge",
+   "venue": "Brooklyn Warehouse",
    "area": "Brooklyn",
-   "start": "2026-11-20T22:00:00-05:00",
+   "start": "2026-11-21T04:00:00-05:00",
    "source": "eventbrite",
-   "price": "$25",
-   "priceMin": 25,
-   "url": "https://www.eventbrite.com/e/refuge-friday-surprise-guests-tickets-2003438659963"
-  },
-  {
-   "id": "ra-2549121",
-   "title": "Laurel Halo All Night",
-   "lineup": "Laurel Halo",
-   "artists": [
-    "Laurel Halo"
-   ],
-   "genres": [
-    "bass",
-    "techno"
-   ],
-   "venue": "Nowadays",
-   "area": "Queens",
-   "start": "2026-11-20T22:00:00-05:00",
-   "source": "ra",
-   "price": "$20",
-   "priceMin": 20,
-   "url": "https://ra.co/events/2549121"
-  },
-  {
-   "id": "ra-2559507",
-   "title": "Fractals presents: GWELD (Live)",
-   "lineup": "GWELD, Djgothqueen (3), Rapture",
-   "artists": [
-    "GWELD",
-    "Djgothqueen (3)",
-    "Rapture"
-   ],
-   "genres": [
-    "industrial",
-    "techno"
-   ],
-   "venue": "Eden",
-   "area": "Manhattan",
-   "start": "2026-11-20T22:00:00-05:00",
-   "source": "ra",
-   "price": "$40",
-   "priceMin": 40,
-   "url": "https://ra.co/events/2559507"
-  },
-  {
-   "id": "ra-2574041",
-   "title": "District Apple: Enzo",
-   "lineup": "enz.O, ROLO (NYC)",
-   "artists": [
-    "enz.O",
-    "ROLO (NYC)"
-   ],
-   "genres": [
-    "house",
-    "minimal"
-   ],
-   "venue": "El Santo",
-   "area": "Brooklyn",
-   "start": "2026-11-20T22:00:00-05:00",
-   "source": "ra",
    "price": "Free",
    "priceMin": 0,
-   "url": "https://ra.co/events/2574041"
-  },
-  {
-   "id": "ra-2584125",
-   "title": "Golden Record NYC x Misbehave present DJ Qu",
-   "lineup": "DJ Qu, Bella Mutino, CAMILLA, Mario Polanco, Coraz\u00f3n De Melon",
-   "artists": [
-    "DJ Qu",
-    "Bella Mutino",
-    "CAMILLA",
-    "Mario Polanco",
-    "Coraz\u00f3n De Melon"
-   ],
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "venue": "Green Room NYC",
-   "area": "Brooklyn",
-   "start": "2026-11-20T22:00:00-05:00",
-   "source": "ra",
-   "price": "$20",
-   "priceMin": 20,
-   "url": "https://ra.co/events/2584125"
-  },
-  {
-   "id": "ra-2588735",
-   "title": "CRUISIN'",
-   "lineup": "Darling Nikki, Joooosh, Liz Claymore",
-   "artists": [
-    "Darling Nikki",
-    "Joooosh",
-    "Liz Claymore"
-   ],
-   "genres": [
-    "electro",
-    "techno"
-   ],
-   "venue": "Metropolitan Bar",
-   "area": "Brooklyn",
-   "start": "2026-11-20T22:00:00-05:00",
-   "source": "ra",
-   "price": "$5",
-   "priceMin": 5,
-   "url": "https://ra.co/events/2588735"
-  },
-  {
-   "id": "dice-pyxe5p",
-   "title": "ORBE, Laia / Rolando, Jay York / Jesse Dorris",
-   "lineup": "ORBE, Laia, Rolando, Jay York, Jesse Dorris",
-   "artists": [
-    "ORBE",
-    "Laia",
-    "Rolando",
-    "Jay York",
-    "Jesse Dorris"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Public Records",
-   "area": "Brooklyn",
-   "start": "2026-11-20T23:00:00-05:00",
-   "source": "dice",
-   "price": "$21.63",
-   "priceMin": 21.63,
-   "url": "https://dice.fm/event/pyxe5p-orbe-laia-rolando-jay-york-jesse-dorris-20th-nov-public-records-new-york-tickets?lng=en-US"
-  },
-  {
-   "id": "ra-2584216",
-   "title": "333 House presents: Mihigh",
-   "lineup": "Mihigh, Raw Phonics, Jack Mulqueen",
-   "artists": [
-    "Mihigh",
-    "Raw Phonics",
-    "Jack Mulqueen"
-   ],
-   "genres": [
-    "minimal",
-    "techno"
-   ],
-   "venue": "TBA - 333",
-   "area": "Brooklyn",
-   "start": "2026-11-20T23:00:00-05:00",
-   "source": "ra",
-   "price": "",
-   "priceMin": null,
-   "url": "https://ra.co/events/2584216"
+   "url": "https://www.eventbrite.com/e/saturday-morning-after-party-4am-juan-jimenez-b2b-felipe-lombana-more-tickets-2005055413717"
   },
   {
    "id": "ra-2586631",
@@ -576,16 +41,15 @@
   },
   {
    "id": "shotgun-feedbk-x-22-recordings-with-c-ru-z-alonzo-live-luska",
-   "title": "feedbk x 22 Recordings with Lumi\u00e8re, Alonzo (Live), Luska",
+   "title": "Feedbk X 22 Recordings With Lumi\u00e9re, Alonzo (Live), Luska",
    "lineup": "Lumi\u00e8re, Alonzo (Live), Luska",
    "artists": [
     "Lumi\u00e8re",
-    "Alonzo",
+    "Alonzo (Live)",
     "Luska"
    ],
    "genres": [
-    "techno",
-    "minimal"
+    "techno"
    ],
    "venue": "feedbk",
    "area": "Brooklyn",
@@ -594,24 +58,6 @@
    "price": "Free",
    "priceMin": 0,
    "url": "https://shotgun.live/en/events/feedbk-x-22-recordings-with-c-ru-z-alonzo-live-luska"
-  },
-  {
-   "id": "dice-3kqgmv",
-   "title": "MARIA JOSSE",
-   "lineup": "MARIA JOSSE",
-   "artists": [
-    "MARIA JOSSE"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "LISTEN",
-   "area": "Brooklyn",
-   "start": "2026-11-21T20:00:00-05:00",
-   "source": "dice",
-   "price": "$22.66",
-   "priceMin": 22.66,
-   "url": "https://dice.fm/event/3kqgmv-maria-josse-21st-nov-listen-new-york-city-tickets?lng=en-US"
   },
   {
    "id": "ra-2573699",
@@ -637,58 +83,54 @@
    "url": "https://ra.co/events/2573699"
   },
   {
-   "id": "dice-q236ao",
-   "title": "BLOODRAVE: WONDERLAND",
-   "lineup": "NOWHERE2RUN, Kilbourne, Shitney Queers, DJ StepMania, Emma X, Confines",
+   "id": "dice-nyl9a5",
+   "title": "Stephan Jolk & Friends",
+   "lineup": "Stephan Jolk, T-Pulse, Fireware, Sierra Bomba, Ducci",
    "artists": [
-    "NOWHERE2RUN",
-    "Kilbourne",
-    "Shitney Queers",
-    "DJ StepMania",
-    "Emma X",
-    "Confines",
-    "Viciouswishes"
+    "Stephan Jolk",
+    "T-Pulse",
+    "Fireware",
+    "Sierra Bomba",
+    "Ducci"
    ],
    "genres": [
-    "techno",
-    "industrial"
+    "techno"
    ],
-   "venue": "Saint Vitus",
+   "venue": "UNVEILED",
    "area": "Brooklyn",
    "start": "2026-11-21T21:00:00-05:00",
    "source": "dice",
-   "price": "$31.52",
-   "priceMin": 31.52,
-   "url": "https://dice.fm/event/q236ao-bloodrave-wonderland-21st-nov-saint-vitus-new-york-city-tickets?lng=en-US"
+   "price": "$17",
+   "priceMin": 17,
+   "url": "https://dice.fm/event/nyl9a5-stephan-jolk-friends-21st-nov-unveiled-new-york-city-tickets"
   },
   {
    "id": "dice-xeg5aa",
    "title": "Time Warp NYC (Saturday Pass)",
-   "lineup": "Adiel, Quest, \u00c2me, Brunello, Chl\u00e4r, Dubi",
+   "lineup": "Adiel, Quest, \u00c2me, Brunello, Chl\u00e4r, DVS1",
    "artists": [
     "Adiel",
     "Quest",
     "\u00c2me",
     "Brunello",
     "Chl\u00e4r",
-    "Dubi",
+    "DVS1",
     "Julya Karma",
-    "KlangKuenstler",
+    "Klangkuenstler",
     "Kyruh",
     "Rose Kourts",
     "Sven V\u00e4th"
    ],
    "genres": [
-    "techno",
-    "hard techno"
+    "techno"
    ],
-   "venue": "Duggal Greenhouse",
+   "venue": "Duggal Greenhouse (Brooklyn Navy Yard)",
    "area": "Brooklyn",
    "start": "2026-11-21T21:00:00-05:00",
    "source": "dice",
-   "price": "$94.99",
-   "priceMin": 94.99,
-   "url": "https://dice.fm/event/xeg5aa-time-warp-nyc-saturday-pass-21st-nov-duggal-greenhouse-brooklyn-navy-yard-new-york-city-tickets?lng=en-US"
+   "price": "$124.99",
+   "priceMin": 124.99,
+   "url": "https://dice.fm/event/xeg5aa-time-warp-nyc-saturday-pass-21st-nov-duggal-greenhouse-brooklyn-navy-yard-new-york-city-tickets"
   },
   {
    "id": "ra-2575292",
@@ -752,23 +194,61 @@
    "url": "https://dice.fm/event/532o88-yaego-sangre-glass-halo-nymph-21st-nov-paragon-new-york-city-tickets"
   },
   {
-   "id": "dice-bvleqo",
-   "title": "ReSolute 19th Anniversary",
-   "lineup": "O.BEE, Tomas Station",
+   "id": "dice-ok25yg",
+   "title": "Gala Galactica: Physical Therapy, Kate Simko & Ksenyeah",
+   "lineup": "Physical Therapy, Kate Simko, Ksenyeah",
    "artists": [
-    "O.BEE",
-    "Tomas Station"
+    "Physical Therapy",
+    "Kate Simko",
+    "Ksenyeah"
    ],
    "genres": [
     "techno"
    ],
-   "venue": "Secret Location",
+   "venue": "House of Yes",
    "area": "Brooklyn",
    "start": "2026-11-21T22:00:00-05:00",
    "source": "dice",
-   "price": "$33.99",
-   "priceMin": 33.99,
-   "url": "https://dice.fm/event/bvleqo-resolute-19th-anniversary-21st-nov-secret-location-brooklyn-brooklyn-tickets?lng=en-US"
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://dice.fm/event/ok25yg-gala-galactica-physical-therapy-kate-simko-ksenyeah-21st-nov-house-of-yes-new-york-city-tickets"
+  },
+  {
+   "id": "dice-yo5eep",
+   "title": "FOVOS / Dooms / Andersun",
+   "lineup": "FOVOS, Dooms, Andersun",
+   "artists": [
+    "FOVOS",
+    "Dooms",
+    "Andersun"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "SILO Brooklyn",
+   "area": "Brooklyn",
+   "start": "2026-11-21T22:00:00-05:00",
+   "source": "dice",
+   "price": "$24.72",
+   "priceMin": 24.72,
+   "url": "https://dice.fm/event/yo5eep-fovos-dooms-andersun-21st-nov-silo-brooklyn-brooklyn-tickets"
+  },
+  {
+   "id": "eventbrite-2003439138394",
+   "title": "Refuge Saturday: Radio Slave + Simon Heyliger",
+   "lineup": "Radio Slave, Simon Heyliger",
+   "artists": [
+    "Radio Slave",
+    "Simon Heyliger"
+   ],
+   "genres": [],
+   "venue": "Refuge",
+   "area": "Brooklyn",
+   "start": "2026-11-21T22:00:00-05:00",
+   "source": "eventbrite",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://www.eventbrite.com/e/refuge-saturday-radio-slave-simon-heyliger-tickets-2003439138394"
   },
   {
    "id": "ra-2543579",
@@ -834,7 +314,7 @@
   },
   {
    "id": "ra-2556194",
-   "title": "Golden Record NYC x Pregame present Harry McCanna",
+   "title": "Golden Record NYC x 333 House x Pregame present Harry McCanna",
    "lineup": "Harry McCanna, Armii1n, John Everett, Kiyoshi, Zayd",
    "artists": [
     "Harry McCanna",
@@ -940,10 +420,67 @@
    "source": "dice",
    "price": "$39.84",
    "priceMin": 39.84,
-   "url": "https://dice.fm/event/3o8dyx-anna-with-ardeshir-and-solna-haus-of-joon-21st-nov-somewhere-nowhere-nyc-new-york-tickets?lng=en-US"
+   "url": "https://dice.fm/event/3o8dyx-anna-with-ardeshir-and-solna-haus-of-joon-21st-nov-somewhere-nowhere-nyc-new-york-tickets"
   },
   {
-   "id": "ra-2520128",
+   "id": "dice-8e76rv",
+   "title": "Lavern",
+   "lineup": "Lavern",
+   "artists": [
+    "Lavern"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Marquee New York",
+   "area": "Manhattan",
+   "start": "2026-11-21T23:00:00-05:00",
+   "source": "dice",
+   "price": "$62.32",
+   "priceMin": 62.32,
+   "url": "https://dice.fm/event/8e76rv-lavern-21st-nov-marquee-new-york-new-york-city-tickets"
+  },
+  {
+   "id": "eventbrite-2005146107986",
+   "title": "SUNDAY MORNING AFTER PARTY 4AM \u25cf SPECIAL GUEST \u25cf LARS HUISMANN \u25cf LEGA",
+   "lineup": "Lars Huismann, Lega",
+   "artists": [
+    "Lars Huismann",
+    "Lega"
+   ],
+   "genres": [],
+   "venue": "Brooklyn Warehouse",
+   "area": "Brooklyn",
+   "start": "2026-11-22T04:00:00-05:00",
+   "source": "eventbrite",
+   "price": "$30",
+   "priceMin": 30,
+   "url": "https://www.eventbrite.com/e/sunday-morning-after-party-4am-special-guest-lars-huismann-lega-tickets-2005146107986"
+  },
+  {
+   "id": "eventbrite-2004800024842",
+   "title": "Refuge Presents: Time Warp Afterparty",
+   "lineup": "Adiel, \u00c2me, Julya Karma, Chl\u00e4r, DVS1, Lauren Ritter",
+   "artists": [
+    "Adiel",
+    "\u00c2me",
+    "Julya Karma",
+    "Chl\u00e4r",
+    "DVS1",
+    "Lauren Ritter",
+    "Quest"
+   ],
+   "genres": [],
+   "venue": "Refuge",
+   "area": "Brooklyn",
+   "start": "2026-11-22T05:00:00-05:00",
+   "source": "eventbrite",
+   "price": "$45",
+   "priceMin": 45,
+   "url": "https://www.eventbrite.com/e/refuge-presents-time-warp-afterparty-tickets-2004800024842"
+  },
+  {
+   "id": "dice-3obq3p",
    "title": "The Atrium: Jump Source [Live], Hank Jackson, Mariposa",
    "lineup": "Jump Source, Hank Jackson, Mariposa",
    "artists": [
@@ -952,16 +489,15 @@
     "Mariposa"
    ],
    "genres": [
-    "deep house",
-    "minimal"
+    "techno"
    ],
-   "venue": "public records",
+   "venue": "Public Records",
    "area": "Brooklyn",
    "start": "2026-11-22T16:00:00-05:00",
-   "source": "ra",
-   "price": "",
-   "priceMin": null,
-   "url": "https://ra.co/events/2520128"
+   "source": "dice",
+   "price": "$23.69",
+   "priceMin": 23.69,
+   "url": "https://dice.fm/event/3obq3p-the-atrium-jump-source-live-hank-jackson-mariposa-22nd-nov-public-records-new-york-tickets"
   },
   {
    "id": "ra-2582884",
@@ -973,8 +509,8 @@
     "Kiyoshi"
    ],
    "genres": [
-    "house",
-    "techno"
+    "dub techno",
+    "house"
    ],
    "venue": "Green Room NYC",
    "area": "Brooklyn",
@@ -983,28 +519,6 @@
    "price": "$15",
    "priceMin": 15,
    "url": "https://ra.co/events/2582884"
-  },
-  {
-   "id": "dice-lqaoxw",
-   "title": "DOWNSTAIRS: ICED OUT!",
-   "lineup": "Draco Meteor, G.thulu, Lai Willi, Jewel, Macuto",
-   "artists": [
-    "Draco Meteor",
-    "G.thulu",
-    "Lai Willi",
-    "Jewel",
-    "Macuto"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Purgatory",
-   "area": "Brooklyn",
-   "start": "2026-11-22T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/lqaoxw-downstairs-iced-out-22nd-nov-purgatory-new-york-tickets?lng=en-US"
   },
   {
    "id": "ra-2563399",
@@ -1029,15 +543,14 @@
   },
   {
    "id": "shotgun-feedbk-with-dea",
-   "title": "feedbk with Dea & Camilla",
-   "lineup": "Dea, Camilla",
+   "title": "Feedbk With Nell & Camilla",
+   "lineup": "Nell, Camilla",
    "artists": [
-    "Dea",
+    "Nell",
     "Camilla"
    ],
    "genres": [
-    "techno",
-    "minimal"
+    "techno"
    ],
    "venue": "feedbk",
    "area": "Brooklyn",
@@ -1048,24 +561,23 @@
    "url": "https://shotgun.live/en/events/feedbk-with-dea"
   },
   {
-   "id": "dice-qnxnny",
-   "title": "Open Decks w/ Steen & Village Hidden in Sound (Vinyl Exchange Night)",
-   "lineup": "Steen, Village Hidden in Sound",
+   "id": "ra-2574432",
+   "title": "Open Decks with STEEN & Village Hidden in Sound - Vinyl Exchange Night",
+   "lineup": "STEEN",
    "artists": [
-    "Steen",
-    "Village Hidden in Sound"
+    "STEEN"
    ],
    "genres": [
     "house",
     "techno"
    ],
-   "venue": "SILO Brooklyn",
+   "venue": "SILO",
    "area": "Brooklyn",
    "start": "2026-11-23T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/qnxnny-open-decks-w-steen-village-hidden-in-sound-vinyl-exchange-night-23rd-nov-silo-brooklyn-brooklyn-tickets?lng=en-US"
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2574432"
   },
   {
    "id": "ra-2580775",
@@ -1090,26 +602,6 @@
    "url": "https://ra.co/events/2580775"
   },
   {
-   "id": "dice-r32335",
-   "title": "Open Decks w/ Steen & 5KULLK1SS",
-   "lineup": "Steen, 5KULLK1SS",
-   "artists": [
-    "Steen",
-    "5KULLK1SS"
-   ],
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "venue": "SILO Brooklyn",
-   "area": "Brooklyn",
-   "start": "2026-11-24T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/r32335-open-decks-w-steen-5kullk1ss-24th-nov-silo-brooklyn-brooklyn-tickets?lng=en-US"
-  },
-  {
    "id": "ra-2549164",
    "title": "Techno Yoga with Yaya Flows & Lychee",
    "lineup": "Yaya Flows, Lychee",
@@ -1128,6 +620,25 @@
    "price": "$15",
    "priceMin": 15,
    "url": "https://ra.co/events/2549164"
+  },
+  {
+   "id": "ra-2574440",
+   "title": "Open Decks with STEEN & 5KULLK1SS",
+   "lineup": "STEEN",
+   "artists": [
+    "STEEN"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "SILO",
+   "area": "Brooklyn",
+   "start": "2026-11-24T19:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2574440"
   },
   {
    "id": "ra-2576661",
@@ -1153,15 +664,14 @@
   },
   {
    "id": "shotgun-feedbk-thanksgiving",
-   "title": "feedbk Thanksgiving Eve with Mariiin All Night Long",
+   "title": "Feedbk Thanksgiving Eve With Mariiin All Night Long",
    "lineup": "Mariiin, Richard O'Bryan",
    "artists": [
     "Mariiin",
     "Richard O'Bryan"
    ],
    "genres": [
-    "techno",
-    "minimal"
+    "techno"
    ],
    "venue": "feedbk",
    "area": "Brooklyn",
@@ -1211,25 +721,21 @@
    "url": "https://ra.co/events/2588531"
   },
   {
-   "id": "dice-xe8r7a",
-   "title": "Tony Guerra / Luquez b2b Maria Sifontes",
-   "lineup": "Tony Guerra, Luquez, Maria Sifontes",
-   "artists": [
-    "Tony Guerra",
-    "Luquez",
-    "Maria Sifontes"
-   ],
+   "id": "ra-2590453",
+   "title": "THANKSGIVING EVE at Club Rawhide 11.25.26",
+   "lineup": "",
+   "artists": [],
    "genres": [
-    "techno",
-    "minimal"
+    "house",
+    "techno"
    ],
-   "venue": "SILO Brooklyn",
-   "area": "Brooklyn",
-   "start": "2026-11-25T22:00:00-05:00",
-   "source": "dice",
-   "price": "$39.66",
-   "priceMin": 39.66,
-   "url": "https://dice.fm/event/xe8r7a-tony-guerra-luquez-b2b-maria-sifontes-25th-nov-silo-brooklyn-brooklyn-tickets?lng=en-US"
+   "venue": "Club Rawhide",
+   "area": "Manhattan",
+   "start": "2026-11-25T21:00:00-05:00",
+   "source": "ra",
+   "price": "$30",
+   "priceMin": 30,
+   "url": "https://ra.co/events/2590453"
   },
   {
    "id": "ra-2549130",
@@ -1253,8 +759,9 @@
   {
    "id": "ra-2561568",
    "title": "SLIST X FERAL (US DEBUT)",
-   "lineup": "Dark Matter, F\u00d8SS, Julia Kova",
+   "lineup": "FERAL, Dark Matter, F\u00d8SS, Julia Kova",
    "artists": [
+    "FERAL",
     "Dark Matter",
     "F\u00d8SS",
     "Julia Kova"
@@ -1361,16 +868,34 @@
    "url": "https://ra.co/events/2586761"
   },
   {
+   "id": "ra-2589622",
+   "title": "LIFE AFTER TRANCE: SONIC EDITION",
+   "lineup": "ASTER (DJ)",
+   "artists": [
+    "ASTER (DJ)"
+   ],
+   "genres": [
+    "techno",
+    "trance"
+   ],
+   "venue": "Jade",
+   "area": "Brooklyn",
+   "start": "2026-11-26T22:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2589622"
+  },
+  {
    "id": "shotgun-feedbk-with-greta-kurilo",
-   "title": "feedbk with Greta, Kurilo",
+   "title": "Feedbk With Greta, Kurilo",
    "lineup": "Greta, Kurilo",
    "artists": [
     "Greta",
     "Kurilo"
    ],
    "genres": [
-    "techno",
-    "minimal"
+    "techno"
    ],
    "venue": "feedbk",
    "area": "Brooklyn",
@@ -1421,31 +946,28 @@
    "url": "https://ra.co/events/2586751"
   },
   {
-   "id": "dice-lqa8qp",
-   "title": "MIJA INVITES: MRD, FLASH GEA & SLOWDANCEXO",
-   "lineup": "Mija, MRD, Flash Gea, Slowdancexo",
+   "id": "ra-2590398",
+   "title": "MNTK",
+   "lineup": "EESH",
    "artists": [
-    "Mija",
-    "MRD",
-    "Flash Gea",
-    "Slowdancexo"
+    "EESH"
    ],
    "genres": [
-    "techno",
-    "hard techno"
+    "electro",
+    "house"
    ],
-   "venue": "The Chocolate Factory",
+   "venue": "Filthy Diamond",
    "area": "Brooklyn",
-   "start": "2026-11-27T22:00:00-05:00",
-   "source": "dice",
-   "price": "$28.33",
-   "priceMin": 28.33,
-   "url": "https://dice.fm/event/lqa8qp-mija-invites-mrd-flash-gea-slowdancexo-27th-nov-the-chocolate-factory-new-york-city-tickets?lng=en-US"
+   "start": "2026-11-27T21:00:00-05:00",
+   "source": "ra",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://ra.co/events/2590398"
   },
   {
-   "id": "dice-wc091c9c2c61",
+   "id": "dice-av8pwx",
    "title": "Night & Day: Janina, Peachlyfe, Yazzus, Adriana Ruas, Alfonsvs, Jek b2b 98dots",
-   "lineup": "Janina, Peachlyfe, Yazzus, Adriana Ruas, Alfonsvs, Jek, 98dots, Annie Lew",
+   "lineup": "Janina, Peachlyfe, Yazzus, Adriana Ruas, Alfonsvs, Jek",
    "artists": [
     "Janina",
     "Peachlyfe",
@@ -1465,7 +987,45 @@
    "source": "dice",
    "price": "$28.33",
    "priceMin": 28.33,
-   "url": "https://link.dice.fm/wc091c9c2c61"
+   "url": "https://dice.fm/event/av8pwx-night-day-janina-peachlyfe-yazzus-adriana-ruas-alfonsvs-jek-b2b-98dots-27th-nov-signal-new-york-city-tickets"
+  },
+  {
+   "id": "dice-lqa8qp",
+   "title": "MIJA INVITES: MRD, FLASH GEA & SLOWDANCEXO",
+   "lineup": "MIJA, MRD, Flash Gea, SLOWDANCEXO",
+   "artists": [
+    "MIJA",
+    "MRD",
+    "Flash Gea",
+    "SLOWDANCEXO"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "The Chocolate Factory",
+   "area": "Queens",
+   "start": "2026-11-27T22:00:00-05:00",
+   "source": "dice",
+   "price": "$28.33",
+   "priceMin": 28.33,
+   "url": "https://dice.fm/event/lqa8qp-mija-invites-mrd-flash-gea-slowdancexo-27th-nov-the-chocolate-factory-new-york-city-tickets"
+  },
+  {
+   "id": "eventbrite-2003559298797",
+   "title": "Refuge Friday: Patrice B\u00e4umel, Simon Vuarambon",
+   "lineup": "Patrice B\u00e4umel, Simon Vuarambon",
+   "artists": [
+    "Patrice B\u00e4umel",
+    "Simon Vuarambon"
+   ],
+   "genres": [],
+   "venue": "Refuge",
+   "area": "Brooklyn",
+   "start": "2026-11-27T22:00:00-05:00",
+   "source": "eventbrite",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://www.eventbrite.com/e/refuge-friday-patrice-baumel-simon-vuarambon-tickets-2003559298797"
   },
   {
    "id": "ra-2523865",
@@ -1574,14 +1134,13 @@
   {
    "id": "dice-l8p2rw",
    "title": "Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag",
-   "lineup": "Anthony Linell, Jin Synth, Trailcam, 320, R Gamble, DJ Scallywag",
+   "lineup": "Anthony Linell, Jin Synth, Trailcam, 320, R Gamble & Scallywag",
    "artists": [
     "Anthony Linell",
     "Jin Synth",
     "Trailcam",
     "320",
-    "R Gamble",
-    "DJ Scallywag"
+    "R Gamble & Scallywag"
    ],
    "genres": [
     "techno"
@@ -1592,19 +1151,57 @@
    "source": "dice",
    "price": "$21.63",
    "priceMin": 21.63,
-   "url": "https://dice.fm/event/l8p2rw-anthony-linell-jin-synth-trailcam-320-r-gamble-scallywag-27th-nov-public-records-new-york-tickets?lng=en-US"
+   "url": "https://dice.fm/event/l8p2rw-anthony-linell-jin-synth-trailcam-320-r-gamble-scallywag-27th-nov-public-records-new-york-tickets"
+  },
+  {
+   "id": "ra-2589789",
+   "title": "Golden Record NYC presents Kiyoshi and Clovis All Night",
+   "lineup": "Kiyoshi, Clovis",
+   "artists": [
+    "Kiyoshi",
+    "Clovis"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Green Room NYC",
+   "area": "Brooklyn",
+   "start": "2026-11-27T23:00:00-05:00",
+   "source": "ra",
+   "price": "$20",
+   "priceMin": 20,
+   "url": "https://ra.co/events/2589789"
+  },
+  {
+   "id": "eventbrite-2004743242003",
+   "title": "SATURDAY MORNING AFTER PARTY 4AM \u25cf OSCAR MULA \u25cf ALEJO GARCIA & DAVID B2B G",
+   "lineup": "Oscar Mula, Alejo Garcia, David Macias, Golfree",
+   "artists": [
+    "Oscar Mula",
+    "Alejo Garcia",
+    "David Macias",
+    "Golfree"
+   ],
+   "genres": [],
+   "venue": "Brooklyn Warehouse",
+   "area": "Brooklyn",
+   "start": "2026-11-28T04:00:00-05:00",
+   "source": "eventbrite",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://www.eventbrite.com/e/saturday-morning-after-party-4am-oscar-mula-alejo-garcia-david-b2b-g-tickets-2004743242003"
   },
   {
    "id": "shotgun-longform-feedbk",
-   "title": "feedbk x Discarded Gems with Daura",
+   "title": "Feedbk X Discarded Gems With Daura",
    "lineup": "Daura, ANCUT",
    "artists": [
     "Daura",
     "ANCUT"
    ],
    "genres": [
-    "techno",
-    "minimal"
+    "techno"
    ],
    "venue": "feedbk",
    "area": "Brooklyn",
@@ -1720,6 +1317,27 @@
    "url": "https://ra.co/events/2575386"
   },
   {
+   "id": "dice-8edra5",
+   "title": "Galcher Lustwerk (Live), AceMo, Lauren Flax, Devoye",
+   "lineup": "Galcher Lustwerk, AceMo, Lauren Flax, Devoye",
+   "artists": [
+    "Galcher Lustwerk",
+    "AceMo",
+    "Lauren Flax",
+    "Devoye"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Signal",
+   "area": "Brooklyn",
+   "start": "2026-11-28T22:00:00-05:00",
+   "source": "dice",
+   "price": "$39.66",
+   "priceMin": 39.66,
+   "url": "https://dice.fm/event/8edra5-galcher-lustwerk-live-acemo-lauren-flax-devoye-28th-nov-signal-new-york-city-tickets"
+  },
+  {
    "id": "dice-99e9a9",
    "title": "Mathame",
    "lineup": "Mathame",
@@ -1747,38 +1365,15 @@
     "Medina"
    ],
    "genres": [
-    "techno",
-    "acid"
+    "techno"
    ],
-   "venue": "99 Scott",
+   "venue": "99 Scott - Main Room",
    "area": "Brooklyn",
    "start": "2026-11-28T22:00:00-05:00",
    "source": "dice",
    "price": "$27.04",
    "priceMin": 27.04,
-   "url": "https://dice.fm/event/l8726p-space-92-3hr-set-with-charles-d-28th-nov-99-scott-main-room-new-york-tickets?lng=en-US"
-  },
-  {
-   "id": "dice-rb01122c9c5d",
-   "title": "Galcher Lustwerk (Live). AceMo, Lauren Flax, Devoye",
-   "lineup": "Galcher Lustwerk, AceMo, Lauren Flax, Devoye",
-   "artists": [
-    "Galcher Lustwerk",
-    "AceMo",
-    "Lauren Flax",
-    "Devoye"
-   ],
-   "genres": [
-    "techno",
-    "electro"
-   ],
-   "venue": "Signal",
-   "area": "Brooklyn",
-   "start": "2026-11-28T22:00:00-05:00",
-   "source": "dice",
-   "price": "$39.66",
-   "priceMin": 39.66,
-   "url": "https://link.dice.fm/rb01122c9c5d"
+   "url": "https://dice.fm/event/l8726p-space-92-3hr-set-with-charles-d-28th-nov-99-scott-main-room-new-york-tickets"
   },
   {
    "id": "ra-2581732",
@@ -1822,6 +1417,30 @@
    "price": "Free",
    "priceMin": 0,
    "url": "https://ra.co/events/2588683"
+  },
+  {
+   "id": "ra-2588786",
+   "title": "ReSolute 19th Anniversary (New Date)",
+   "lineup": "Connie, Lauren Ritter, Maksim, O.BEE, Rasho, Shvili",
+   "artists": [
+    "Connie",
+    "Lauren Ritter",
+    "Maksim",
+    "O.BEE",
+    "Rasho",
+    "Shvili"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "H0L0",
+   "area": "Queens",
+   "start": "2026-11-28T22:00:00-05:00",
+   "source": "ra",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://ra.co/events/2588786"
   },
   {
    "id": "ra-2586553",
@@ -1868,8 +1487,7 @@
     "Jen Cardini"
    ],
    "genres": [
-    "techno",
-    "house"
+    "techno"
    ],
    "venue": "Public Records",
    "area": "Brooklyn",
@@ -1877,18 +1495,17 @@
    "source": "dice",
    "price": "$21.63",
    "priceMin": 21.63,
-   "url": "https://dice.fm/event/nvrq8q-the-atrium-eli-escobar-jen-cardini-29th-nov-public-records-new-york-tickets?lng=en-US"
+   "url": "https://dice.fm/event/nvrq8q-the-atrium-eli-escobar-jen-cardini-29th-nov-public-records-new-york-tickets"
   },
   {
    "id": "shotgun-feedbk-with-special-guest",
-   "title": "feedbk with Special Guest",
+   "title": "Feedbk With Special Guest",
    "lineup": "Adree",
    "artists": [
     "Adree"
    ],
    "genres": [
-    "techno",
-    "minimal"
+    "techno"
    ],
    "venue": "feedbk",
    "area": "Brooklyn",
@@ -1899,45 +1516,42 @@
    "url": "https://shotgun.live/en/events/feedbk-with-special-guest"
   },
   {
-   "id": "dice-bvlabg",
-   "title": "Open Decks w/ Steen & Life After Trance",
-   "lineup": "Steen, Life After Trance",
+   "id": "ra-2575514",
+   "title": "Open Decks with STEEN & LIFE AFTER TRANCE",
+   "lineup": "STEEN",
    "artists": [
-    "Steen",
-    "Life After Trance"
+    "STEEN"
    ],
    "genres": [
     "house",
     "techno"
    ],
-   "venue": "SILO Brooklyn",
+   "venue": "SILO",
    "area": "Brooklyn",
    "start": "2026-11-30T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/bvlabg-open-decks-w-steen-life-after-trance-30th-nov-silo-brooklyn-brooklyn-tickets?lng=en-US"
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2575514"
   },
   {
-   "id": "dice-ekg5oy",
-   "title": "Open Decks w/ Steen & Cl\u00fcbsession x Nuisance",
-   "lineup": "Steen, Cl\u00fcbsession, Nuisance",
+   "id": "ra-2575479",
+   "title": "Open Decks with STEEN & Cl\u00fcbsession x Nuisance",
+   "lineup": "STEEN",
    "artists": [
-    "Steen",
-    "Cl\u00fcbsession",
-    "Nuisance"
+    "STEEN"
    ],
    "genres": [
     "house",
     "techno"
    ],
-   "venue": "SILO Brooklyn",
+   "venue": "SILO",
    "area": "Brooklyn",
    "start": "2026-12-01T19:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/ekg5oy-open-decks-w-steen-clbsession-x-nuisance-1st-dec-silo-brooklyn-brooklyn-tickets?lng=en-US"
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2575479"
   },
   {
    "id": "ra-2585498",
@@ -1973,6 +1587,26 @@
    "price": "$22.66",
    "priceMin": 22.66,
    "url": "https://ra.co/events/2570006"
+  },
+  {
+   "id": "ra-2590447",
+   "title": "panatekk: Detroit Worldwide Legacy",
+   "lineup": "Saintclair, LaFHomme",
+   "artists": [
+    "Saintclair",
+    "LaFHomme"
+   ],
+   "genres": [
+    "afro tech",
+    "techno"
+   ],
+   "venue": "Bossa Nova Civic Club",
+   "area": "Brooklyn",
+   "start": "2026-12-02T22:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2590447"
   },
   {
    "id": "ra-2585354",
@@ -2053,6 +1687,23 @@
    "url": "https://ra.co/events/2580863"
   },
   {
+   "id": "ra-2589833",
+   "title": "CODED Thursdays 11.26.26",
+   "lineup": "",
+   "artists": [],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Club Rawhide",
+   "area": "Manhattan",
+   "start": "2026-12-03T21:00:00-05:00",
+   "source": "ra",
+   "price": "$20",
+   "priceMin": 20,
+   "url": "https://ra.co/events/2589833"
+  },
+  {
    "id": "ra-2582939",
    "title": "Synthicide with The Muses, Daisy O'Dell, Andi",
    "lineup": "Daisy O'Dell, Andi",
@@ -2073,7 +1724,7 @@
    "url": "https://ra.co/events/2582939"
   },
   {
-   "id": "dice-Cda4b06094bd",
+   "id": "dice-x9vbra",
    "title": "FACETIME: Victor Calderone [Techno Set], Eric Umble",
    "lineup": "Victor Calderone, Eric Umble",
    "artists": [
@@ -2089,7 +1740,668 @@
    "source": "dice",
    "price": "$21.63",
    "priceMin": 21.63,
-   "url": "https://link.dice.fm/Cda4b06094bd"
+   "url": "https://dice.fm/event/x9vbra-facetime-victor-calderone-techno-set-eric-umble-3rd-dec-public-records-new-york-tickets"
+  },
+  {
+   "id": "shotgun-feedbk-with-taiga-mazko",
+   "title": "Feedbk With Taiga + Mazko",
+   "lineup": "Ta\u00efga, CAMILLA, MAZK\u00d8",
+   "artists": [
+    "Ta\u00efga",
+    "CAMILLA",
+    "MAZK\u00d8"
+   ],
+   "genres": [
+    "minimal"
+   ],
+   "venue": "feedbk",
+   "area": "Brooklyn",
+   "start": "2026-12-04T19:00:00-05:00",
+   "source": "shotgun",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://shotgun.live/en/events/feedbk-with-taiga-mazko"
+  },
+  {
+   "id": "ra-2587832",
+   "title": "Party Right Here (Vol. 19)",
+   "lineup": "VLNRBLE, J Capo, King Tutt, Fabricated Ambiance, Talk Shivi, shirlz",
+   "artists": [
+    "VLNRBLE",
+    "J Capo",
+    "King Tutt",
+    "Fabricated Ambiance",
+    "Talk Shivi",
+    "shirlz"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "The Gaf Astoria",
+   "area": "Queens",
+   "start": "2026-12-04T21:00:00-05:00",
+   "source": "ra",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://ra.co/events/2587832"
+  },
+  {
+   "id": "ra-2589318",
+   "title": "DESCEND II",
+   "lineup": "",
+   "artists": [],
+   "genres": [
+    "hardcore",
+    "techno"
+   ],
+   "venue": "El Cartel",
+   "area": "Bronx",
+   "start": "2026-12-04T21:00:00-05:00",
+   "source": "ra",
+   "price": "$20",
+   "priceMin": 20,
+   "url": "https://ra.co/events/2589318"
+  },
+  {
+   "id": "dice-l8pmqw",
+   "title": "Paradiso: Baltra, No_4mat, S4M23 + SINCERELY x S2S",
+   "lineup": "Baltra, no_4mat, S4M23, SINCERELY x S2S",
+   "artists": [
+    "Baltra",
+    "no_4mat",
+    "S4M23",
+    "SINCERELY x S2S"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Paragon",
+   "area": "Brooklyn",
+   "start": "2026-12-04T21:30:00-05:00",
+   "source": "dice",
+   "price": "$28.33",
+   "priceMin": 28.33,
+   "url": "https://dice.fm/event/l8pmqw-paradiso-baltra-no4mat-s4m23-sincerely-x-s2s-4th-dec-paragon-new-york-city-tickets"
+  },
+  {
+   "id": "dice-3kq5dg",
+   "title": "Night & Day: Lena Willikens, Byron Yeates, Noizar, Kurilo, Mariposa",
+   "lineup": "Lena Willikens, Byron Yeates, Noizar, Kurilo, Mariposa",
+   "artists": [
+    "Lena Willikens",
+    "Byron Yeates",
+    "Noizar",
+    "Kurilo",
+    "Mariposa"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Signal",
+   "area": "Brooklyn",
+   "start": "2026-12-04T22:00:00-05:00",
+   "source": "dice",
+   "price": "$28.33",
+   "priceMin": 28.33,
+   "url": "https://dice.fm/event/3kq5dg-night-day-lena-willikens-byron-yeates-noizar-kurilo-mariposa-4th-dec-signal-new-york-city-tickets"
+  },
+  {
+   "id": "dice-ekgb2w",
+   "title": "MRAK",
+   "lineup": "MRAK",
+   "artists": [
+    "MRAK"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Pacha New York",
+   "area": "Brooklyn",
+   "start": "2026-12-04T22:00:00-05:00",
+   "source": "dice",
+   "price": "$63.66",
+   "priceMin": 63.66,
+   "url": "https://dice.fm/event/ekgb2w-mrak-4th-dec-pacha-new-york-new-york-city-tickets"
+  },
+  {
+   "id": "eventbrite-2000034543158",
+   "title": "Refuge Friday: Skream [Open To Close]",
+   "lineup": "Skream",
+   "artists": [
+    "Skream"
+   ],
+   "genres": [],
+   "venue": "Refuge",
+   "area": "Brooklyn",
+   "start": "2026-12-04T22:00:00-05:00",
+   "source": "eventbrite",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://www.eventbrite.com/e/refuge-friday-skream-open-to-close-tickets-2000034543158"
+  },
+  {
+   "id": "grayarea-linska-and-guests-dec-4-2026",
+   "title": "Linska with Dreya V",
+   "lineup": "Linska, Dreya V",
+   "artists": [
+    "Linska",
+    "Dreya V"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "99 Scott - Main Room",
+   "area": "Brooklyn",
+   "start": "2026-12-04T22:00:00-05:00",
+   "source": "grayarea",
+   "price": "$28.33",
+   "priceMin": 28.33,
+   "url": "https://grayarea.co/events/linska-and-guests-dec-4-2026"
+  },
+  {
+   "id": "ra-2471768",
+   "title": "House of Grooves: Eli Escobar All Night + Sissies of Mercy",
+   "lineup": "Eli Escobar, Sissies of Mercy",
+   "artists": [
+    "Eli Escobar",
+    "Sissies of Mercy"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "House of Yes",
+   "area": "Brooklyn",
+   "start": "2026-12-04T22:00:00-05:00",
+   "source": "ra",
+   "price": "$20",
+   "priceMin": 20,
+   "url": "https://ra.co/events/2471768"
+  },
+  {
+   "id": "ra-2573653",
+   "title": "Batu All Night",
+   "lineup": "Batu",
+   "artists": [
+    "Batu"
+   ],
+   "genres": [
+    "bass",
+    "techno"
+   ],
+   "venue": "Nowadays",
+   "area": "Queens",
+   "start": "2026-12-04T22:00:00-05:00",
+   "source": "ra",
+   "price": "$20",
+   "priceMin": 20,
+   "url": "https://ra.co/events/2573653"
+  },
+  {
+   "id": "ra-2577658",
+   "title": "ReSolute presents: Fumiya Tanaka & Priku + more",
+   "lineup": "Fumiya Tanaka, Priku",
+   "artists": [
+    "Fumiya Tanaka",
+    "Priku"
+   ],
+   "genres": [
+    "house",
+    "minimal techno"
+   ],
+   "venue": "TBA - Secret Location",
+   "area": "Brooklyn",
+   "start": "2026-12-04T22:00:00-05:00",
+   "source": "ra",
+   "price": "$30",
+   "priceMin": 30,
+   "url": "https://ra.co/events/2577658"
+  },
+  {
+   "id": "ra-2590280",
+   "title": "Glizzmas",
+   "lineup": "Thiccboi Drewski, Dendi's Dad, Sarindipity",
+   "artists": [
+    "Thiccboi Drewski",
+    "Dendi's Dad",
+    "Sarindipity"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "The House",
+   "area": "Brooklyn",
+   "start": "2026-12-04T22:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2590280"
+  },
+  {
+   "id": "shotgun-heathermax-genesis-evangelion",
+   "title": "Heathermax Genesis: Evangelion",
+   "lineup": "heathermax",
+   "artists": [
+    "heathermax"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Secret location, Brooklyn",
+   "area": "Brooklyn",
+   "start": "2026-12-04T22:00:00-05:00",
+   "source": "shotgun",
+   "price": "Sold out",
+   "priceMin": null,
+   "url": "https://shotgun.live/en/events/heathermax-genesis-evangelion"
+  },
+  {
+   "id": "dice-693m63",
+   "title": "GiGi FM, Mui Mui / Markus Suckut, Julia Govor / e-Lite",
+   "lineup": "GiGi FM, Mui Mui, Markus Suckut, Julia Govor, e-Lite",
+   "artists": [
+    "GiGi FM",
+    "Mui Mui",
+    "Markus Suckut",
+    "Julia Govor",
+    "e-Lite"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Public Records",
+   "area": "Brooklyn",
+   "start": "2026-12-04T23:00:00-05:00",
+   "source": "dice",
+   "price": "$21.63",
+   "priceMin": 21.63,
+   "url": "https://dice.fm/event/693m63-gigi-fm-mui-mui-markus-suckut-julia-govor-e-lite-4th-dec-public-records-new-york-tickets"
+  },
+  {
+   "id": "ra-2576762",
+   "title": "MERGE x BULTO",
+   "lineup": "Boris, Juliana Huxtable, Juana, JESUZ X, Ne/Re/A, Serge Andr\u00e9",
+   "artists": [
+    "Boris",
+    "Juliana Huxtable",
+    "Juana",
+    "JESUZ X",
+    "Ne/Re/A",
+    "Serge Andr\u00e9"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "TBA - Brooklyn",
+   "area": "Brooklyn",
+   "start": "2026-12-04T23:00:00-05:00",
+   "source": "ra",
+   "price": "$35",
+   "priceMin": 35,
+   "url": "https://ra.co/events/2576762"
+  },
+  {
+   "id": "ra-2581255",
+   "title": "CRUSH3d nyc debut",
+   "lineup": "",
+   "artists": [],
+   "genres": [
+    "ebm",
+    "experimental"
+   ],
+   "venue": "Trans-Pecos",
+   "area": "Queens",
+   "start": "2026-12-04T23:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2581255"
+  },
+  {
+   "id": "ra-2573668",
+   "title": "Waxed Record Fair",
+   "lineup": "Private Press, Adam X, Frankie Bones, Rose Kourts",
+   "artists": [
+    "Private Press",
+    "Adam X",
+    "Frankie Bones",
+    "Rose Kourts"
+   ],
+   "genres": [
+    "acid",
+    "techno"
+   ],
+   "venue": "Nowadays",
+   "area": "Queens",
+   "start": "2026-12-05T12:30:00-05:00",
+   "source": "ra",
+   "price": "Free",
+   "priceMin": 0,
+   "url": "https://ra.co/events/2573668"
+  },
+  {
+   "id": "dice-ok2kv5",
+   "title": "Damian Lazarus and Maceo Plex",
+   "lineup": "Damian Lazarus, Maceo Plex",
+   "artists": [
+    "Damian Lazarus",
+    "Maceo Plex"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Pacha New York",
+   "area": "Brooklyn",
+   "start": "2026-12-05T21:00:00-05:00",
+   "source": "dice",
+   "price": "$46.68",
+   "priceMin": 46.68,
+   "url": "https://dice.fm/event/ok2kv5-damian-lazarus-and-maceo-plex-5th-dec-pacha-new-york-new-york-city-tickets"
+  },
+  {
+   "id": "ra-2543214",
+   "title": "Liminal Collective: Kitty Flip w/ Sammy Legs, baby-g, Chillosophy, and ACIDMOM",
+   "lineup": "Sammy Legs, Chillosophy, baby-g, ACIDMOM",
+   "artists": [
+    "Sammy Legs",
+    "Chillosophy",
+    "baby-g",
+    "ACIDMOM"
+   ],
+   "genres": [
+    "minimal",
+    "tech house"
+   ],
+   "venue": "TBA - Secret Bushwick Location ",
+   "area": "Brooklyn",
+   "start": "2026-12-05T21:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2543214"
+  },
+  {
+   "id": "ra-2573495",
+   "title": "[PLACEHOLDER] presents Mutual Identities (NYC debut), Lou Isn't, and Bea Levy",
+   "lineup": "Mutual Identities, Lou Isn't, Bea Levy, Pedestrian Access, dj goodboy (BK)",
+   "artists": [
+    "Mutual Identities",
+    "Lou Isn't",
+    "Bea Levy",
+    "Pedestrian Access",
+    "dj goodboy (BK)"
+   ],
+   "genres": [
+    "breakbeat",
+    "techno"
+   ],
+   "venue": "Honey's",
+   "area": "Brooklyn",
+   "start": "2026-12-05T21:00:00-05:00",
+   "source": "ra",
+   "price": "$15",
+   "priceMin": 15,
+   "url": "https://ra.co/events/2573495"
+  },
+  {
+   "id": "ra-2589836",
+   "title": "Club Rawhide FRIDAY NIGHT 12.05.26",
+   "lineup": "",
+   "artists": [],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Club Rawhide",
+   "area": "Manhattan",
+   "start": "2026-12-05T21:00:00-05:00",
+   "source": "ra",
+   "price": "$30",
+   "priceMin": 30,
+   "url": "https://ra.co/events/2589836"
+  },
+  {
+   "id": "ra-2589846",
+   "title": "Club Rawhide SATURDAY NIGHT 12.05.26",
+   "lineup": "",
+   "artists": [],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Club Rawhide",
+   "area": "Manhattan",
+   "start": "2026-12-05T21:00:00-05:00",
+   "source": "ra",
+   "price": "$30",
+   "priceMin": 30,
+   "url": "https://ra.co/events/2589846"
+  },
+  {
+   "id": "ra-2581881",
+   "title": "Club Stars: Kim Ann Foxman, Ariel Zetina, Tommy Hart + Rollup",
+   "lineup": "Kim Ann Foxman, Ariel Zetina, Tommy Hart, Bianca Oblivion, zorenLo, grunge mum",
+   "artists": [
+    "Kim Ann Foxman",
+    "Ariel Zetina",
+    "Tommy Hart",
+    "Bianca Oblivion",
+    "zorenLo",
+    "grunge mum"
+   ],
+   "genres": [
+    "acid",
+    "guaracha"
+   ],
+   "venue": "Paragon",
+   "area": "Brooklyn",
+   "start": "2026-12-05T21:30:00-05:00",
+   "source": "ra",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://ra.co/events/2581881"
+  },
+  {
+   "id": "dice-bvldwg",
+   "title": "Maxime dB, Hugo Martinez, Bella Mutino, Oshana, Clovis b2b Matt Foley",
+   "lineup": "Maxime dB, Hugo Martinez, Bella Mutino, Oshana, Clovis, Matt Foley",
+   "artists": [
+    "Maxime dB",
+    "Hugo Martinez",
+    "Bella Mutino",
+    "Oshana",
+    "Clovis",
+    "Matt Foley"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Signal",
+   "area": "Brooklyn",
+   "start": "2026-12-05T22:00:00-05:00",
+   "source": "dice",
+   "price": "$28.33",
+   "priceMin": 28.33,
+   "url": "https://dice.fm/event/bvldwg-maxime-db-hugo-martinez-bella-mutino-oshana-clovis-b2b-matt-foley-5th-dec-signal-new-york-city-tickets"
+  },
+  {
+   "id": "eventbrite-2003559518454",
+   "title": "Refuge Saturday: Stacey Pullen, Isaac Carter, Jacky Sommer & Surprise Guest",
+   "lineup": "Stacey Pullen, Isaac Carter, Jacky Sommer",
+   "artists": [
+    "Stacey Pullen",
+    "Isaac Carter",
+    "Jacky Sommer"
+   ],
+   "genres": [],
+   "venue": "Refuge",
+   "area": "Brooklyn",
+   "start": "2026-12-05T22:00:00-05:00",
+   "source": "eventbrite",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://www.eventbrite.com/e/refuge-saturday-stacey-pullen-isaac-carter-jacky-sommer-surprise-guest-tickets-2003559518454"
+  },
+  {
+   "id": "ra-2384560",
+   "title": "AGAP\u0112 PRESENTS: Serafina - ALL NIGHT LONG",
+   "lineup": "Serafina",
+   "artists": [
+    "Serafina"
+   ],
+   "genres": [
+    "techno",
+    "trance"
+   ],
+   "venue": "314 Scholes",
+   "area": "Brooklyn",
+   "start": "2026-12-05T22:00:00-05:00",
+   "source": "ra",
+   "price": "$40",
+   "priceMin": 40,
+   "url": "https://ra.co/events/2384560"
+  },
+  {
+   "id": "ra-2573660",
+   "title": "9th Anniversary Nonstop: Aurora Halal b2b OK Williams, DJ TOOL, Paula Tape, Sedef Adas\u00ef",
+   "lineup": "Yibing, Paula Tape, Eamon Harkin, Matas, DJ TOOL, MORENXXX",
+   "artists": [
+    "Yibing",
+    "Paula Tape",
+    "Eamon Harkin",
+    "Matas",
+    "DJ TOOL",
+    "MORENXXX",
+    "Aurora Halal",
+    "OK Williams",
+    "Sedef Adas\u00ef"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "Nowadays",
+   "area": "Queens",
+   "start": "2026-12-05T22:00:00-05:00",
+   "source": "ra",
+   "price": "$30",
+   "priceMin": 30,
+   "url": "https://ra.co/events/2573660"
+  },
+  {
+   "id": "ra-2577674",
+   "title": "ReSolute: Tom\u00e1s Station & Brett Johnson (Open to Close)",
+   "lineup": "Tomas Station, Brett Johnson",
+   "artists": [
+    "Tomas Station",
+    "Brett Johnson"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "H0L0",
+   "area": "Queens",
+   "start": "2026-12-05T22:00:00-05:00",
+   "source": "ra",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://ra.co/events/2577674"
+  },
+  {
+   "id": "ra-2584253",
+   "title": "No Vista x DJ Godfather",
+   "lineup": "DJ Godfather, DJ SWISHA, EQUISS, AG (1), EDEN BEKELE, D3NIM",
+   "artists": [
+    "DJ Godfather",
+    "DJ SWISHA",
+    "EQUISS",
+    "AG (1)",
+    "EDEN BEKELE",
+    "D3NIM"
+   ],
+   "genres": [
+    "ghetto tech",
+    "techno"
+   ],
+   "venue": "Green Room NYC",
+   "area": "Brooklyn",
+   "start": "2026-12-05T22:00:00-05:00",
+   "source": "ra",
+   "price": "$20",
+   "priceMin": 20,
+   "url": "https://ra.co/events/2584253"
+  },
+  {
+   "id": "eventbrite-2004484033704",
+   "title": "DOST ELSEWHERE TAKEOVER",
+   "lineup": "Zainab, Banglaboy, DJ Ing, Rajid Selim, Arini, Dipto",
+   "artists": [
+    "Zainab",
+    "Banglaboy",
+    "DJ Ing",
+    "Rajid Selim",
+    "Arini",
+    "Dipto",
+    "Farooquebhai",
+    "Urkanmani",
+    "Miti",
+    "Eshie",
+    "Sav",
+    "Doodie Baby"
+   ],
+   "genres": [],
+   "venue": "Elsewhere",
+   "area": "Brooklyn",
+   "start": "2026-12-05T22:30:00-05:00",
+   "source": "eventbrite",
+   "price": "$29.98",
+   "priceMin": 29.98,
+   "url": "https://www.eventbrite.com/e/dost-elsewhere-takeover-tickets-2004484033704"
+  },
+  {
+   "id": "dice-8v3wl5",
+   "title": "Golden Record NYC presents Traumer All Night Long",
+   "lineup": "Traumer",
+   "artists": [
+    "Traumer"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Location TBA",
+   "area": "Queens",
+   "start": "2026-12-05T23:00:00-05:00",
+   "source": "dice",
+   "price": "$45.32",
+   "priceMin": 45.32,
+   "url": "https://dice.fm/event/8v3wl5-golden-record-nyc-presents-traumer-all-night-long-5th-dec-location-tba-brooklyn-new-york-city-tickets"
+  },
+  {
+   "id": "ra-2575381",
+   "title": "Area X: Immersion",
+   "lineup": "Shanti, Helena Ma, Daybreak, Noctus, stress tess, SEELIE.",
+   "artists": [
+    "Shanti",
+    "Helena Ma",
+    "Daybreak",
+    "Noctus",
+    "stress tess",
+    "SEELIE."
+   ],
+   "genres": [
+    "techno",
+    "trance"
+   ],
+   "venue": "TBA - Brooklyn",
+   "area": "Brooklyn",
+   "start": "2026-12-05T23:00:00-05:00",
+   "source": "ra",
+   "price": "$25",
+   "priceMin": 25,
+   "url": "https://ra.co/events/2575381"
   }
  ]
 }
