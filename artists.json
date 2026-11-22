@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T09:00:00-05:00",
+ "updatedAt": "2026-11-22T09:00:00-05:00",
  "artists": {
   "akua": {
    "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -16916,6 +16916,615 @@
     "techno"
    ],
    "checkedAt": "2026-11-21"
+  },
+  "david macias": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "David Macias"
+  },
+  "eesh": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "EESH"
+  },
+  "golfree": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "Golfree"
+  },
+  "luigi": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "LUIGI"
+  },
+  "r gamble & scallywag": {
+   "bio": "New York techno producer and Lot Radio resident R Gamble pairs with Spiral Tribe MC Scallywag, a duo previously billed together at Brooklyn's Wreck Room.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "R Gamble & Scallywag"
+  },
+  "rasho": {
+   "bio": "ReSolute New York resident celebrated for refined taste and seamless mixing; his sound blends golden-era house and US tech-house into high-energy, psychedelic sets.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "tech-house"
+   ],
+   "name": "Rasho"
+  },
+  "seg": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "SEG"
+  },
+  "ariel zetina": {
+   "bio": "Chicago-based DJ, producer and writer; Smartbar resident and Discwoman artist; debut album Cyclorama released on Local Action in 2022.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno",
+    "house",
+    "club"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/arielzetina",
+    "soundcloud": "https://soundcloud.com/arielzetina"
+   },
+   "name": "Ariel Zetina"
+  },
+  "damian lazarus": {
+   "bio": "London-born DJ, producer and Crosstown Rebels founder; runs the Day Zero and Get Lost parties; released the album Magickal in 2025.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "techno",
+    "melodic house"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/damian_lazarus",
+    "soundcloud": "https://soundcloud.com/damianlazarus"
+   },
+   "name": "Damian Lazarus"
+  },
+  "dj godfather": {
+   "bio": "Detroit DJ and producer Brian Jeffries; co-founder of the Twilight 76 and Databass labels and a founding figure of ghettotech.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "ghettotech",
+    "electro",
+    "techno"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/djgodfatherdetroit",
+    "soundcloud": "https://soundcloud.com/dj-godfather"
+   },
+   "name": "DJ Godfather"
+  },
+  "lena willikens": {
+   "bio": "Amsterdam-based German DJ and producer; former Salon des Amateurs resident and NTS Lightning Conductor host; releases on C\u00f3meme and Dekmantel.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno",
+    "ebm",
+    "electro"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/lena_willikens",
+    "soundcloud": "https://soundcloud.com/lenawillikens"
+   },
+   "name": "Lena Willikens"
+  },
+  "maceo plex": {
+   "bio": "Cuban-American DJ and producer from Texas, based in Barcelona; founder of Ellum Audio and Lone Romantic; also records as Maetrik and Mariel Ito.",
+   "checkedAt": "2026-11-22",
+   "followers": {
+    "instagram": 416000,
+    "soundcloud": 495600
+   },
+   "genres": [
+    "techno",
+    "house",
+    "electro"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/maceoplex",
+    "soundcloud": "https://soundcloud.com/maceoplex",
+    "spotify": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+   },
+   "name": "Maceo Plex"
+  },
+  "maxime db": {
+   "bio": "Paris-based DJ, producer and vinyl collector; founder of the AirFunk label; blends funk, electro, techno and house.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "electro",
+    "house",
+    "techno"
+   ],
+   "links": {
+    "soundcloud": "https://soundcloud.com/maximedb"
+   },
+   "name": "Maxime dB"
+  },
+  "ok williams": {
+   "bio": "London DJ and NTS resident who learned to DJ at the station; recorded the RA.1019 mix in 2025, leaning on '90s and early '00s techno and prog house.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno",
+    "house",
+    "jungle"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/okwilliams"
+   },
+   "name": "OK Williams"
+  },
+  "paula tape": {
+   "bio": "Chilean DJ and producer from Santiago, based in Milan; former drummer; debut EP Agua Congas on SOBO in 2018, later releases on Rhythm Section and Future Classic.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "acid house",
+    "balearic"
+   ],
+   "links": {
+    "soundcloud": "https://soundcloud.com/paulatape"
+   },
+   "name": "Paula Tape"
+  },
+  "serafina": {
+   "bio": "Berlin-based DJ who began in Hamburg in 2023; part of the 240KM/H crew, playing groovy, high-energy techno sets.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno",
+    "groove",
+    "hard techno"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/serafina.music",
+    "tiktok": "https://www.tiktok.com/@serafina.music"
+   },
+   "name": "Serafina"
+  },
+  "traumer": {
+   "bio": "French DJ and producer Romain Poncet from Avignon, based in Lisbon; founder of the get\u2014traum label; known for long, hypnotic minimal sets.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "minimal",
+    "techno",
+    "house"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/traumermusic",
+    "soundcloud": "https://soundcloud.com/traumer",
+    "spotify": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
+   },
+   "name": "Traumer"
+  },
+  "acidmom": {
+   "bio": "DJ and producer with a 2020 track 'OTD' on Groovy Bone's Bones To Pick, Vol. 4; regular on Brooklyn's Reggaeton Rave bills.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "acid",
+    "techno"
+   ],
+   "name": "ACIDMOM"
+  },
+  "ag (1)": {
+   "bio": "Brooklyn-based producer and DJ blending breaks, rap, footwork and east coast club; debut EP Grab The Wheel arrived in September 2025.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "breaks",
+    "footwork",
+    "east coast club"
+   ],
+   "name": "AG (1)"
+  },
+  "bea levy": {
+   "bio": "New York-based DJ curating the Unfillable Hole mix series; sets build slowly with tension and fluid rhythms.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "name": "Bea Levy"
+  },
+  "bianca oblivion": {
+   "bio": "Los Angeles-born DJ and producer connecting US and UK bass, baile funk, grime and reggaeton; runs the Club Aerobics label and NTS show and co-founded Warp Mode.",
+   "checkedAt": "2026-11-22",
+   "followers": {
+    "instagram": 23410
+   },
+   "genres": [
+    "club",
+    "bass",
+    "baile funk",
+    "grime"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/bianca_oblivion/",
+    "spotify": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94",
+    "tiktok": "https://www.tiktok.com/@bianca_oblivion"
+   },
+   "name": "Bianca Oblivion"
+  },
+  "brett johnson": {
+   "bio": "Veteran Texas-born DJ and producer known for groovy, bumping house with techno elements; over 100 releases on labels including Classic, Get Physical and 20/20 Vision.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "techno",
+    "disco"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/djbrettjohnson/"
+   },
+   "name": "Brett Johnson"
+  },
+  "d3nim": {
+   "bio": "New Jersey-based DJ and producer blending hazy house grooves, Jersey club, techno and experimental sounds; co-runs the No Vista events platform and Harmony Peace Corps.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "jersey club",
+    "house",
+    "techno",
+    "experimental"
+   ],
+   "name": "D3NIM"
+  },
+  "dj goodboy (bk)": {
+   "bio": "Brooklyn-based DJ by way of Canada, co-founder of the [PLACEHOLDER] party series and a Honey's resident; percussive, cross-Atlantic sound with a dubby touch.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "techno",
+    "dub"
+   ],
+   "name": "dj goodboy (BK)"
+  },
+  "eamon harkin": {
+   "bio": "Irish-born, New York-based DJ and co-founder of Mister Saturday Night, Mister Sunday and the Nowadays club; debut album The Place Where We Live came out in 2026.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "techno",
+    "electro"
+   ],
+   "name": "Eamon Harkin"
+  },
+  "eden bekele": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "club",
+    "techno"
+   ],
+   "name": "EDEN BEKELE"
+  },
+  "equiss": {
+   "bio": "New Jersey-based DJ and producer, one half of the OSSX duo with Lektor Scopes and a Rinse FM resident; sets blend jungle, Jersey club, house and techno.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "jungle",
+    "jersey club",
+    "house",
+    "techno"
+   ],
+   "name": "EQUISS"
+  },
+  "hugo martinez": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "Hugo Martinez"
+  },
+  "isaac carter": {
+   "bio": "London DJ and producer bridging Chicago and Detroit house with a UK edge; Rinse FM resident and founder of the Ochi label.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "deep house",
+    "techno"
+   ],
+   "name": "Isaac Carter"
+  },
+  "lou isn't": {
+   "bio": "Brooklyn-based producer and 8Ball Radio host from St. Paul, Minnesota, pairing the groove of 2000s tech house with the warm stabs of '90s dub techno.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "tech house",
+    "dub techno"
+   ],
+   "name": "Lou Isn't"
+  },
+  "mutual identities": {
+   "bio": "Minneapolis hardware production and live-set duo of Nathan Graff and Ethan Sanders blending house, techno, Miami bass, electro and breaks.",
+   "checkedAt": "2026-11-22",
+   "followers": {
+    "instagram": 1329
+   },
+   "genres": [
+    "techno",
+    "house",
+    "electro",
+    "breaks"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/mutualidentities/"
+   },
+   "name": "Mutual Identities"
+  },
+  "sammy legs": {
+   "bio": "Producer and DJ shaped by the Berlin underground and the California desert, weaving house, breakbeat, halftime and minimal; releases on Trippy Ass Technologies and Slothacid.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "breakbeat",
+    "techno",
+    "minimal"
+   ],
+   "links": {
+    "soundcloud": "https://soundcloud.com/sammylegs"
+   },
+   "name": "Sammy Legs"
+  },
+  "sedef adas\u00ef": {
+   "bio": "Augsburg-based DJ and Panorama Bar resident who founded the queer HAMAM Nights party; fluid sets moving between house, acid, electro and techno.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "acid",
+    "electro",
+    "techno"
+   ],
+   "name": "Sedef Adas\u00ef"
+  },
+  "shanti": {
+   "bio": "Chicago-based DJ bringing deep, atmospheric techno to the underground, known for long all-night sets and genre-spanning selections.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno",
+    "electro"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/shantiism/",
+    "soundcloud": "https://soundcloud.com/shantievanti"
+   },
+   "name": "Shanti"
+  },
+  "yibing": {
+   "bio": "Brooklyn-based DJ and Lot Radio resident hosting the monthly Tranquilamente Radio show; percussive, dreamy selections spanning downtempo, dubwise electronics and left-field dance music.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "downtempo",
+    "dub",
+    "house"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/yibingg/",
+    "soundcloud": "https://soundcloud.com/yibingg"
+   },
+   "name": "Yibing"
+  },
+  "zorenlo": {
+   "bio": "Colombian-American producer, songwriter and vocalist fusing reggaeton with hardcore industrial techno; debut album PERREO inTECHNO came out via Rollup Vibe Conglomerate.",
+   "checkedAt": "2026-11-22",
+   "followers": {
+    "instagram": 3844
+   },
+   "genres": [
+    "reggaeton",
+    "industrial techno",
+    "techno"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/lorenzorenlo/"
+   },
+   "name": "zorenLo"
+  },
+  "banglaboy": {
+   "bio": "Bangladeshi producer on Black Book Records; released 'Tauba' with DJ LYAN and Dee MC on Desi Trill Music.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno",
+    "club",
+    "electronic"
+   ],
+   "name": "Banglaboy"
+  },
+  "dendi's dad": {
+   "bio": "Brooklyn-based Made to Order resident DJ; melodic house, UK garage and bass.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "uk garage",
+    "bass"
+   ],
+   "links": {
+    "soundcloud": "https://soundcloud.com/dendisdad"
+   },
+   "name": "Dendi's Dad"
+  },
+  "dipto": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "electronic",
+    "club"
+   ],
+   "name": "Dipto"
+  },
+  "dj ing": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "electronic",
+    "club"
+   ],
+   "name": "DJ Ing"
+  },
+  "doodie baby": {
+   "bio": "Brooklyn-based queer Indian DJ and streetwear artist.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "club",
+    "electronic"
+   ],
+   "name": "Doodie Baby"
+  },
+  "eshie": {
+   "bio": "London-based DJ with Punjabi roots; percussive, hypnotic club music; Voices Radio resident.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "club",
+    "percussive",
+    "electronic"
+   ],
+   "name": "Eshie"
+  },
+  "farooquebhai": {
+   "bio": "Toronto-based Bangladeshi alt-pop musician Issa Farooque; released the EP Halkar Upor Jhapsha in 2022.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "alt-pop",
+    "electronic"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/farooquebhai/"
+   },
+   "name": "Farooquebhai"
+  },
+  "lafhomme": {
+   "bio": "Montreal-based gender-neutral DJ; sets mix jungle and drum & bass with soul and R&B influences; played POP Montr\u00e9al and Jupiter Disco.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "jungle",
+    "drum and bass",
+    "electronic"
+   ],
+   "name": "LaFHomme"
+  },
+  "mazk\u00f8": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "MAZK\u00d8"
+  },
+  "miti": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "electronic",
+    "club"
+   ],
+   "name": "Miti"
+  },
+  "noizar": {
+   "bio": "Ukrainian DJ and longtime Closer resident now based in Amsterdam; founder of the Wicked Bass label; groove-driven sets blending broken rhythms with layered melodies.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno",
+    "house",
+    "electro"
+   ],
+   "name": "Noizar"
+  },
+  "private press": {
+   "bio": "Warsaw duo of Adam Brocki and Jan W\u00f3ycicki; 90s-sounding techno blending dub and breakbeats; releases on Hardgroove, Rekids and Indigo Aera.",
+   "checkedAt": "2026-11-22",
+   "followers": {
+    "instagram": 3731
+   },
+   "genres": [
+    "techno",
+    "dub techno",
+    "breakbeat"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/privatepress_/",
+    "spotify": "https://open.spotify.com/artist/6P7gZ6hLuBrxelDuq28bR8"
+   },
+   "name": "Private Press"
+  },
+  "rajid selim": {
+   "bio": "Founder of DOST, the media platform amplifying South Asian diaspora talent; DJ side project with sets opening for Anik Khan and Jai Wolf.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "club",
+    "electronic"
+   ],
+   "links": {
+    "instagram": "https://www.instagram.com/rajidselim/"
+   },
+   "name": "Rajid Selim"
+  },
+  "s2s": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "S2S"
+  },
+  "saintclair": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "techno"
+   ],
+   "name": "Saintclair"
+  },
+  "sarindipity": {
+   "bio": "Brooklyn-based Made to Order DJ; melodic house, UK garage and bass.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "house",
+    "uk garage",
+    "bass"
+   ],
+   "links": {
+    "soundcloud": "https://soundcloud.com/sarindipitysounds"
+   },
+   "name": "Sarindipity"
+  },
+  "sav": {
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "electronic",
+    "club"
+   ],
+   "name": "Sav"
+  },
+  "urkanmani": {
+   "bio": "Brooklyn-based Tamil DJ spinning electronic beats mixed with pop motifs.",
+   "checkedAt": "2026-11-22",
+   "genres": [
+    "electronic",
+    "club"
+   ],
+   "name": "Urkanmani"
+  },
+  "noctus": {
+   "name": "Noctus",
+   "genres": [
+    "techno"
+   ],
+   "checkedAt": "2026-11-22"
+  },
+  "seelie.": {
+   "name": "SEELIE.",
+   "genres": [
+    "techno"
+   ],
+   "bio": "Brooklyn-based DJ and co-founder of Vortex, a collective committed to the dance floor as a site of resistance and renewal; rooted in techno but unbound by genre",
+   "checkedAt": "2026-11-22"
   }
  }
 }
