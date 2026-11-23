@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T09:00:00-05:00",
+ "updatedAt": "2026-11-23T09:00:00-05:00",
  "artists": {
   "akua": {
    "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -17525,6 +17525,72 @@
    ],
    "bio": "Brooklyn-based DJ and co-founder of Vortex, a collective committed to the dance floor as a site of resistance and renewal; rooted in techno but unbound by genre",
    "checkedAt": "2026-11-22"
+  },
+  "guai er": {
+   "checkedAt": "2026-11-23",
+   "followers": {},
+   "genres": [
+    "techno",
+    "bass",
+    "eurodance"
+   ],
+   "links": {},
+   "name": "guai er"
+  },
+  "heather heart": {
+   "bio": "Brooklyn-born techno DJ; co-founded Groove Records, the first all-techno record store in the US, and the Under One Sky zine; Storm Rave pioneer alongside Frankie Bones and Adam X",
+   "checkedAt": "2026-11-23",
+   "followers": {},
+   "genres": [
+    "techno",
+    "acid"
+   ],
+   "links": {},
+   "name": "Heather Heart"
+  },
+  "jools palmer": {
+   "bio": "New York DJ; played Brooklyn's KUNST party in 2014 and the ResisDANCE fundraiser in October 2026",
+   "checkedAt": "2026-11-23",
+   "followers": {},
+   "genres": [
+    "house",
+    "acid"
+   ],
+   "links": {},
+   "name": "Jools Palmer"
+  },
+  "maxim": {
+   "checkedAt": "2026-11-23",
+   "followers": {},
+   "genres": [
+    "techno",
+    "bass",
+    "eurodance"
+   ],
+   "links": {},
+   "name": "maxim"
+  },
+  "ohm": {
+   "checkedAt": "2026-11-23",
+   "followers": {},
+   "genres": [
+    "techno",
+    "bass",
+    "eurodance"
+   ],
+   "links": {},
+   "name": "ohm"
+  },
+  "skadi": {
+   "checkedAt": "2026-11-23",
+   "followers": {},
+   "genres": [
+    "techno",
+    "bass",
+    "eurodance"
+   ],
+   "links": {},
+   "name": "skadi"
   }
  }
 }
