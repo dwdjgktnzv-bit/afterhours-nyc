@@ -1,47 +1,6 @@
 {
- "updatedAt": "2026-11-23T09:00:00-05:00",
+ "updatedAt": "2026-11-24T09:00:00-05:00",
  "events": [
-  {
-   "id": "ra-2574432",
-   "title": "Open Decks with STEEN & Village Hidden in Sound - Vinyl Exchange Night",
-   "lineup": "STEEN",
-   "artists": [
-    "STEEN"
-   ],
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "venue": "SILO",
-   "area": "Brooklyn",
-   "start": "2026-11-23T19:00:00-05:00",
-   "source": "ra",
-   "price": "",
-   "priceMin": null,
-   "url": "https://ra.co/events/2574432"
-  },
-  {
-   "id": "ra-2580775",
-   "title": "Naked Lunch x Diffuse Reality: Jorge Sanders b2b Kevin Thorpe, Constructible, N1NA, Jiale",
-   "lineup": "Jorge Sanders, Anthorp, Constructible, N1NA, Jiale",
-   "artists": [
-    "Jorge Sanders",
-    "Anthorp",
-    "Constructible",
-    "N1NA",
-    "Jiale"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Bossa Nova Civic Club",
-   "area": "Brooklyn",
-   "start": "2026-11-23T22:00:00-05:00",
-   "source": "ra",
-   "price": "",
-   "priceMin": null,
-   "url": "https://ra.co/events/2580775"
-  },
   {
    "id": "ra-2549164",
    "title": "Techno Yoga with Yaya Flows & Lychee",
@@ -201,6 +160,27 @@
    "price": "$30",
    "priceMin": 30,
    "url": "https://ra.co/events/2590453"
+  },
+  {
+   "id": "dice-xe8r7a",
+   "title": "Tony Guerra / Luquez b2b Maria Sifontes",
+   "lineup": "Tony Guerra, Luquez, Maria Sifontes",
+   "artists": [
+    "Tony Guerra",
+    "Luquez",
+    "Maria Sifontes"
+   ],
+   "genres": [
+    "minimal",
+    "techno"
+   ],
+   "venue": "SILO Brooklyn",
+   "area": "Brooklyn",
+   "start": "2026-11-25T22:00:00-05:00",
+   "source": "dice",
+   "price": "$45.32",
+   "priceMin": 45.32,
+   "url": "https://dice.fm/event/xe8r7a-tony-guerra-luquez-b2b-maria-sifontes-25th-nov-silo-brooklyn-brooklyn-tickets"
   },
   {
    "id": "ra-2549130",
@@ -423,7 +403,8 @@
     "Adriana Ruas",
     "Alfonsvs",
     "Jek",
-    "98dots"
+    "98dots",
+    "Annie Lew"
    ],
    "genres": [
     "techno"
@@ -435,27 +416,6 @@
    "price": "$28.33",
    "priceMin": 28.33,
    "url": "https://dice.fm/event/av8pwx-night-day-janina-peachlyfe-yazzus-adriana-ruas-alfonsvs-jek-b2b-98dots-27th-nov-signal-new-york-city-tickets"
-  },
-  {
-   "id": "dice-lqa8qp",
-   "title": "MIJA INVITES: MRD, FLASH GEA & SLOWDANCEXO",
-   "lineup": "Mija, MRD, Flash Gea, Slowdancexo",
-   "artists": [
-    "Mija",
-    "MRD",
-    "Flash Gea",
-    "Slowdancexo"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "The Chocolate Factory",
-   "area": "Queens",
-   "start": "2026-11-27T22:00:00-05:00",
-   "source": "dice",
-   "price": "$28.33",
-   "priceMin": 28.33,
-   "url": "https://dice.fm/event/lqa8qp-mija-invites-mrd-flash-gea-slowdancexo-27th-nov-the-chocolate-factory-new-york-city-tickets"
   },
   {
    "id": "eventbrite-2003559298797",
@@ -514,6 +474,28 @@
    "price": "$20",
    "priceMin": 20,
    "url": "https://ra.co/events/2549125"
+  },
+  {
+   "id": "ra-2571761",
+   "title": "Mija Invites: MRD, Flash Gea + slowdancexo",
+   "lineup": "Mija, MRD (NO), Flash Gea, slowdancexo",
+   "artists": [
+    "Mija",
+    "MRD (NO)",
+    "Flash Gea",
+    "slowdancexo"
+   ],
+   "genres": [
+    "techno",
+    "trance"
+   ],
+   "venue": "The Chocolate Factory",
+   "area": "Brooklyn",
+   "start": "2026-11-27T22:00:00-05:00",
+   "source": "ra",
+   "price": "$35",
+   "priceMin": 35,
+   "url": "https://ra.co/events/2571761"
   },
   {
    "id": "ra-2575359",
@@ -581,15 +563,38 @@
    "url": "https://ra.co/events/2585716"
   },
   {
+   "id": "ra-2591843",
+   "title": "333 House presents: Mariin",
+   "lineup": "Mariin, Very J, J. Richards, Rana Iravani",
+   "artists": [
+    "Mariin",
+    "Very J",
+    "J. Richards",
+    "Rana Iravani"
+   ],
+   "genres": [
+    "minimal",
+    "techno"
+   ],
+   "venue": "TBA - 333",
+   "area": "Brooklyn",
+   "start": "2026-11-27T22:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2591843"
+  },
+  {
    "id": "dice-l8p2rw",
    "title": "Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag",
-   "lineup": "Anthony Linell, Jin Synth, Trailcam, 320, R Gamble & Scallywag",
+   "lineup": "Anthony Linell, Jin Synth, Trailcam, 320, R Gamble, Scallywag",
    "artists": [
     "Anthony Linell",
     "Jin Synth",
     "Trailcam",
     "320",
-    "R Gamble & Scallywag"
+    "R Gamble",
+    "Scallywag"
    ],
    "genres": [
     "techno"
@@ -681,22 +686,6 @@
    "price": "Free",
    "priceMin": 0,
    "url": "https://ra.co/events/2588854"
-  },
-  {
-   "id": "dice-ekgrq2",
-   "title": "Sounds So Dangerous (Free Rave and Arcade Pop Up)",
-   "lineup": "",
-   "artists": [],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Danger Danger",
-   "area": "Brooklyn",
-   "start": "2026-11-28T21:00:00-05:00",
-   "source": "dice",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://dice.fm/event/ekgrq2-sounds-so-dangerous-free-rave-and-arcade-pop-up-28th-nov-danger-danger-new-york-city-tickets"
   },
   {
    "id": "ra-2583211",
@@ -804,10 +793,11 @@
   {
    "id": "dice-l8726p",
    "title": "Space 92 *3hr Set* with Charles D",
-   "lineup": "Space 92, Charles D",
+   "lineup": "Space 92, Charles D, Medina",
    "artists": [
     "Space 92",
-    "Charles D"
+    "Charles D",
+    "Medina"
    ],
    "genres": [
     "techno"
@@ -888,6 +878,26 @@
    "url": "https://ra.co/events/2588786"
   },
   {
+   "id": "ra-2591852",
+   "title": "333 House presents: Caim",
+   "lineup": "Caim, Lorenzo Slider",
+   "artists": [
+    "Caim",
+    "Lorenzo Slider"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "TBA - 333",
+   "area": "Brooklyn",
+   "start": "2026-11-28T22:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2591852"
+  },
+  {
    "id": "shotgun-galcher-lustwerk-live-ace-mo-lauren-flax-devoye",
    "title": "Galcher Lustwerk (Live), Acemo, Lauren Flax, Devoye",
    "lineup": "Galcher Lustwerk, Acemo, Lauren Flax, Devoye",
@@ -898,7 +908,6 @@
     "Devoye"
    ],
    "genres": [
-    "electro",
     "techno"
    ],
    "venue": "Signal",
@@ -944,43 +953,6 @@
    "price": "",
    "priceMin": null,
    "url": "https://ra.co/events/2559684"
-  },
-  {
-   "id": "dice-nvrq8q",
-   "title": "The Atrium: Eli Escobar, Jen Cardini",
-   "lineup": "Eli Escobar, Jen Cardini",
-   "artists": [
-    "Eli Escobar",
-    "Jen Cardini"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Public Records",
-   "area": "Brooklyn",
-   "start": "2026-11-29T16:00:00-05:00",
-   "source": "dice",
-   "price": "$21.63",
-   "priceMin": 21.63,
-   "url": "https://dice.fm/event/nvrq8q-the-atrium-eli-escobar-jen-cardini-29th-nov-public-records-new-york-tickets"
-  },
-  {
-   "id": "shotgun-feedbk-with-special-guest",
-   "title": "Feedbk With Special Guest",
-   "lineup": "Adree",
-   "artists": [
-    "Adree"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "feedbk",
-   "area": "Brooklyn",
-   "start": "2026-11-29T19:00:00-05:00",
-   "source": "shotgun",
-   "price": "Free",
-   "priceMin": 0,
-   "url": "https://shotgun.live/en/events/feedbk-with-special-guest"
   },
   {
    "id": "ra-2575514",
@@ -1295,10 +1267,10 @@
   {
    "id": "dice-2wayeo",
    "title": "Club Night: Linska with DREYA V",
-   "lineup": "Linska, DREYA V",
+   "lineup": "Linska, Dreya V",
    "artists": [
     "Linska",
-    "DREYA V"
+    "Dreya V"
    ],
    "genres": [
     "techno"
@@ -1323,6 +1295,7 @@
     "Mariposa"
    ],
    "genres": [
+    "electro",
     "techno"
    ],
    "venue": "Signal",
@@ -1350,24 +1323,6 @@
    "price": "$63.66",
    "priceMin": 63.66,
    "url": "https://dice.fm/event/ekgb2w-mrak-4th-dec-pacha-new-york-new-york-city-tickets"
-  },
-  {
-   "id": "eventbrite-2000034543158",
-   "title": "Refuge Friday: Skream [Open To Close]",
-   "lineup": "Skream",
-   "artists": [
-    "Skream"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Refuge",
-   "area": "Brooklyn",
-   "start": "2026-12-04T22:00:00-05:00",
-   "source": "eventbrite",
-   "price": "$25",
-   "priceMin": 25,
-   "url": "https://www.eventbrite.com/e/refuge-friday-skream-open-to-close-tickets-2000034543158"
   },
   {
    "id": "ra-2471768",
@@ -1583,6 +1538,7 @@
     "Maceo Plex"
    ],
    "genres": [
+    "house",
     "techno"
    ],
    "venue": "Pacha New York",
@@ -1697,29 +1653,6 @@
    "url": "https://ra.co/events/2581881"
   },
   {
-   "id": "dice-bvldwg",
-   "title": "Oshana, Maxime dB, Hugo Martinez, Bella Mutino, Clovis b2b Matt Foley",
-   "lineup": "Oshana, Maxime dB, Hugo Martinez, Bella Mutino, Clovis, Matt Foley",
-   "artists": [
-    "Oshana",
-    "Maxime dB",
-    "Hugo Martinez",
-    "Bella Mutino",
-    "Clovis",
-    "Matt Foley"
-   ],
-   "genres": [
-    "techno"
-   ],
-   "venue": "Signal",
-   "area": "Brooklyn",
-   "start": "2026-12-05T22:00:00-05:00",
-   "source": "dice",
-   "price": "$28.33",
-   "priceMin": 28.33,
-   "url": "https://dice.fm/event/bvldwg-maxime-db-hugo-martinez-bella-mutino-oshana-clovis-b2b-matt-foley-5th-dec-signal-new-york-city-tickets"
-  },
-  {
    "id": "eventbrite-2003559518454",
    "title": "Refuge Saturday: Stacey Pullen, Isaac Carter, Jacky Sommer & Surprise Guest",
    "lineup": "Stacey Pullen, Isaac Carter, Jacky Sommer",
@@ -1830,6 +1763,29 @@
    "url": "https://ra.co/events/2584253"
   },
   {
+   "id": "shotgun-galcher-lustwerk-live-ace-mo-lauren-flax-devoye-2",
+   "title": "Oshana, Maxime Db, Hugo Martinez, Bella Mutino + More",
+   "lineup": "Oshana, Maxime DB, Hugo Martinez, Bella Mutino, Clovis, Matt Foley",
+   "artists": [
+    "Oshana",
+    "Maxime DB",
+    "Hugo Martinez",
+    "Bella Mutino",
+    "Clovis",
+    "Matt Foley"
+   ],
+   "genres": [
+    "techno"
+   ],
+   "venue": "Signal",
+   "area": "Brooklyn",
+   "start": "2026-12-05T22:00:00-05:00",
+   "source": "shotgun",
+   "price": "$28.38",
+   "priceMin": 28.38,
+   "url": "https://shotgun.live/en/events/galcher-lustwerk-live-ace-mo-lauren-flax-devoye-2"
+  },
+  {
    "id": "eventbrite-2004484033704",
    "title": "DOST ELSEWHERE TAKEOVER",
    "lineup": "Zainab, Banglaboy, DJ Ing, Rajid Selim, Arini, Dipto",
@@ -1866,6 +1822,7 @@
     "Traumer"
    ],
    "genres": [
+    "minimal",
     "techno"
    ],
    "venue": "Location TBA",
@@ -1956,6 +1913,26 @@
    "price": "Free",
    "priceMin": 0,
    "url": "https://ra.co/events/2590730"
+  },
+  {
+   "id": "ra-2577619",
+   "title": "Open Decks with STEEN & Surfing DJs - Producer Night",
+   "lineup": "STEEN, SurfingDJs",
+   "artists": [
+    "STEEN",
+    "SurfingDJs"
+   ],
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "venue": "SILO",
+   "area": "Brooklyn",
+   "start": "2026-12-08T19:00:00-05:00",
+   "source": "ra",
+   "price": "",
+   "priceMin": null,
+   "url": "https://ra.co/events/2577619"
   }
  ]
 }

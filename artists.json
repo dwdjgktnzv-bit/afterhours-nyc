@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T09:00:00-05:00",
+ "updatedAt": "2026-11-24T09:00:00-05:00",
  "artists": {
   "akua": {
    "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -17591,6 +17591,39 @@
    ],
    "links": {},
    "name": "skadi"
+  },
+  "mrd (no)": {
+   "name": "MRD (NO)",
+   "genres": [
+    "techno",
+    "industrial",
+    "trance",
+    "ebm"
+   ],
+   "bio": "Norwegian producer Kent Tonning based in Oslo; blends punk, industrial and trance influences; debut album L\u00f8vehjerte came out on Live From Earth in 2023.",
+   "followers": {
+    "instagram": 34552
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/mrd_of_1988",
+    "soundcloud": "https://soundcloud.com/mrdmrdmrd",
+    "bandcamp": "https://mrdof1988.bandcamp.com"
+   },
+   "checkedAt": "2026-11-24"
+  },
+  "mariin": {
+   "name": "Mariin",
+   "genres": [
+    "techno",
+    "minimal"
+   ],
+   "bio": "Romanian DJ and producer from Bucharest's underground club scene.",
+   "followers": {},
+   "links": {
+    "soundcloud": "https://soundcloud.com/mariin",
+    "facebook": "https://www.facebook.com/mariinsound"
+   },
+   "checkedAt": "2026-11-24"
   }
  }
 }
