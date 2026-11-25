@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T09:00:00-05:00",
+ "updatedAt": "2026-11-25T09:00:00-05:00",
  "artists": {
   "akua": {
    "bio": "Ghanaian-American DJ from Brooklyn's underground, now Berlin-based; raw groovy techno, machine funk, acid and industrial; Discwoman collective; played Berghain, Dekmantel and Draaimolen",
@@ -17624,6 +17624,36 @@
     "facebook": "https://www.facebook.com/mariinsound"
    },
    "checkedAt": "2026-11-24"
+  },
+  "uprfxr": {
+   "name": "UPRFXR",
+   "genres": [
+    "electro"
+   ],
+   "bio": "New York-based DJ; resident DJ at Exile in Brooklyn and on lights at Paragon; electro",
+   "followers": {
+    "instagram": 1868
+   },
+   "links": {
+    "instagram": "https://www.instagram.com/uprfxr/"
+   },
+   "checkedAt": "2026-11-25"
+  },
+  "lemar": {
+   "name": "LemAr",
+   "genres": [
+    "minimal techno"
+   ],
+   "checkedAt": "2026-11-25"
+  },
+  "orazio rispo": {
+   "name": "Orazio Rispo",
+   "genres": [
+    "techno",
+    "house"
+   ],
+   "bio": "New York native DJ and longtime ReSolute resident; house and techno selector",
+   "checkedAt": "2026-11-25"
   }
  }
 }
